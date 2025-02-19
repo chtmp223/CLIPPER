@@ -1,15 +1,15 @@
 # ✂️ CLIPPER: Compression enables long-context synthetic data generation
 
-[![arXiV](https://img.shields.io/badge/arxiv-link-red)](https://arxiv.org/abs/2406.19371) [![Website](https://img.shields.io/badge/website-link-purple)](https://chtmp223.github.io/suri) [![Dataset](https://img.shields.io/badge/dataset-huggingface-yellow)](https://huggingface.co/datasets/chtmp223/suri/) [![Suri-I-ORPO](https://img.shields.io/badge/iorpo-model-green)](https://huggingface.co/chtmp223/suri-i-orpo) [![Suri-SFT](https://img.shields.io/badge/sft-model-blue)](https://huggingface.co/chtmp223/suri-sft)
+[![arXiV](https://img.shields.io/badge/arxiv-link-red)](https://arxiv.org/abs/2406.19371) [![Website](https://img.shields.io/badge/website-link-purple)](https://chtmp223.github.io/CLIPPER/) [![Dataset](https://img.shields.io/badge/dataset-huggingface-yellow)](https://huggingface.co/datasets/chtmp223/CLIPPER) [![Models](https://img.shields.io/badge/models-huggingface-green)](https://huggingface.co/collections/chtmp223/clipper-67b60b1edbfa3407b571a827) 
 
-![Pipeline Overview](assets/img/pipeline.png)
+This repository hosts the code for our paper, [CLIPPER: Compression enables long-context synthetic data generation](). 
 
-This repository hosts the code and data for our paper, [CLIPPER: Compression enables long-context synthetic data generation](). 
+![Pipeline Overview](assets/img/pipeline.jpg)
 
-We release ✂️ CLIPPER, a compression-based approach to generating instruction-following data. CLIPPER works by compressing long-form documents (e.g., books) into smaller, information-rich representations (e.g. chapter outlines), which are then used to create grounded instructions for tasks like *narrative claim verification*.
+✂️ CLIPPER is a compression-based approach to generating instruction-following data. CLIPPER works by compressing long-form documents (e.g., books) into smaller, information-rich representations (e.g. chapter outlines), which are then used to create grounded instructions for tasks like *narrative claim verification*.
 
 ## 📣 Updates
-- **[2025-01-20]**: Dataset and models for CLIPPER are now available here: [https://huggingface.co/collections/chtmp223/clipper-67b60b1edbfa3407b571a827](https://huggingface.co/collections/chtmp223/clipper-67b60b1edbfa3407b571a827). 
+- **[2025-02-19]**: Dataset and models for CLIPPER are now available as a Huggingface collection: [link](https://huggingface.co/collections/chtmp223/clipper-67b60b1edbfa3407b571a827). 
 
 
 ## 📦 Using CLIPPER
@@ -36,44 +36,39 @@ We release ✂️ CLIPPER, a compression-based approach to generating instructio
 .
 ├── README.md
 ├── assets
-│   ├── img
-│   └── styles
 ├── data
-├── eval
-│   ├── automatic
-│   ├── human
-│   └── inference
-├── ft
-│   ├── README.md
-│   ├── deepspeed_zero3.yaml
-│   ├── i-orpo
-│   ├── lib
-│   │   ├── alignment_mod
-│   │   └── trl_mod
-│   └── sft
-├── index.html
+    ├── books 
+    ├── outputs
+    └── wp
 ├── prompts
-├── requirements.txt
-└── utils.py
+└── scripts
+    ├── clipper
+    ├── eval
+    └── wp
 ```
-- `data` contains `b3.py`, which can be used to reconstruct the gold responses of the books3 subset.
-- `eval` contains: 
-    - `automatic`, which includes code to compute the ranking accuracy metric. 
-    - `human`, which includes the XML code for the human evaluation interfaces. 
-    - `inference`, which includes code to do inference with the fine-tuned models using either Transformers Huggingface or vLLM.
-- `ft` contains code to fine-tune the models using I-ORPO or SFT: 
-    - `i-orpo` directory includes `orpo.yaml`, which defines the training hyperparameters; `run_orpo.py`, which contains the training code; and `run_orpo.sh`, which consolidates the training process into a single executable command.
-    - `sft` directory includes `sft.yaml`, which defines the training hyperparameters; `run_sft.py`, which contains the training code; and `run_sft.sh`, which consolidates the training process into a single executable command.
-    - `deepspeed_zero3.yaml` contains the hyperparameters for deepspeed zero3. 
+- `data` contains all books as well as output chapter outlines and summaries used in the paper.
+    - `books` contains all books used in the paper. Each subdirectory contains the segmented chapters of a book. The corresponding full book is also available in the `books` directory. 
+        - `gutenberg.csv` contains the metadata for the Gutenberg books used in the paper. 
+    - `outputs` contains all output chapter outlines and summaries used in the paper. Each subdirectory contains the output for a book, including claims, summaries, and chapter outlines. 
+    - `wp` contains the writingprompt raw data (cleaned) and the corresponding generated claims. 
+- `scripts` contains code to fine-tune the models using I-ORPO or SFT: 
+    - `inference.py` contains code to do inference with the fine-tuned models on the test set. 
 - `prompts` contains all prompts used in the paper. 
 
 
-### Dataset and Models
-- The dataset is available on Huggingface: [https://huggingface.co/datasets/chtmp223/suri/](https://huggingface.co/datasets/chtmp223/suri/). 
+### Datasets & Models
+- Datasets and models are available in this Huggingface collection: [https://huggingface.co/collections/chtmp223/clipper-67b60b1edbfa3407b571a827](https://huggingface.co/collections/chtmp223/clipper-67b60b1edbfa3407b571a827). 
+- We release both CLIPPER and WritingPrompts datasets. 
 
-### Finetuning code
-- 
 
+### Finetuning
+- [https://github.com/princeton-nlp/ProLong](https://github.com/princeton-nlp/ProLong): Code to finetune Llama-based models on long sequences.  
+- [https://github.com/Qihoo360/360-LLaMA-Factory](https://github.com/Qihoo360/360-LLaMA-Factory): Code to finetune Qwen on long sequences. 
+
+
+### Evaluation 
+- Code to run models on our test set is available in the `scripts/eval/inference.py` directory. 
+- We use [NoCha](https://github.com/marzenakrp/nocha/), [Language Model Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness), and [HELMET](https://github.com/princeton-nlp/HELMET) to obtain results for external benchmarks. 
 
 ## 📜 Citation
 ```
