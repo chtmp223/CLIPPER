@@ -1,0 +1,11 @@
+Nan Cutler, a spirited fourteen-year-old, is introduced as a headstrong and independent girl living with Delia, a long-time family servant, while her father is away in India. Nan's father, Mr. Cutler, has left her in Delia's care, but her unruly behavior has led to criticism from the neighbors. Despite this, Nan is a good-hearted girl who loves adventure, climbing trees, and playing with boys, which often lands her in trouble.
+
+Her life takes a turn when Miss Blake, a governess, arrives to provide guidance and education. Initially resistant, Nan gradually warms to Miss Blake, who proves to be kind and understanding. Miss Blake has traveled widely and is full of stories and experiences that fascinate Nan. Despite some initial resistance, Nan begins to appreciate her studies and the discipline Miss Blake brings into her life.
+
+The story unfolds with Nan's adventures and misadventures, including a sleigh ride that goes awry, leading to a realization of the importance of responsibility and the consequences of her actions. Through these experiences, Nan matures, learning to balance her spirited nature with the expectations of those around her.
+
+As the narrative progresses, Nan's relationship with Miss Blake deepens. Miss Blake reveals herself to be Isabel Severance, a close friend of Nan's deceased mother, Florence. Isabel had left years ago to avoid a conflict of interest regarding a shared love with Nan's father. She returned to care for Nan out of love and duty, assuming the role of governess to remain close to her.
+
+The climax of the story comes with the unexpected return of Mr. Cutler, who was believed to be dead. His arrival brings joy and relief to Nan, who had been struggling with the loss of her father. The reunion also reveals the long-hidden love between Mr. Cutler and Isabel, suggesting a future together as a family.
+
+The novel concludes on a hopeful note, with Nan having grown into a more thoughtful and responsible young woman, enriched by the love and care of Isabel and the return of her father. The story emphasizes themes of love, responsibility, and the importance of family and mentorship in shaping a young person's character.

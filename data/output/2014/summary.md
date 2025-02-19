@@ -1,0 +1,15 @@
+In a grimy but well-kept house on Marylebone Road, London, Robert Bunting and his wife, Ellen, are struggling with financial difficulties. Both have a background in domestic service, and their respectable appearance belies their precarious situation. They are on the brink of poverty, having sold many of their belongings, and are considering asking Bunting's late wife's aunt for help. Their only hope is a lodger, whose rent could provide some financial relief.
+
+Their fortunes change when Mr. Sleuth, a peculiar but polite gentleman, arrives seeking lodgings. He pays a generous rent in advance, alleviating their immediate financial worries. However, Mr. Sleuth is eccentric; he dislikes noise, has a strict routine, and spends much of his time studying the Bible and Cruden’s Concordance. He also has a peculiar aversion to women and a strict vegetarian diet.
+
+As Mr. Sleuth settles in, a series of gruesome murders attributed to "The Avenger" grips London. The victims are all women, and the murders are committed with a distinctive weapon, leaving behind a triangular piece of grey paper with the words "The Avenger" written in red ink. Bunting and Ellen follow the news with a mix of horror and fascination, especially since Bunting’s friend, Joe Chandler, a detective, is involved in the investigation.
+
+Ellen becomes increasingly uneasy as she notices Mr. Sleuth’s odd behavior, including his habit of going out late at night and returning in the early hours. Her anxiety grows when she discovers that one of Mr. Sleuth’s suits is missing and that he has a mysterious bag she cannot find. Despite her suspicions, she continues to serve him, torn between fear and the need to maintain their financial stability.
+
+Joe Chandler frequently visits the Buntings, partly due to his interest in their daughter, Daisy, who is staying with them temporarily due to an outbreak of scarlet fever at her residence. Daisy and Joe’s budding relationship provides a brief respite from the tension surrounding the murders.
+
+As the investigation intensifies, the police circulate a description of The Avenger, which bears an uncanny resemblance to Mr. Sleuth. Ellen is terrified but remains silent, fearing the consequences of exposing her lodger. Her fears are compounded when Joe reveals that the police have found a clue—a peculiar knife believed to be the murder weapon.
+
+Despite her fears, Ellen is relieved when Mr. Sleuth suddenly leaves the house, seemingly aware of the danger he is in. His departure coincides with the cessation of the murders, and Ellen is left with a mix of relief and dread, haunted by the possibility that she harbored a murderer.
+
+The story ends with the Buntings finding a new sense of stability and normalcy. They are employed by an old lady, and Joe and Daisy’s relationship continues to blossom. The mystery of The Avenger remains unsolved, with only a few cryptic clues left behind, including a box of sovereigns sent anonymously to a charity and a knife found in Regent’s Park. Ellen remains haunted by the memory of Mr. Sleuth, but life goes on, leaving the chilling events behind as an unsolved enigma.

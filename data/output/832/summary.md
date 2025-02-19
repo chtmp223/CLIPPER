@@ -1,0 +1,15 @@
+In the days of King Henry II of England, Robin Hood, originally Robert Fitzooth, was born to Hugh Fitzooth, the Head Forester, and his wife in Lockesley town. Robin grew up loving the forest and learning archery from his father. Despite his mother's hopes for a courtly life, Robin was most content with his bow and the greenwood. His closest companions were his cousin Will Gamewell and Marian Fitzwalter, daughter of the Earl of Huntingdon. Rumors whispered that Robin's father was the rightful Earl, defrauded by Marian's father. Despite this enmity, Robin and Marian remained friends.
+
+Robin's peaceful life shattered when the Sheriff of Nottingham, the Bishop of Hereford, and Marian's father conspired against his father, leading to his arrest and death in prison. Robin's mother died soon after, leaving him an orphan. Seeking refuge with his uncle, Squire George of Gamewell, Robin grew into a brooding youth, longing for his lost forest life.
+
+At nineteen, Robin seized an opportunity to participate in an archery contest in Nottingham, hoping to win a place among the King's Foresters. On his way, he encountered the new Head Forester, who mocked him. In a fit of rage, Robin killed a King's deer and, in self-defense, the Forester. This act made him an outlaw.
+
+Robin fled into Sherwood Forest, where he met the widow's sons, also outlaws. They swore loyalty to him, and Robin vowed to win the contest in Nottingham. Disguised, he won the golden arrow and crowned Maid Marian as the queen of the day, further inciting the Sheriff's wrath.
+
+In Sherwood, Robin gathered a band of loyal followers, including Little John, Will Scarlet, and Friar Tuck. They lived by robbing the rich and aiding the poor, gaining the love of the common folk. Their exploits reached Queen Eleanor, who invited Robin to compete against the King's archers. Disguised again, Robin and his men won the contest, earning the Queen's favor and a temporary amnesty.
+
+Despite their victory, the Sheriff continued to pursue Robin. In one of their encounters, Robin met Sir Richard of the Lea, a knight in debt to the Bishop of Hereford. Robin and his men helped Sir Richard, who later repaid them by aiding in the rescue of Little John from the gallows.
+
+Robin's fame grew, and even King Richard, upon his return from the Crusades, sought to meet him. Disguised as a Black Knight, the King visited Sherwood and was impressed by Robin's leadership and the loyalty of his men. King Richard pardoned Robin and his band, appointing them as Royal Foresters and making Robin the Earl of Huntingdon. Robin married Maid Marian, and they lived happily, serving the King.
+
+Years later, after Marian's death and King Richard's absence, Robin fell out of favor with Prince John and returned to Sherwood. Despite King John's attempts to capture him, Robin continued to aid the poor. Eventually, weakened by a wound, Robin sought refuge at Kirklees Abbey, where he was betrayed by the prioress. Before his death, he shot one last arrow, choosing the spot for his grave. His legacy lived on in the hearts of those who cherished freedom and justice.

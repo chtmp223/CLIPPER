@@ -1,0 +1,11 @@
+The story begins with a group of siblings—Cyril, Anthea, Robert, Jane, and their baby brother, affectionately called the Lamb—who discover a magical creature called a Psammead, or Sand-fairy, while playing in a sand-pit. The Psammead has the power to grant them one wish each day, but the wishes only last until sunset. Excited by the possibilities, the children eagerly begin making wishes, though they soon learn that their desires often lead to unexpected and troublesome results.
+
+Their first wish is to be "beautiful as the day," but this causes them to be unrecognizable, even to their own family, leading to a series of misunderstandings. The next day, they wish for wealth, but the gold coins they receive cannot be spent because adults see them as fake. Another wish for wings allows them to fly, but they get stuck on a church tower and have to find a way down before sunset.
+
+As the days pass, the children continue to make wishes, each bringing its own set of challenges and adventures. They wish for a castle, which leads to a siege by medieval knights, and they must defend themselves using their wits. When Robert wishes to be bigger than the baker's boy, he becomes a giant, causing chaos in the village and drawing unwanted attention.
+
+One of their most significant adventures occurs when Cyril inadvertently wishes for their baby brother, the Lamb, to grow up. The Lamb transforms into an adult, causing a panic as the children scramble to manage the situation and prevent their parents from discovering the truth. They learn that while the Psammead's magic can grant their wishes, it cannot solve the problems those wishes create.
+
+Throughout their adventures, the children grapple with the consequences of their wishes, learning valuable lessons about responsibility, the importance of family, and the unpredictability of magic. Despite the chaos, they remain a close-knit group, supporting each other through the challenges they face.
+
+In the end, the Psammead becomes weary of granting wishes and the children realize the importance of appreciating what they have. They decide to stop making wishes and instead focus on their everyday lives, cherishing their family and the simple joys of childhood. The story concludes with the children reflecting on their experiences, having grown wiser and more thoughtful from their magical adventures.

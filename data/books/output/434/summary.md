@@ -1,0 +1,11 @@
+The story unfolds with a middle-aged spinster, Rachel Innes, who decides to spend the summer at a country house named Sunnyside, along with her niece Gertrude and nephew Halsey. Rachel's peaceful retreat is quickly disrupted by a series of mysterious events, including the murder of Arnold Armstrong, the son of the house's owner, Paul Armstrong. The narrative is set in a small town with Sunnyside at its center, surrounded by the Greenwood Club and other estates.
+
+Rachel's life is further complicated by the disappearance of her nephew Halsey and his friend Jack Bailey, a bank cashier implicated in a financial scandal. Halsey's disappearance occurs shortly after Arnold Armstrong is found dead in the house, leading to suspicion and tension among the characters. Gertrude, who is engaged to Jack Bailey, is also implicated due to her presence in the house on the night of the murder.
+
+The story is full of suspense as Rachel, along with the detective Mr. Jamieson, attempts to unravel the mystery. They discover several clues, including a pearl cuff-link and a revolver, which add layers to the investigation. The plot thickens with the revelation of a secret room in the house, hidden behind a fireplace, believed to contain missing bank securities linked to the financial scandal.
+
+As the investigation progresses, it is revealed that Paul Armstrong faked his death in California to escape with stolen money. His accomplice, Doctor Walker, is suspected of being involved in the conspiracy. The narrative also introduces the character of Nina Carrington, whose mysterious presence and subsequent death add to the intrigue.
+
+Rachel's determination to uncover the truth leads her to discover that the secret room was indeed used to hide the stolen money. The story concludes with the capture of Paul Armstrong, who had been living under an alias, and the resolution of Halsey's disappearance. Halsey had been abducted but was eventually found alive in a hospital.
+
+Throughout the story, Rachel's character evolves from a city-dwelling spinster to a proactive detective, driven by her affection for her family and her desire for justice. The narrative explores themes of deception, family loyalty, and the quest for truth, set against the backdrop of a seemingly idyllic countryside that harbors dark secrets.

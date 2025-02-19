@@ -1,0 +1,13 @@
+In the narrative, Vic Gregg, a rugged miner in the mountains, faces a profound struggle with loneliness and isolation as he works tirelessly to earn enough money to marry Betty Neal. Vic's solitary lifestyle begins to take a toll on him, leading to a deep sense of longing and homesickness. As spring arrives, he decides to take a break from his laborious routine and head to Alder, where Betty resides, in hopes of rekindling their relationship.
+
+Upon reaching Alder, Vic finds himself embroiled in a complex web of emotions and misunderstandings. He discovers that Betty has been spending time with Blondy Hansen, sparking jealousy and leading to a confrontation. This altercation escalates when Vic shoots and kills Blondy in a moment of rage, setting off a chain of events that force him to flee the town.
+
+Vic's flight from Alder is marked by a relentless pursuit by Sheriff Pete Glass and his posse. As Vic navigates through the treacherous terrain of the mountains, he encounters Dan Barry, a mysterious and legendary figure known for his uncanny connection with animals and his fearsome reputation. Barry, along with his black stallion Satan and wolf-dog Black Bart, aids Vic in his escape, offering him refuge and care for his injuries.
+
+During his stay with Barry, Vic witnesses the unique and almost supernatural bond between Barry, his daughter Joan, and the animals. Joan, a child with a wild spirit, shares her father's untamed nature, which concerns her mother, Kate. Kate fears that Joan will grow up to inherit Dan's wildness and is determined to provide her with a more conventional upbringing.
+
+As the narrative unfolds, tensions rise between Dan and Kate over Joan's future. Kate's desperation to keep Joan away from Dan's influence leads to a poignant struggle between her love for Dan and her desire to protect their daughter. Meanwhile, Vic's presence in the household brings an unsettling element, as Kate senses the danger he represents to Dan and their family.
+
+The story reaches its climax when Dan, sensing the approach of trouble, decides to take matters into his own hands. Despite Kate's pleas, he sets out to lead the posse away from Vic, knowing full well the risks involved. This selfless act highlights Dan's complex character, a man torn between his wild nature and his deep love for his family.
+
+Ultimately, the narrative explores themes of love, loyalty, and the struggle between civilization and the call of the wild. Dan Barry, with his enigmatic presence, becomes a symbol of this conflict, embodying both the allure and the danger of a life untamed by societal norms. The story closes with a sense of inevitability, as Dan rides off into the wilderness, leaving behind a family caught between two worlds.

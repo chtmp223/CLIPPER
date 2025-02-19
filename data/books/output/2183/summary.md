@@ -1,0 +1,19 @@
+The narrative begins with the protagonist discovering an advertisement for a yacht named "Rogue," which seems to be an ideal opportunity for a family adventure. Ethelbertha, the protagonist's wife, is enthusiastic about the trip, although her primary concern is whether the dressmaker can finish her yachting costume in time. The plan is for the couple to spend some time alone on the yacht, as their honeymoon had been somewhat curtailed. The protagonist arranges to hire the yacht for a fortnight, keeping the current skipper, Mr. Goyles, who is recommended by Mr. Pertwee, the agent.
+
+The protagonist travels to Harwich to meet Mr. Goyles, who is described as a stout man with a fatherly demeanor. They discuss the trip, which involves visiting the Dutch islands and then creeping up to Norway. Mr. Goyles appears enthusiastic and suggests a substantial amount of provisions, which the protagonist finds surprising. However, he agrees to the skipper's suggestions, despite feeling that he is providing for the crew for the winter.
+
+The protagonist and Ethelbertha board the yacht on Monday, dressed in their yachting attire. Mr. Goyles informs them that lunch is ready, and the protagonist acknowledges the cook's capabilities. The plan is to weigh anchor after lunch, but the crew seems to be taking their time. Eventually, Captain Goyles explains that they cannot set sail due to the wind blowing off the land, which he considers dangerous.
+
+Over the next few days, the yacht remains anchored due to unfavorable winds, and the couple spends their time in Harwich. Ethelbertha grows increasingly frustrated with the situation, and the protagonist reflects on the monotony of life at anchor. On Friday, the wind changes direction, but Captain Goyles still deems it unsafe to sail. The protagonist becomes exasperated with the situation and questions the yacht's seaworthiness.
+
+Finally, the protagonist encounters two yachting friends who take charge of the yacht, allowing the couple to escape Harwich. They sail to Aldborough and then to Yarmouth, where the protagonist decides to abandon the yacht. The stores are sold by auction on Yarmouth sands, and the protagonist returns to London by train, having lost faith in yachting and skippers like Mr. Goyles.
+
+The narrative then shifts to a discussion among the protagonist, Harris, and George about planning a holiday. They consider various options, including a walking tour in Scotland and a bicycle tour through the Black Forest in Germany. Harris suggests the Black Forest, and the group agrees to a bicycle tour, despite George's concern about the uphill terrain.
+
+In preparation for the trip, the protagonist reflects on the challenges of packing and organizing the journey. Harris and the protagonist discuss the tandem bicycle they plan to use, with Harris expressing reluctance to carry George all the way. They also consider the logistics of sending their luggage ahead to each destination.
+
+The group sets off on their adventure, encountering various humorous situations along the way, including misunderstandings with foreign languages and cultural differences. They navigate through Germany, experiencing the local customs and landscapes, while also dealing with the challenges of traveling together.
+
+Throughout the journey, the narrative is interspersed with anecdotes and reflections on the nature of travel, the quirks of different cultures, and the dynamics of friendship and marriage. The protagonist's dry wit and observational humor provide a light-hearted commentary on the ups and downs of their adventure.
+
+Ultimately, the narrative captures the essence of a leisurely and often comical exploration of foreign lands, highlighting the joys and frustrations of travel, as well as the enduring bonds of friendship and companionship.

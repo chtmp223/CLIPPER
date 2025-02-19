@@ -1,0 +1,17 @@
+In the ancient city of London, during the sixteenth century, two boys were born on the same day, one to a poor family named Canty and the other to the royal family of Tudor. The Canty family, already burdened with poverty, did not want their son, Tom, while the entire nation rejoiced at the birth of Edward Tudor, the Prince of Wales. As Tom grew up in Offal Court, a slum in London, he became fascinated with the lives of royalty through stories read to him by an old priest. His imagination was fueled by dreams of seeing a real prince.
+
+One day, Tom wandered near the royal palace and caught sight of Prince Edward. The two boys, astonished by their identical appearances, decided to swap clothes as a prank. However, the guards mistook Tom for the real prince and expelled Edward from the palace, leaving him to fend for himself in the streets of London.
+
+Edward, now dressed in rags, struggled to convince anyone of his true identity. He faced ridicule and abuse, particularly from John Canty, Tom's abusive father, who believed Edward to be his own son. Meanwhile, Tom, overwhelmed by the grandeur and responsibilities of royal life, struggled to maintain the pretense of being the prince. He was guided by the Earl of Hertford and other courtiers, who attributed his strange behavior to a temporary ailment.
+
+As Edward wandered the streets, he encountered various hardships and injustices faced by the common people. He was captured by a group of thieves and outlaws, led by John Canty, who now went by the name Hobbs. Despite the dire circumstances, Edward maintained his dignity and refused to partake in their criminal activities.
+
+Miles Hendon, a soldier returning from war, found Edward and became his protector, believing the boy's claims of being the prince. Hendon, who had his own troubles with a usurping brother, vowed to help Edward reclaim his rightful place.
+
+Back at the palace, Tom Canty, despite his initial fears, began to enjoy the privileges of royalty. He endeavored to rule justly, showing mercy and kindness, and even began to forget his old life. However, as his coronation approached, he was haunted by guilt and the fear of being discovered.
+
+On the day of the coronation, Edward made his way to Westminster Abbey, determined to reclaim his identity. He arrived just in time to stop the ceremony, declaring himself the true king. Tom, relieved, supported his claim, and the courtiers, after a series of tests, recognized Edward as the rightful monarch.
+
+Edward, now King, rewarded Tom for his honesty and made him the "King's Ward," ensuring he and his family were well cared for. He also fulfilled his promise to Hendon, restoring his lands and titles. Edward's brief reign was marked by his efforts to reform unjust laws and show mercy, influenced by the lessons he learned during his time among the common people.
+
+The story concludes with reflections on the reign of Edward VI, who, despite his short life, left a legacy of compassion and justice. Tom Canty lived a long life, respected and honored for his unique history, while Miles Hendon, the loyal protector, enjoyed his restored status until his death. The tale of the prince and the pauper remains a poignant exploration of identity, power, and empathy.

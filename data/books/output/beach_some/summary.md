@@ -1,0 +1,15 @@
+In the novel, a group of cowboys from the Flying Heart Ranch finds themselves in a predicament after losing a phonograph in a footrace bet to their rivals at the Centipede Ranch. The phonograph, a prized possession, represents more than just a machine to them; it symbolizes honor and excellence. The cowboys are determined to win it back, and they pin their hopes on J. Wallingford Speed, a guest at the ranch and a supposed athlete.
+
+Speed, a charming but somewhat deceitful young man, is visiting the ranch alongside his trainer, Larry Glass. He is particularly interested in Helen Blake, a guest at the ranch who admires athletes. To impress her, Speed has exaggerated his athletic abilities, claiming to be a great sprinter. However, he is not actually an athlete but rather the cheerleader for his college team. When Helen promises the cowboys that Speed will win back their phonograph, he finds himself trapped in his own web of lies.
+
+The cowboys, led by their foreman Still Bill Stover and the gunman Willie, are desperate to regain their honor and the phonograph. They are willing to bet everything they have, including personal treasures like saddles and guns, on Speed's victory. The situation becomes tense as the cowboys make it clear that failure is not an option, and they expect Speed to win at all costs.
+
+Meanwhile, Speed's trainer, Larry Glass, is terrified of the cowboys' threats and the prospect of violence if Speed fails. He urges Speed to train seriously, but Speed plans to have his athletic friend Culver Covington take his place in the race. However, complications arise when Mrs. Roberta Keap, the chaperon at the ranch, reveals that she is engaged to two men, including Covington, and asks Speed to prevent Covington from coming to the ranch to avoid a confrontation.
+
+As the race day approaches, Speed's predicament worsens. He is unable to contact Covington, and the cowboys' expectations grow higher. They even prepare a gymnasium for Speed's training and insist on strict routines to ensure his victory. Despite his attempts to maintain the facade, Speed becomes increasingly anxious about the race and the potential consequences of his deception.
+
+In a twist of fate, the Centipede cook, Skinner, who is supposed to race against Speed, approaches him secretly. Skinner offers to throw the race in exchange for a share of the winnings, revealing that he is part of a scheme to defraud the cowboys. Speed sees this as an opportunity to escape his predicament and agrees to the plan.
+
+On the day of the race, Speed is filled with dread, but as the race unfolds, he finds himself running with unexpected speed and determination. In a surprising turn of events, Skinner trips and falls, allowing Speed to win the race and secure the phonograph for the Flying Heart Ranch. The cowboys are overjoyed, and Speed's deception remains undiscovered.
+
+Ultimately, Speed's victory earns him the admiration of Helen Blake, and he is relieved from the pressure of his lies. The novel concludes with a sense of triumph for the Flying Heart Ranch and a humorous reflection on the chaos and misunderstandings that unfolded.

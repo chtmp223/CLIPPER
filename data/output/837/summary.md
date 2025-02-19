@@ -1,0 +1,11 @@
+Four children, Cyril, Robert, Anthea, and Jane, embark on a series of magical adventures during their summer holidays in a white house situated between a sandpit and a chalkpit. They discover a Psammead, a sand-fairy with the power to grant wishes, which leads them into a series of misadventures due to their unwise wish-making. Despite the Psammead’s initial reluctance, it helps them navigate their troubles in exchange for their promise never to ask for wishes again.
+
+Their adventures are not limited to their encounters with the Psammead. The children become involved with a magical Amulet, which has the power to transport them through time and space. The Amulet is incomplete, and they must find the missing half to fulfill its full potential, including granting them their heart's desire.
+
+Their quest takes them to various historical and mythical locations, including ancient Egypt, Babylon, and the lost city of Atlantis. During these journeys, they encounter a variety of characters, including a Babylonian Queen who inadvertently finds herself in modern-day London, causing chaos with her unfamiliarity with contemporary customs.
+
+The children’s adventures are filled with challenges, such as evading the dangers of ancient battles, navigating the complexities of ancient societies, and dealing with the unpredictable nature of the Psammead’s magic. They learn to work together, think on their feet, and handle the consequences of their wishes and actions.
+
+Throughout their journey, the children also encounter a learned gentleman, who becomes an unwitting participant in their magical escapades. His interactions with the children reveal the limitations of adult understanding when confronted with the extraordinary.
+
+Ultimately, the children’s adventures teach them about responsibility, the importance of family, and the value of thinking before acting. They strive to use the Amulet wisely, hoping to reunite their family and bring their father, who is away in Manchuria, safely back home. The story concludes with the children gaining a deeper understanding of themselves and the world, enriched by their experiences across time and space.

@@ -1,0 +1,9 @@
+Jack Haydon, a prefect at Rushmere School, embarks on a journey to Brindisi after receiving a mysterious cablegram from Risley, his father's man. Jack's father, Thomas Haydon, a renowned mining expert, has disappeared under strange circumstances. Jack's investigation reveals that his father was carrying a priceless ruby, discovered in a Burmese mine, which has likely led to foul play. Suspecting that his father has been kidnapped by a gang intent on exploiting the ruby's source, Jack teams up with Risley to uncover the truth.
+
+Their journey takes them to Rangoon, where they meet Jim Dent, a gunsmith and an old acquaintance of Thomas Haydon. Dent joins their quest, and they learn about U Saw, the Ruby King, a powerful figure suspected of involvement in Thomas's disappearance. U Saw's steam yacht, seen heading up the river, further confirms their suspicions.
+
+The trio decides to head to Mandalay and then to Kyan Nyat, hoping to find Me Dain, Thomas Haydon's trusted guide, who might lead them to the ruby mine. Their journey is fraught with danger, including an attack on the river by a mysterious skiff, likely orchestrated by U Saw's men to thwart their mission.
+
+As they travel deeper into the Burmese jungle, Jack and his companions face numerous challenges, including navigating through a deserted city and confronting the ruthless half-caste Saya Chone, U Saw's ally. They discover that Thomas Haydon is indeed held captive by U Saw, who seeks to extract the location of the ruby mine from him.
+
+Through courage and determination, Jack and his companions manage to rescue Thomas Haydon. They outwit U Saw and his men, retrieve the priceless ruby, and uncover a cache of other valuable stones hidden by priests centuries ago. The adventure concludes with Jack and his father safely returning to London, the ruby secured, and a sense of justice served against the nefarious Ruby King and his associates.

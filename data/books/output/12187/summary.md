@@ -1,0 +1,11 @@
+The narrative follows Dr. Jervis, who recounts his experiences while working as a temporary doctor in Kennington. During this period, he becomes involved in a mysterious case concerning a patient named Mr. Graves. Jervis is summoned to a secluded house by a man named Mr. Weiss, who insists on secrecy and uses a shuttered carriage to transport Jervis to the location.
+
+Upon arrival, Jervis finds Mr. Graves in a state of lethargy, exhibiting symptoms consistent with morphine poisoning, though Weiss suggests it might be sleeping sickness. Despite the suspicious circumstances, including the patient's apparent aversion to doctors and the secretive nature of the household, Jervis administers treatment and revives Graves. However, he is left with the impression that something sinister is occurring, potentially involving deliberate poisoning.
+
+Jervis consults his friend and mentor, Dr. John Thorndyke, a legal medical expert, for advice. Thorndyke suggests that Jervis document his observations meticulously and consider the possibility of criminal activity, though they lack sufficient evidence to involve the police immediately.
+
+Meanwhile, Thorndyke is engaged in another case involving the will of Jeffrey Blackmore, who has died under peculiar circumstances. Blackmore's will is contested due to an unexpected bequest that contradicts his known intentions. Thorndyke's investigation reveals inconsistencies and potential forgery, suggesting that Blackmore's death and the will's execution are part of a larger scheme.
+
+As Jervis continues his medical duties, he and Thorndyke attempt to unravel the mysteries surrounding both Mr. Graves and Jeffrey Blackmore. They employ various investigative techniques, including tracking the carriage route to identify the location of the secretive house. Their efforts reveal a web of deceit involving disguises, false identities, and possible murder.
+
+Ultimately, Thorndyke and Jervis's investigations converge, uncovering a complex plot orchestrated by individuals with vested interests in Blackmore's estate and Mr. Graves's condition. The narrative explores themes of deception, the intersection of medicine and law, and the pursuit of justice in the face of intricate criminal schemes.

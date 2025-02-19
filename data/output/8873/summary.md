@@ -1,0 +1,15 @@
+In a tale set against the backdrop of Corsica's rugged landscape, a tapestry of intrigue, family legacy, and the tension between progress and tradition unfolds. The story begins with the mysterious death of Pietro Andrei, an agent for the Perucca estate, found dead in the village of Olmeta. The village, perched high like an eagle’s nest on the Mediterranean coast, is a place where the mistral winds blow unpredictably, mirroring the volatile nature of its inhabitants.
+
+The narrative introduces a cast of characters deeply intertwined with the island’s history and its present conflicts. Among them is Lory de Vasselot, a French cavalry officer and the heir to the Chateau de Vasselot, who returns to Corsica upon learning of his father’s mysterious reclusion and the burning of their ancestral home. His father, the Count de Vasselot, has lived in hiding for thirty years, embroiled in a vendetta with the Peruccas, a powerful Corsican clan.
+
+Denise Lange, a young woman from Paris, inherits the Perucca estate after the sudden death of her cousin, Mattei Perucca. Despite warnings of the island's dangers, Denise, accompanied by her guardian, Mademoiselle Brun, decides to claim her inheritance and face the challenges head-on. Her arrival in Corsica is marked by a collision with the island’s harsh realities and the simmering tensions between the Perucca and de Vasselot families.
+
+Colonel Gilbert, a French officer stationed in Bastia, is another key player whose motives are shrouded in mystery. He has a vested interest in the Perucca estate, driven by the potential wealth hidden beneath its soil. His attempts to manipulate the local dynamics and acquire the land bring him into conflict with both Denise and Lory.
+
+As Denise and Lory navigate their respective inheritances, they uncover the layers of betrayal, greed, and hidden agendas that have long plagued their families. The Abbé Susini, a fiery and impulsive priest, becomes an unexpected ally, helping to unravel the past and confront the present dangers.
+
+The story weaves through themes of honor, duty, and the weight of family legacy, culminating in a confrontation that forces each character to choose between personal vendettas and the greater good. Lory’s journey is one of self-discovery and redemption, as he grapples with his father’s legacy and his own role in the unfolding drama.
+
+In the end, the narrative explores the idea that true strength lies not in holding onto the past, but in the courage to forge a new path. Denise and Lory, each in their own way, must decide whether to perpetuate the cycle of revenge or to break free from it, paving the way for reconciliation and a hopeful future.
+
+Set in a land where the natural beauty contrasts sharply with the human conflicts it shelters, the story captures the essence of Corsica—a place of silence and brooding quiet, where life is held cheaper than in any other land of Europe, and where the ghosts of the past linger in the shadows of its majestic mountains.

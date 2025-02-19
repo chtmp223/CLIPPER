@@ -1,0 +1,15 @@
+The narrative begins with a young boy who experiences vivid and terrifying dreams, unlike anything he has encountered in his waking life. These dreams transport him to a prehistoric world, where he lives as a creature resembling early humans during the Mid-Pleistocene era. His dream self, whom he calls Big-Tooth, navigates a world filled with fearsome animals and primitive social dynamics.
+
+As a child, the narrator struggles with these dreams, feeling different and cursed. He recalls being a city boy with no exposure to the natural world, yet his dreams are filled with detailed images of forests, animals, and landscapes. This duality between his dream life and waking life creates a sense of disassociation, as his dream self lives a life completely separate from his own.
+
+In his dreams, Big-Tooth is part of a horde of early humans, living in caves and constantly on the alert for predators like Saber-Tooth the tiger and other hunting animals. The horde has a rudimentary social structure and communication system, relying on sounds and gestures rather than complex language. Big-Tooth forms a close bond with Lop-Ear, another young member of the horde, and together they navigate the dangers of their world.
+
+The narrative also introduces Red-Eye, a monstrous and atavistic member of the horde, who is more primitive and violent than the others. Red-Eye terrorizes the horde, often beating his wives to death and killing other males to take their mates. Despite his cruelty, the horde is unable to unite against him due to their lack of cooperation and communication skills.
+
+One of the pivotal events in the story is Big-Tooth's encounter with the Fire People, a more advanced group living to the northeast. The Fire People possess bows and arrows, which they use to hunt and defend themselves. Big-Tooth witnesses the power of these weapons when his friend Broken-Tooth is killed by a Fire-Man's arrow. This encounter introduces Big-Tooth to the concept of tools and weapons, highlighting the gap between his horde and the more advanced Fire People.
+
+Throughout his dreams, Big-Tooth experiences the gradual development of early human traits, such as curiosity, playfulness, and the beginnings of altruism. He also witnesses the first steps toward domestication and the use of tools, as seen when he attempts to domesticate a wild puppy and when the horde begins using gourds to store water and food.
+
+The narrative explores themes of evolution, survival, and the gradual development of human traits and social structures. Big-Tooth's experiences reflect the slow and often painful progress of early humans as they adapt to their environment and develop the skills and cooperation necessary for survival.
+
+Ultimately, the narrator's dreams serve as a window into the distant past, providing insight into the lives of his prehistoric ancestors. Through these dreams, he gains a deeper understanding of the evolutionary journey that led to modern humans, while also grappling with the duality of his own identity as both a modern man and a distant ancestor.

@@ -1,0 +1,13 @@
+In ancient Egypt, Prince Abi, the governor of Memphis, harbors ambitions to seize the throne of Egypt. He plots against his brother, Pharaoh, who is childless. However, Pharaoh and his queen, Ahura, receive a divine promise from the god Amen that they will have a daughter, Neter-Tua, who will be blessed with beauty, wisdom, and a royal destiny. Neter-Tua, known as the Morning Star of Amen, grows up to be a powerful and intelligent young woman, beloved by her father and the people of Egypt. 
+
+As she comes of age, Neter-Tua is crowned as a co-ruler with her father, and suitors from across the lands seek her hand in marriage. However, her heart belongs to Rames, a nobleman of royal blood and her childhood companion. Despite the political pressure, Tua is determined to follow her heart, even as she navigates the complexities of power and politics.
+
+Meanwhile, Abi continues his schemes, aided by his astrologer Kaku and the treacherous Merytra, who has infiltrated Pharaoh's court. They employ dark magic to weaken Pharaoh, leaving him vulnerable. As Tua takes on more responsibilities, she faces the threat of being forced into a marriage that would secure Abi's control over Egypt.
+
+In a bold move, Tua sends Rames on a mission to Kesh, ostensibly to atone for the death of Prince Amathel, whom Rames killed in self-defense during a banquet. This mission is a calculated risk, as it places Rames in a position to claim his rightful throne in Kesh, potentially uniting it with Egypt.
+
+Despite her efforts, Abi's machinations continue. He conspires to marry Tua and seize the throne, but she remains resolute, using her intelligence and divine connection to thwart his plans. As tensions rise, Tua's resolve is tested, but she is aided by her foster mother Asti, a powerful priestess, who uses her magic to protect Tua and reveal the truth behind Abi's treachery.
+
+Pharaoh's sudden illness, caused by Abi's sorcery, leads to his death, leaving Tua to rule alone. With her father's last words urging her to seek vengeance and trust in the gods, Tua prepares to face Abi and his conspirators. As she consolidates her power, she is determined to bring justice to those who have wronged her family and to secure her place as the rightful ruler of Egypt.
+
+Throughout her journey, Tua is guided by the divine promise and her unwavering love for Rames, who represents hope and the possibility of a united Egypt and Kesh. Her story is one of courage, wisdom, and the enduring power of love and destiny in the face of betrayal and ambition.

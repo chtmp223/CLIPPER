@@ -1,0 +1,15 @@
+The story unfolds aboard the luxurious yacht, the _Gaston de Paris_, owned by Prince Selm, a man of wealth and scientific curiosity. Among the passengers are the spirited and independent Cléo de Bromsart, her aunt Madame de Warens, and a few others. As they sail towards the desolate Kerguelen Islands, Cléo experiences an unsettling premonition of danger, which she dismisses despite its intensity.
+
+The narrative takes a dramatic turn when the _Gaston de Paris_ collides with the _Albatross_, a three-masted ship, during a stormy night. The chaos that ensues results in the sinking of both vessels. Cléo is thrown into a lifeboat with two sailors, Bompard and La Touche, while the rest of the passengers and crew perish in the disaster.
+
+Stranded at sea, the trio is eventually swept ashore on the remote and inhospitable Kerguelen Islands. The island is depicted as a place of stark beauty and harsh conditions, with its rocky cliffs, turbulent seas, and vast emptiness. Cléo, along with the two sailors, must navigate the challenges of survival in this desolate environment. The men are initially apathetic and resigned to their fate, but Cléo's determination and resourcefulness drive them to action.
+
+The group discovers a cache of supplies, providing them with some relief, but the threat of starvation and isolation looms large. Cléo's leadership and resilience become apparent as she organizes their efforts to gather food and find shelter. Her relationship with the sailors evolves from one of social hierarchy to mutual dependence and camaraderie, as they face the brutal realities of their situation together.
+
+As time passes, Cléo's ingenuity and strength are tested further when she encounters Raft, a red-bearded sailor from the _Albatross_, who has also survived and made his way to the island. Raft becomes an essential ally, his practical skills and steadfastness complementing Cléo's leadership. Together, they navigate the challenges of the island, forming a bond that transcends social norms and expectations.
+
+The story explores themes of survival, the stripping away of societal pretenses, and the forging of genuine human connections in the face of adversity. Cléo's journey from a life of privilege to one of raw survival highlights her transformation and the discovery of her true self amidst the desolation of Kerguelen.
+
+Eventually, the group encounters a Chinese whaling ship, leading to a tense confrontation with its crew. Raft's strength and Cléo's courage see them through the conflict, allowing them to commandeer the vessel. With newfound hope, they set sail towards civilization, leaving behind the stark beauty and challenges of Kerguelen.
+
+The narrative concludes with Cléo and Raft returning to France, where Cléo must reconcile her experiences and newfound values with the expectations of her former life. Her relationship with Raft, forged in the crucible of survival, stands as a testament to the enduring power of human connection, transcending the barriers of class and convention.

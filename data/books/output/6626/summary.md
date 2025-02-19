@@ -1,0 +1,13 @@
+In a dimly lit arcade in Paris, Thérèse Raquin leads a monotonous life, married to her sickly cousin Camille and living with her doting aunt, Madame Raquin. Their shop, located in the Arcade of the Pont Neuf, is a gloomy, damp place that reflects Thérèse's inner turmoil. Raised in a stifling environment, Thérèse has suppressed her passions and desires, living a life of quiet desperation.
+
+The family's routine is disrupted when Camille's childhood friend, Laurent, enters their lives. Laurent, a robust and idle man, works as a clerk but dreams of a more leisurely life. His presence ignites a latent passion in Thérèse, and the two begin a clandestine affair. Their relationship is intense and physical, fueled by a shared disdain for Camille's weakness and the suffocating domesticity that surrounds them.
+
+As their affair intensifies, Laurent and Thérèse become consumed by their desire to be together permanently, leading them to contemplate the murder of Camille. Laurent, driven by his desire for Thérèse and the prospect of a comfortable life, plots to kill Camille during a boating trip. He drowns Camille in the Seine, making it look like an accident.
+
+The murder initially seems to free Thérèse and Laurent, allowing them to marry and pursue the life they imagined. However, guilt and paranoia soon consume them. Camille's specter haunts their nights, and their relationship becomes a battleground of blame and recrimination. The couple's once-passionate love turns into hatred and fear, with each suspecting the other of betrayal.
+
+Madame Raquin, who becomes paralyzed and mute after learning of the murder, is forced to witness the couple's torment. Her presence serves as a constant reminder of their crime, and her silent judgment exacerbates their guilt. Despite their efforts to maintain the facade of a happy marriage, Thérèse and Laurent are trapped in a cycle of mutual destruction.
+
+The tension reaches a climax when both Thérèse and Laurent independently decide that the only escape from their torment is to kill each other. In a final act of desperation, they simultaneously poison themselves, dying in each other's arms. Madame Raquin, who has been silently observing their downfall, is left alone, her vengeance complete as she watches them succumb to the consequences of their crime.
+
+The novel explores themes of passion, guilt, and the inescapable nature of crime, illustrating how Thérèse and Laurent's initial desire leads to their ultimate ruin. Their story is a cautionary tale about the destructive power of unchecked emotions and the inevitable retribution that follows acts of violence.

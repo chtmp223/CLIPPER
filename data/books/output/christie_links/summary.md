@@ -1,0 +1,13 @@
+In a gripping narrative filled with twists and turns, the story unfolds around the mysterious murder of Paul Renauld, a wealthy man living in France. The tale begins with Hercule Poirot, the famous Belgian detective, and his friend Captain Hastings, receiving a letter from Renauld, who fears for his life due to a secret he possesses. They arrive too late, as Renauld is found dead, stabbed in the back, in an open grave on a golf course.
+
+Poirot and Hastings join forces with the French police, including the examining magistrate, M. Hautet, and the Paris detective, M. Giraud, to solve the case. The investigation reveals a complex web of intrigue involving Renauld's past in South America, his secretive business dealings, and his relationships with various women. Renauld's wife, Eloise, is found bound and gagged, claiming that two masked men broke into their home and abducted her husband.
+
+Suspicions arise around several characters, including Renauld's wife, his son Jack, and a mysterious woman named Madame Daubreuil, who lives nearby with her daughter Marthe. The narrative delves into the backgrounds and alibis of these characters, revealing potential motives and secrets from the past.
+
+Poirot's investigation is characterized by his attention to psychological clues and his methodical approach, contrasting with Giraud's focus on physical evidence. Poirot uncovers a letter from a woman named Bella, hinting at a romantic entanglement and potential jealousy. Meanwhile, Jack Renauld is arrested, but Poirot doubts his guilt, suspecting that the true murderer is someone else entirely.
+
+The plot thickens with the revelation of another murder linked to the case, and the discovery of a forged will and financial irregularities. Poirot's deductions lead him to suspect Marthe Daubreuil, revealing a motive tied to her desire to marry Jack and inherit the Renauld fortune.
+
+In a dramatic climax, Poirot sets a trap for the murderer, resulting in Marthe's accidental death. Her mother, Madame Daubreuil, is revealed to have a criminal past under the name Jeanne Beroldy. The story concludes with Jack Renauld's exoneration and the resolution of the romantic subplot involving Hastings and a woman named Cinderella, whom he met during the investigation.
+
+The tale is a masterful blend of mystery, romance, and psychological insight, showcasing Poirot's genius in unraveling a complex case where appearances are deceiving, and the truth is buried beneath layers of intrigue.

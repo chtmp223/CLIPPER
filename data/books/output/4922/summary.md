@@ -1,0 +1,15 @@
+Two cowboys, Hopalong Cassidy and Johnny Nelson, arrive in a coastal town on a mission for their boss, Buck Peters. After securing accommodations, they encounter a humorous marshal who advises them to leave their guns at the hotel. The cowboys are in high spirits, boasting about their adventures and their ability to handle any trouble that might come their way. They meet with lawyer Jeremiah T. Jones to handle some business and are warned about certain parts of town to avoid, which naturally piques their curiosity.
+
+The cowboys, feeling out of place without their guns, decide to buy some hardware to fill their holsters. They end up purchasing wedges and screws, which they attempt to carry as makeshift weapons. This leads to a comical encounter in a saloon, where their antics with the wedges and screws cause a bartender to throw them out, suspecting them of being drunk.
+
+Meanwhile, Buck Peters, foreman of the Bar-20 ranch, learns that Red Connors, one of his men, is trapped by Apaches. The Bar-20 crew, including Hopalong and Johnny, quickly mobilizes to rescue him. They plan a coordinated attack to save Red, who is defending an old ranch house with a wounded companion, Holden. The rescue is successful, and the Bar-20 men drive off the Apaches, bringing Red back to safety.
+
+Back at the ranch, Hopalong's mood darkens, affecting the entire crew. He is restless and discontented, unable to shake off a mysterious grudge. Buck, eager to lift the spirits of his men, sends Hopalong on a range lease mission, hoping the change of scenery will help. Hopalong's journey takes him to various towns, where he encounters a series of misadventures, including being shanghaied onto a ship with Johnny. They manage to escape, thanks to their wits and fighting skills.
+
+As they return to their ranch, they face a new challenge: a fence blocking a traditional cattle drive trail. Hopalong and his men refuse to be deterred, cutting through the fence and confronting the 4X ranch crew responsible for the obstruction. A tense standoff ensues, but Hopalong's determination and strategic thinking lead to a peaceful resolution, with the 4X foreman agreeing to remove the fence.
+
+Meanwhile, Tex Ewalt, a man with a grudge against Hopalong, arrives in the area, seeking revenge. However, their confrontation is interrupted by a natural disaster—a flash flood—that forces them to work together to survive. This shared ordeal leads to an unexpected reconciliation between the two men.
+
+Back at the Bar-20, Johnny becomes the butt of jokes after claiming to have seen a ghost in San Miguel Canyon. Hopalong, initially skeptical, investigates and uncovers a smuggling operation using the ghost story as a cover. With the help of Dick Martin, a government agent, they expose the smugglers, clearing Johnny's name and ending the ghost rumors.
+
+The Bar-20 crew continues to face challenges, including an Apache war party and personal vendettas, but their camaraderie and resourcefulness see them through. Hopalong's leadership and the crew's loyalty to each other remain the cornerstone of their success, as they navigate the dangers and adventures of the Old West.

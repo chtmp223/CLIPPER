@@ -1,0 +1,15 @@
+Bunny Brown and his sister Sue are two adventurous children living in the coastal town of Bellemere. One day, while playing seesaw in their yard, a big yellow dog runs off with their mother's pocketbook, which contains a five-dollar bill and Mrs. Brown's cherished diamond engagement ring. The dog dashes into Mr. Foswick's carpenter shop, and the children follow, only to be accidentally locked inside by Mr. Foswick, who mistakes them for mischievous boys who often disrupt his shop. 
+
+After being rescued by Mr. Reinberg, the drygoods store owner, Bunny and Sue return home to a worried Mrs. Brown. They recount their tale, but the pocketbook and ring remain missing. Mr. Brown and Mr. Foswick search the shop thoroughly but find no trace of the dog or the missing items.
+
+Amidst the disappointment, Mr. Brown announces exciting news: the family will spend the summer at Christmas Tree Cove, a scenic spot known for its evergreen trees. The children are thrilled, and preparations begin for the trip on Captain Ross's boat, the Fairy. Bunny and Sue are fond of Captain Ross, known for his jolly nature and love of riddles.
+
+Before the trip, the children have a few more adventures, including a sleepwalking incident involving Bunny, where he dreams about the dog with the ring on its tail. On the day of the trip, the family boards the Fairy, and the journey begins. However, during the voyage, they accidentally collide with a canoe carrying two young men and two young women. Luckily, no one is hurt, and the canoeists are brought aboard the Fairy until they can be dropped off at a nearby hotel.
+
+As they continue their journey, Bunny and Sue enjoy the sights and sounds of the bay. Meanwhile, Mrs. Brown tries to put the loss of her ring behind her to enjoy the summer. At one point, Bunny thinks he sees the same dog that took the pocketbook, but it turns out to be a false alarm.
+
+The family has various adventures at Christmas Tree Cove, including picnics and clam digging with new friends, Harry Slater and his mother, who are also summering at the cove. During one outing, they find a floating box with Mr. Ravenwood's name on it, and a letter reveals he has found a dog matching the description of the one that took the pocketbook. 
+
+Mr. Ravenwood visits the cove to retrieve his box and brings the dog, which turns out to be Harry Slater's lost pet, Sandy. The dog had indeed taken Mrs. Brown's pocketbook, and Mr. Ravenwood finds it, with the ring and money inside, jammed under the engine of his boat. Mrs. Brown is overjoyed to have her ring back, and Harry is thrilled to be reunited with Sandy.
+
+The summer at Christmas Tree Cove is filled with fun and laughter, and the mystery of the lost ring is happily resolved. Bunny and Sue's adventurous spirit continues to bring joy and excitement to their family and friends.

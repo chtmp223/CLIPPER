@@ -1,0 +1,13 @@
+Hildegarde Graham, a fifteen-year-old girl from a privileged background, is sent by her parents to spend the summer at Hartley Farm, away from her city life. Her mother, Mrs. Graham, is concerned about Hilda's health and her growing attachment to the superficialities of high society. Despite Hilda's initial resistance and disdain for the rustic life she anticipates, her parents believe the change will be beneficial for her.
+
+Upon arrival at the farm, Hilda meets the warm-hearted Dame Hartley and her husband, Farmer Jacob Hartley. Initially, Hilda is dismissive of the farm's simplicity and the people she encounters, including the gruff but kind farmer. However, she gradually becomes enchanted by the beauty of the countryside and the kindness of the Hartleys, who treat her with genuine affection and care.
+
+Hilda's transformation begins as she engages with the farm's daily activities, such as currant picking and feeding the animals. She meets Zerubbabel "Bubble" Chirk, a bright but uneducated farm boy, and offers to teach him. Bubble's earnest desire to learn and his sister Pink's cheerful resilience despite being unable to walk deeply affect Hilda. Pink, whose real name is Pinkrosia, is a gentle, pale girl confined to a wheeled chair due to an accident in her childhood. Hilda is moved by Pink's optimistic outlook and becomes determined to improve her life.
+
+Throughout the summer, Hilda learns valuable lessons about humility, hard work, and the true meaning of friendship and family. She sheds her superficial attitudes and embraces the simple joys of life at the farm. Her relationship with the Hartleys and the Chirk family grows, and she becomes an integral part of their lives, helping with chores and sharing in their joys and sorrows.
+
+Hilda's journey is also marked by her growing awareness of her own potential and the realization that her previous life in the city was shallow and unfulfilling. She finds a new sense of purpose in helping others and becomes more self-reliant and compassionate.
+
+As the summer progresses, Hilda's parents remain in California, dealing with family matters, but they stay in touch with her through letters. Hilda eagerly anticipates their return, confident that they will see the positive changes in her.
+
+The novel closes with Hilda fully embracing her new life and the relationships she has formed. She is no longer the same girl who arrived at Hartley Farm, but a young woman who understands the value of simplicity, kindness, and genuine human connection. The experience at the farm has prepared her to face the future with a newfound strength and wisdom, much to the delight of her parents and her new friends at Hartley's Glen.

@@ -1,0 +1,15 @@
+The narrative begins with a mysterious incident involving Mr. Abel Trelawny, a wealthy and learned Egyptologist, who is found in a trance-like state with strange injuries on his wrist. His daughter, Margaret Trelawny, seeks the help of Malcolm Ross, a barrister, to unravel the mystery. The household is filled with Egyptian artifacts, and the atmosphere is charged with an ancient, enigmatic aura.
+
+As the story unfolds, it becomes apparent that Mr. Trelawny was involved in a deep study of ancient Egyptian practices, particularly those related to the resurrection of Queen Tera. The Queen, a powerful sorceress from the past, had plans for resurrection which are intricately tied to the artifacts collected by Mr. Trelawny. Among these artifacts are a sarcophagus, a coffer, and a mummy hand, each with symbolic significance and mysterious potential.
+
+Margaret, who bears a striking resemblance to Queen Tera, becomes a central figure in the unfolding events. She experiences strange lapses, suggesting a possible connection to the ancient Queen. As the household grapples with unexplained occurrences, including attacks and thefts, suspicion falls on various characters, including Margaret herself. Detective Daw, investigating the case, is skeptical of the supernatural elements but is forced to consider them as the mystery deepens.
+
+Mr. Trelawny's associates, including Mr. Corbeck, a learned Egyptologist, and Dr. Winchester, a physician, join the effort to understand the strange happenings. Corbeck reveals that he was on a mission to retrieve ancient lamps, crucial to Mr. Trelawny's research, which mysteriously reappear in the house after being stolen. The narrative suggests a supernatural influence at play, possibly linked to the Queen's astral abilities.
+
+As the Great Experiment approaches, intended to resurrect Queen Tera, tensions rise. The household prepares for the unknown, with each character grappling with their fears and hopes. Margaret's unwavering belief in the Queen's benign intentions contrasts with the skepticism of others, particularly the scientific-minded Dr. Winchester.
+
+The story reaches its climax during the experiment, where the household witnesses the opening of the Magic Coffer amidst a strange, otherworldly atmosphere. The experiment seems to fail, but the narrative suggests that Queen Tera's spirit may have found peace or fulfillment in a way beyond human understanding.
+
+Throughout the narrative, themes of love, trust, and the clash between science and the supernatural are explored. Malcolm Ross's growing affection for Margaret adds a personal dimension to the unfolding mystery, as he navigates his own doubts and the complexities of the situation.
+
+In the end, the novel leaves the reader pondering the limits of human knowledge and the mysteries of the ancient world, embodied in the enigmatic figure of Queen Tera and her timeless aspirations.

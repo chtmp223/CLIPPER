@@ -1,0 +1,13 @@
+Rachel Minchin, a young Australian woman, finds herself trapped in a disastrous marriage with Alexander Minchin, a man she met on a voyage to England. After a series of bitter quarrels due to his gambling and drinking habits, Rachel decides to leave him. However, before she can depart, Alexander is found dead, and Rachel is accused of his murder.
+
+The trial becomes a sensational case, with the public and press largely believing in her guilt. Rachel's defense is that she found her husband already dead and assumed it was the work of burglars. Her testimony, given against her lawyer's advice, ultimately convinces the jury of her innocence, and she is acquitted. Despite this, Rachel faces societal ostracism and struggles to rebuild her life with no friends or support.
+
+Enter Mr. John Buchanan Steel, a mysterious and wealthy man who has attended Rachel's trial and becomes fascinated by her. Steel offers Rachel a marriage of convenience, promising her security and a new life away from the scandal. Rachel, with no other options and intrigued by Steel's enigmatic nature, agrees to the marriage under the condition that they will not pry into each other's pasts.
+
+The couple moves to Steel's estate in the north of England, where they are met with curiosity and suspicion from the local society. Steel's wealth and his unknown past, combined with Rachel's infamous trial, make them a subject of gossip. Despite this, Steel treats Rachel with respect and consideration, and she gradually begins to trust him.
+
+As Rachel tries to settle into her new life, she is haunted by the unresolved mystery of her first husband's murder. Steel, who has his own secrets, is revealed to have known Alexander Minchin in Australia, adding another layer to the mystery. Meanwhile, Charles Langholm, a novelist and neighbor, becomes involved in trying to uncover the truth behind Alexander's death.
+
+Langholm's investigations lead him to suspect various individuals, but ultimately, it is revealed that the true murderer was Severino, a young man who was ill and delirious at the time of the crime. Severino confesses to Langholm before his death, clearing Rachel's name completely.
+
+Throughout these events, Rachel's relationship with Steel evolves. She realizes that Steel, despite his initial motivations, has genuine feelings for her. The novel concludes with Rachel coming to terms with her past and embracing her future with Steel, as they both agree to bury their pasts and move forward together.

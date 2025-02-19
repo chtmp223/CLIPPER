@@ -1,0 +1,13 @@
+On a clear September morning in Vienna, a young milkmaid named Anna discovers the body of a well-dressed man in a quiet lane. The man, later identified as Leopold Winkler, has been shot in the back. Police detective Joseph Muller is called to the scene to investigate. Muller, known for his thoroughness and intuition, examines the area and finds a broken willow twig, which piques his interest.
+
+As Muller delves deeper into the case, he learns that Winkler was a bookkeeper with a mysterious source of income, receiving money at irregular intervals. This leads Muller to suspect that Winkler might have been involved in some form of blackmail. The investigation reveals that Winkler was not well-liked and had a reputation for being secretive.
+
+A tramp named Johann Knoll is soon arrested in Pressburg for possessing Winkler's stolen purse and watch. Knoll claims he found Winkler's body and, thinking the man was merely drunk, took the items without realizing the man was dead. Muller, however, is not convinced that Knoll is the murderer and believes there is more to the story.
+
+Muller’s investigation leads him to the Thorne mansion, near where the body was found. The house is owned by Herbert Thorne, a wealthy artist, and his delicate wife, who have recently left for Venice. The housekeeper, Adele Bernauer, is acting suspiciously, which draws Muller's attention. He discovers that she has been buying newspapers, seemingly interested in the murder case, and is visibly disturbed by Muller's presence.
+
+Muller learns that a red-shaded lamp in the housekeeper's room is used as a signal, leading him to suspect that Thorne might be involved in the crime. Further investigation reveals that Winkler was blackmailing Thorne’s wife, who had been paying him to keep quiet about her brother's dishonorable conduct. Thorne, discovering this, might have confronted Winkler, leading to the murder.
+
+Muller is torn between his duty to reveal the truth and the potential ruin it could bring to the Thorne family. He realizes that Thorne, in a moment of blind jealousy and misunderstanding, killed Winkler, believing it was a lovers' meeting rather than a blackmail rendezvous. Adele Bernauer, in her misguided loyalty, had signaled Thorne, inadvertently setting the tragic events in motion.
+
+Despite his personal feelings, Muller knows he must bring the truth to light. He understands the implications of his findings but is driven by his commitment to justice. The case highlights the complexity of human motives and the unintended consequences of actions driven by fear and loyalty.

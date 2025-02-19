@@ -1,0 +1,15 @@
+Denis Stone, a young and introspective poet, embarks on a journey to Crome, a country estate in the heart of England, where he is to spend time with his distant relatives, the Wimbushes. The journey is a reflection of Denis's inner turmoil and his feelings of wasted time and potential, as he contemplates the hours spent traveling instead of writing or reading.
+
+Upon arrival at Crome, Denis is greeted by a cast of eccentric characters. Henry Wimbush, the master of the house, is a man of intellectual pursuits, deeply interested in history and the past. His wife, Priscilla, is a woman absorbed in spiritualism and the occult, often consulting horoscopes and engaging in New Thought practices. Anne Wimbush, Henry's niece, is a beautiful and enigmatic presence, with whom Denis is infatuated. She is intelligent and flirtatious, often the center of attention.
+
+The estate is also home to other guests, including Mr. Scogan, a cynical intellectual who often engages in philosophical discussions and critiques of society. Gombauld, a passionate and talented painter, is another guest who competes with Denis for Anne's affections. Mary Bracegirdle, a young woman concerned with the social issues of the time, and Jenny Mullion, a quiet and observant artist, also add to the dynamic of the group.
+
+Throughout the narrative, the characters engage in various activities, including discussions on art, literature, and society. Denis struggles with his feelings for Anne, who seems to be more interested in Gombauld. He is also plagued by self-doubt and the realization that he may not be as unique or talented as he once thought, a realization brought to light by Jenny's caricatures of him in her red notebook.
+
+The story is set against the backdrop of a traditional English country estate, with its serene gardens, grand architecture, and the annual Crome Fair, which brings the local villagers to the estate for a day of festivities. The fair serves as a microcosm of the larger world, highlighting the contrasts between the upper-class guests and the local villagers.
+
+As the days pass, Denis becomes increasingly aware of his own shortcomings and the futility of his infatuation with Anne. He decides to take decisive action by sending a telegram to himself, fabricating an urgent reason to return to London. This decision is spurred by his inability to compete with Gombauld and his growing sense of isolation.
+
+The narrative explores themes of love, art, and the search for meaning in a world that often seems indifferent to individual desires. The characters' interactions reveal their inner conflicts and the societal pressures they face, all set within the idyllic yet stifling environment of Crome.
+
+In the end, Denis's departure from Crome is a moment of bittersweet resolution. He leaves behind the unrequited love for Anne and the realization that he must find his own path, separate from the expectations and judgments of others. The story concludes with a sense of acceptance and the acknowledgment that life, with all its complexities, continues on.

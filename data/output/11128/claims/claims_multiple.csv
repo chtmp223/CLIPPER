@@ -1,0 +1,230 @@
+facts,corrupted_facts,fact_reasoning,corrupted_reasoning,source,brainstorm,duplication,duplication_reasoning,verify_facts,verify_facts_reasoning,verify_corruption,verify_corruption_reasoning
+"John Hornby, who locked the diamonds in the safe, later testifies about discovering them missing the next morning along with drops of blood and a clear thumb-print inside the safe.","John Hornby, who locked the diamonds in the safe, later testifies about discovering them missing a week later along with drops of blood and a clear thumb-print inside the safe.","This fact combines information from Chapter 2 and Chapter 6. In Chapter 2, we learn that John Hornby locked the diamonds in the safe, and they were discovered missing the next day with blood and a thumb-print inside. Chapter 6 confirms that John Hornby testifies about discovering the crime, connecting his actions and observations.","The corrupted fact states that the diamonds were discovered missing a week later, while the outline clearly states it was the next morning, making this version incorrect.","Chapter 2, 6","- Chapter 2, item 2: A parcel of diamonds arrives at Hornby's office and is locked in the safe by John Hornby himself.
+- Chapter 2, item 3: The next morning, the diamonds are discovered missing from the safe, with drops of blood and a clear thumb-print found inside.
+- Chapter 6, item 5: John Hornby testifies about the discovery of the crime and Reuben's character.
+- Relationship: Temporal sequence of events and testimony",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+    a. ""John Hornby, who locked the diamonds in the safe"": This part is grounded in event 2 of Chapter 2, where it is stated that John Hornby locked the diamonds in the safe.
+    b. ""later testifies about discovering them missing the next morning"": This part is grounded in event 5 of Chapter 6, where John Hornby testifies about the discovery of the crime.
+    c. ""along with drops of blood and a clear thumb-print inside the safe"": This part is grounded in event 3 of Chapter 2, which mentions the discovery of drops of blood and a clear thumb-print inside the safe.
+
+2. Analysis of the relationship between atomic parts:
+    a. The relationship is objectively valid and meaningful, as it describes a sequence of events where John Hornby locks the diamonds in the safe and later testifies about their disappearance, including the discovery of blood and a thumb-print.
+    b. The relationship is not a subjective interpretation; it is explicitly grounded in the chapter outline.
+    c. The relationship makes sense based on the book summary and chapter outline, as it aligns with the events described in both.
+
+Since all atomic parts are grounded in the chapter outline and the relationship between them is valid and meaningful, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+   a. ""John Hornby, who locked the diamonds in the safe"": This part is grounded in event 2 of Chapter 2, where John Hornby locks the diamonds in the safe.
+   b. ""later testifies about discovering them missing a week later"": This part is partially grounded in event 5 of Chapter 6, where John Hornby testifies about the discovery of the crime. However, there is no mention of the diamonds being discovered missing a week later; the timeline is not specified in the chapter outline or summary.
+   c. ""along with drops of blood and a clear thumb-print inside the safe"": This part is grounded in event 3 of Chapter 2, where drops of blood and a thumbprint are found inside the safe.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship between John Hornby locking the diamonds in the safe and later testifying about their disappearance is valid, as it follows a logical sequence of events.
+   b. The claim that the discovery happened a week later is not supported by the chapter outline or summary, making this part of the relationship invalid.
+   c. The relationship between the discovery of the missing diamonds and the presence of blood and a thumbprint is consistent with the events described in the chapter outline.
+
+Since the claim includes an unsupported detail about the timeline of the discovery, it is not fully consistent with the provided information. Therefore, the claim is INVALID."
+"The ""Thumbograph"" book, initially used to identify Reuben Hornby's thumb-print as matching the one found in the safe, is later brought to Dr. Thorndyke's chambers by Mrs. Hornby and Miss Gibson for examination.","The ""Thumbograph"" book, initially used to identify Walter Hornby's thumb-print as matching the one found in the safe, is later brought to Dr. Thorndyke's chambers by Mrs. Hornby and Miss Gibson for examination.","This fact connects information from Chapters 2 and 5. In Chapter 2, the ""Thumbograph"" is used to identify Reuben's print as matching the one in the safe. Chapter 5 shows that this same ""Thumbograph"" is brought to Dr. Thorndyke for examination, indicating its importance as evidence in the case.","The corrupted fact incorrectly states that the thumb-print was identified as Walter Hornby's, while the outline clearly indicates it was Reuben Hornby's print that was identified.","Chapter 2, 5","- Chapter 2, item 4: The thumb-print is identified as belonging to Reuben Hornby through a comparison with prints in Mrs. Hornby's ""Thumbograph"" book.
+- Chapter 5, item 2: Mrs. Hornby and Miss Gibson arrive at Dr. Thorndyke's chambers with the ""Thumbograph"" containing Reuben's thumbprint.
+- Chapter 5, item 3: Dr. Thorndyke examines the ""Thumbograph"" and asks Mrs. Hornby and Miss Gibson to sign the page with Reuben's thumbprint.
+- Relationship: Central evidence (Thumbograph) and its examination",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. The ""Thumbograph"" book is initially used to identify Reuben Hornby's thumb-print as matching the one found in the safe: This part is grounded in event 4 of Chapter 2, where the thumbprint is identified through a comparison with prints in Mrs. Hornby's ""Thumbograph"" book.
+   b. The ""Thumbograph"" book is later brought to Dr. Thorndyke's chambers by Mrs. Hornby and Miss Gibson for examination: This part is grounded in event 2 of Chapter 5, where Mrs. Hornby and Miss Gibson arrive at Dr. Thorndyke's chambers with the ""Thumbograph.""
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is objectively valid and meaningful, as it describes a sequence of events where the ""Thumbograph"" is first used for identification and then brought for further examination.
+   b. The relationship is not a subjective interpretation; it is explicitly stated in the chapter outline.
+   c. The relationship makes sense based on the book summary and chapter outline, as it aligns with the investigation process described.
+
+Since all considerations are satisfied, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+   a. The ""Thumbograph"" book is initially used to identify Walter Hornby's thumb-print as matching the one found in the safe: This part is not grounded in the chapter outline or the book summary. The outline and summary indicate that the thumbprint in the safe was identified as Reuben Hornby's, not Walter's, using the ""Thumbograph"" book.
+   b. The ""Thumbograph"" book is later brought to Dr. Thorndyke's chambers by Mrs. Hornby and Miss Gibson for examination: This part is grounded in Chapter 5, where Mrs. Hornby and Miss Gibson bring the ""Thumbograph"" to Dr. Thorndyke's chambers.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not valid because the initial identification of the thumbprint as Walter's is incorrect. The book and outline consistently state that the thumbprint was identified as Reuben's.
+   b. The relationship is not a subjective interpretation but is based on incorrect information.
+   c. The relationship does not make sense based on the book summary and chapter outline, as it contradicts the established facts about the thumbprint's identification.
+
+Since the first atomic part is not grounded in the provided information and the relationship between the parts is based on incorrect information, the claim is INVALID."
+"Dr. Thorndyke examines and photographs the blood-stained paper with the incriminating thumb-print at Scotland Yard, later revealing in court that this thumb-print is a forgery based on discrepancies in size and a unique mark.","Dr. Thorndyke examines and photographs the blood-stained paper with the incriminating thumb-print at Scotland Yard, later revealing in court that this thumb-print is genuine based on its size and unique characteristics.","This fact connects information from Chapters 3 and 16. In Chapter 3, Thorndyke examines and photographs the evidence at Scotland Yard. Chapter 16 reveals that Thorndyke later uses this examination to prove in court that the thumb-print is a forgery, demonstrating the importance of his initial careful examination.","The corrupted fact states that Thorndyke reveals the thumb-print to be genuine, which contradicts the outline's statement that he proves it to be a forgery in court.","Chapter 3, 16","- Chapter 3, item 6: Mr. Singleton shows Thorndyke the blood-stained paper with the incriminating thumb-print.
+- Chapter 3, item 7: Thorndyke examines the evidence using a microscope and takes several photographs of the thumb-print and blood stains.
+- Chapter 16, item 4: Thorndyke reveals that the thumb-print found in the safe is a forgery, explaining the discrepancies in size and the presence of a unique mark.
+- Relationship: Evidence examination and revelation",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. ""Dr. Thorndyke examines and photographs the blood-stained paper with the incriminating thumb-print at Scotland Yard"": This part is grounded in events 5, 6, and 7 of Chapter 3, where Thorndyke and Jervis visit Scotland Yard, and Thorndyke examines the thumb-print evidence using a microscope and takes photographs.
+   b. ""later revealing in court that this thumb-print is a forgery based on discrepancies in size and a unique mark"": This part is grounded in events 4 and 7 of Chapter 16, where Thorndyke reveals in court that the thumb-print is a forgery, explaining the discrepancies in size and the presence of a unique mark.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is objectively valid and meaningful. The examination and photographing of the thumb-print at Scotland Yard are directly related to Thorndyke's later revelation in court about the forgery, as the examination likely provided the evidence needed for the revelation.
+   b. The relationship is not a subjective interpretation; it is explicitly grounded in the chapter outline.
+   c. The relationship makes sense based on the book summary and chapter outline, as the investigation and subsequent court revelation are key elements of the narrative.
+
+Since all considerations are satisfied, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+   a. ""Dr. Thorndyke examines and photographs the blood-stained paper with the incriminating thumb-print at Scotland Yard"": This part is grounded in events 5, 6, and 7 of Chapter 3, where Thorndyke and Jervis visit Scotland Yard, and Thorndyke examines and photographs the thumb-print evidence.
+   b. ""later revealing in court that this thumb-print is genuine based on its size and unique characteristics"": This part is not grounded in the chapter outline or the book summary. In Chapter 16, Thorndyke reveals that the thumb-print is a forgery, not genuine, based on discrepancies in size and unique marks.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not valid because the claim incorrectly states that Thorndyke reveals the thumb-print as genuine, whereas the chapter outline and summary indicate that he reveals it as a forgery.
+   b. The relationship is not a subjective interpretation but a factual error based on the provided information.
+   c. The relationship contradicts the information in the chapter outline and book summary, which both indicate that the thumb-print was a forgery.
+
+Since part 1b is not grounded in the provided information and the relationship between the atomic parts is incorrect, the claim is INVALID."
+"Dr. Thorndyke experiences two apparent attempts on his life: first, a suspicious accident on London Bridge where a man causes him to fall in front of a lorry, and later, a sophisticated hypodermic needle designed to deliver poison is shot through a window near him.","Dr. Thorndyke experiences two apparent attempts on his life: first, a suspicious accident on Tower Bridge where a man causes him to fall into the Thames, and later, a sophisticated hypodermic needle designed to deliver poison is shot through a window near him.","This fact connects two separate incidents from Chapters 8 and 11. In Chapter 8, Thorndyke describes a suspicious accident on London Bridge. Chapter 11 details another incident where a projectile, later identified as a poisoned hypodermic needle, is shot through a window. Both events suggest deliberate attempts to harm Thorndyke.","The corrupted fact incorrectly states that the accident occurred on Tower Bridge and that Thorndyke fell into the Thames, while the outline clearly states it was on London Bridge and he fell in front of a lorry.","Chapter 8, 11","- Chapter 8, item 2: Thorndyke arrives in a hansom cab, injured and muddy, explaining he had an accident on London Bridge.
+- Chapter 8, item 3: Thorndyke describes the suspicious circumstances of his accident, involving a man who lurched against him and caused him to fall in front of a lorry.
+- Chapter 11, item 4: In John Street, they hear a sharp thud and see a window shatter, prompting them to chase after a fleeing cyclist.
+- Chapter 11, item 6: Back at Thorndyke's chambers, they examine the projectile, revealing it to be a sophisticated hypodermic needle designed to deliver poison.
+- Relationship: Attempts on Thorndyke's life",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+    a. Dr. Thorndyke experiences a suspicious accident on London Bridge where a man causes him to fall in front of a lorry: This part is grounded in Chapter 8, events 2 and 3, where Thorndyke describes the accident and the suspicious circumstances involving a man who lurched against him.
+    b. A sophisticated hypodermic needle designed to deliver poison is shot through a window near him: This part is grounded in Chapter 11, events 5 and 6, where Thorndyke and the narrator examine the broken window and discover the projectile to be a hypodermic needle.
+
+2. Analysis of the relationship between atomic parts:
+    a. The relationship is objectively valid and meaningful, as both incidents involve apparent attempts on Thorndyke's life, suggesting a pattern of targeted attacks.
+    b. The relationship is not a subjective interpretation; it is based on the events described in the chapter outlines.
+    c. The relationship makes sense based on the book summary and chapter outline, as both incidents are consistent with the narrative of Thorndyke being involved in a dangerous investigation.
+
+Since all considerations are satisfied, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+    a. Dr. Thorndyke experiences a suspicious accident on Tower Bridge where a man causes him to fall into the Thames: This part is not grounded in the chapter outline. The outline mentions an accident on London Bridge, not Tower Bridge, and there is no mention of falling into the Thames. The accident involves a man causing Thorndyke to fall in front of a lorry, not into the river.
+    b. A sophisticated hypodermic needle designed to deliver poison is shot through a window near him: This part is grounded in Chapter 11, where Thorndyke and the narrator examine a broken window and find a hypodermic needle designed to deliver poison.
+
+2. Analysis of the relationship between atomic parts:
+    a. The relationship between the two parts is that they both describe attempts on Thorndyke's life. However, the first part is inaccurately described, as the accident on London Bridge does not involve falling into the Thames.
+    b. The relationship is not a subjective interpretation but is based on the events described in the chapter outline.
+    c. The relationship does not contradict the summary, but the details of the first part are incorrect according to the chapter outline.
+
+Since the first atomic part is inaccurately described and not grounded in the chapter outline, the claim is INVALID."
+"Dr. Thorndyke's investigation, which began with taking several prints of Reuben's thumb and having Polton prepare enlarged photographs for analysis, culminates in a courtroom demonstration where he creates 10 fake and 10 real thumb-prints that experts fail to distinguish correctly.","Dr. Thorndyke's investigation, which began with taking several prints of Walter's thumb and having Polton prepare enlarged photographs for analysis, culminates in a courtroom demonstration where he creates 10 fake and 10 real thumb-prints that experts successfully distinguish.","This fact connects Thorndyke's initial investigation steps from Chapters 2 and 3 with his courtroom demonstration in Chapter 16. It shows how Thorndyke's early work in collecting and analyzing thumb-prints leads to his ability to create indistinguishable fake prints, which he uses to challenge the expert witnesses in court.","The corrupted fact incorrectly states that Thorndyke took Walter's thumb-prints (instead of Reuben's) and that the experts successfully distinguished the real from fake prints in court, which contradicts the information provided in the outline.","Chapter 2, 3, 16","- Chapter 2, item 7: Dr. Thorndyke takes several prints of Reuben's thumb for further investigation and agrees to take on the case.
+- Chapter 3, item 2: Polton, Thorndyke's assistant, prepares enlarged photographs of the thumb-prints for analysis.
+- Chapter 16, item 2: Thorndyke demonstrates the forgery process by creating 10 fake and 10 real thumb-prints, which the experts fail to distinguish correctly.
+- Relationship: Thorndyke's investigation process and courtroom demonstration",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. ""Dr. Thorndyke's investigation, which began with taking several prints of Reuben's thumb"": This part is grounded in Chapter 2, event 7, where Dr. Thorndyke takes several prints of Reuben's thumb for further investigation.
+   b. ""having Polton prepare enlarged photographs for analysis"": This part is grounded in Chapter 3, event 2, where Polton, Thorndyke's assistant, prepares enlarged photographs of the thumb-prints for analysis.
+   c. ""culminates in a courtroom demonstration where he creates 10 fake and 10 real thumb-prints that experts fail to distinguish correctly"": This part is grounded in Chapter 16, events 1 and 2, where Thorndyke demonstrates the forgery process by creating 10 fake and 10 real thumb-prints, which the experts fail to distinguish correctly.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is objectively valid and meaningful. The claim describes a logical progression of events in Thorndyke's investigation, from collecting evidence to demonstrating the possibility of forgery in court.
+   b. The relationship is not a subjective interpretation; it is explicitly grounded in the chapter outline.
+   c. The relationship makes sense based on the book summary and chapter outline, as it follows the narrative of Thorndyke's investigation and courtroom demonstration.
+
+Since all atomic parts are grounded in the chapter outline and the relationship between them is valid and meaningful, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+   a. ""Dr. Thorndyke's investigation, which began with taking several prints of Walter's thumb"": This part is not grounded in the chapter outline or book summary. The outline and summary mention taking prints of Reuben's thumb, not Walter's.
+   b. ""Polton prepare enlarged photographs for analysis"": This part is grounded in Chapter 3, event 2, where Polton prepares enlarged photographs of thumb-prints for analysis.
+   c. ""culminates in a courtroom demonstration where he creates 10 fake and 10 real thumb-prints"": This part is grounded in Chapter 16, event 2, where Thorndyke demonstrates the forgery process by creating 10 fake and 10 real thumb-prints.
+   d. ""experts successfully distinguish"": This part contradicts Chapter 16, event 3, where the experts fail to correctly distinguish between the fake and real thumb-prints.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not valid because the claim incorrectly states that the investigation began with taking Walter's prints, which is not supported by the outline or summary.
+   b. The claim incorrectly states that experts successfully distinguish the prints, which contradicts the chapter outline.
+   c. The relationship is not meaningful due to the inaccuracies in the claim regarding the thumb-print analysis and the experts' success.
+
+Since parts 1a. and 1d. are not grounded in the provided information, and the relationship between the atomic parts is not valid or meaningful, the claim is INVALID."
+"John Hornby, who was experiencing financial difficulties due to mining investments, locked the diamonds in the safe himself the night before they were discovered missing.","Walter Hornby, who was experiencing financial difficulties due to mining investments, locked the diamonds in the safe himself the night before they were discovered missing.","In Chapter 2, it's stated that John Hornby personally locked the diamonds in the safe. The next morning, the diamonds were missing. Chapter 8 reveals that John Hornby was facing financial troubles due to mining investments. This connection suggests a potential motive for the theft, as well as the opportunity, since John Hornby had direct access to the safe.","The outline clearly states that John Hornby, not Walter, locked the diamonds in the safe, making this corrupted fact incorrect.","Chapter 2, 8","- Chapter 2, item 2: A parcel of diamonds arrives at Hornby's office and is locked in the safe by John Hornby himself.
+- Chapter 2, item 3: The next morning, the diamonds are discovered missing from the safe, with drops of blood and a clear thumb-print found inside.
+- Chapter 8, item 4: The narrator recounts his earlier conversation with Walter Hornby about John Hornby's financial difficulties due to mining investments.
+- Relationship: Potential motive and opportunity",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+    a. John Hornby, who was experiencing financial difficulties due to mining investments: This part is grounded in Chapter 8, event 4, where the narrator discusses John Hornby's financial difficulties due to mining investments.
+    b. John Hornby locked the diamonds in the safe himself the night before they were discovered missing: This part is grounded in Chapter 2, event 2, where it is stated that John Hornby locked the diamonds in the safe.
+
+2. Analysis of the relationship between atomic parts:
+    a. The relationship is meaningful and valid. The claim connects John Hornby's financial difficulties with the action of locking the diamonds in the safe, which is a key event in the narrative.
+    b. The relationship is not a subjective interpretation; it is based on the sequence of events described in the chapter outline.
+    c. The relationship makes sense based on the book summary and chapter outline, as it ties together John Hornby's financial situation with the events leading to the robbery.
+
+Since all considerations are satisfied, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+    a. ""Walter Hornby, who was experiencing financial difficulties due to mining investments"": This part is not grounded in the chapter outline. The financial difficulties due to mining investments are attributed to John Hornby, not Walter Hornby, as mentioned in Chapter 8, event 4.
+    b. ""locked the diamonds in the safe himself the night before they were discovered missing"": This part contradicts the chapter outline. According to Chapter 2, event 2, it was John Hornby who locked the diamonds in the safe, not Walter Hornby.
+
+2. Analysis of the relationship between atomic parts:
+    a. The relationship is not objectively valid because the atomic parts are not grounded in the chapter outline or book summary.
+    b. The relationship is a subjective interpretation and not explicitly stated in the summary or outline.
+    c. The relationship does not make sense based on the book summary and chapter outline, as it misattributes actions and circumstances to Walter Hornby that are not supported by the provided information.
+
+Since both atomic parts are not grounded in the provided information and the relationship between them is not valid, the claim is INVALID."
+"Dr. Thorndyke's detailed examination and photography of the thumb-print evidence, both at Scotland Yard and in his chambers, led to his discovery that the print found in the safe was a forgery.","Dr. Thorndyke's detailed examination and photography of the thumb-print evidence, both at Scotland Yard and in his chambers, confirmed that the print found in the safe was genuine.","Chapter 3 shows Thorndyke examining and photographing the evidence at Scotland Yard. In Chapter 5, Polton takes an enlarged photograph of the thumbprint from the Thumbograph. These detailed examinations culminate in Chapter 16, where Thorndyke reveals the thumb-print is a forgery based on discrepancies in size and a unique mark. This fact demonstrates the progression of Thorndyke's investigation and its outcome.","This corrupted fact contradicts the outcome of Thorndyke's investigation, as he actually proved the thumb-print was a forgery, not genuine.","Chapter 3, 5, 16","- Chapter 3, item 7: Thorndyke examines the evidence using a microscope and takes several photographs of the thumb-print and blood stains.
+- Chapter 5, item 5: Polton uses a large copying camera to take an enlarged photograph of the thumbprint.
+- Chapter 16, item 4: Thorndyke reveals that the thumb-print found in the safe is a forgery, explaining the discrepancies in size and the presence of a unique mark.
+- Relationship: Investigation process and outcome",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. ""Dr. Thorndyke's detailed examination and photography of the thumb-print evidence at Scotland Yard"": This part is grounded in Chapter 3, where Thorndyke and Jervis visit Scotland Yard to examine the original thumb-print evidence, and Thorndyke takes several photographs of the thumb-print and blood stains.
+   b. ""Dr. Thorndyke's detailed examination and photography of the thumb-print evidence in his chambers"": This part is grounded in Chapter 5, where Dr. Thorndyke examines the ""Thumbograph"" and photographs the thumbprint in his chambers.
+   c. ""led to his discovery that the print found in the safe was a forgery"": This part is grounded in Chapter 16, where Thorndyke reveals that the thumb-print found in the safe is a forgery.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is objectively valid and meaningful. The claim logically connects Thorndyke's detailed examination and photography of the thumb-print evidence to his discovery of the forgery.
+   b. The relationship is not a subjective interpretation; it is explicitly supported by the chapter outlines and the book summary.
+   c. The relationship makes sense based on the book summary and chapter outline, as Thorndyke's investigation and analysis of the thumb-print evidence are central to uncovering the forgery.
+
+Since all atomic parts are grounded in the chapter outlines and the relationship between them is valid and meaningful, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+   a. ""Dr. Thorndyke's detailed examination and photography of the thumb-print evidence, both at Scotland Yard and in his chambers"": This part is grounded in the chapter outlines. In Chapter 3, Thorndyke examines the thumb-print evidence at Scotland Yard (events 5-7), and in Chapter 5, he examines and photographs the thumbprint in his chambers (events 2-5).
+   b. ""confirmed that the print found in the safe was genuine"": This part contradicts the information provided in the book summary and chapter outline. The summary and Chapter 16 outline indicate that Thorndyke demonstrated the thumbprint was a forgery, not genuine.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not valid because the conclusion that the thumbprint was genuine contradicts the narrative's outcome, where Thorndyke proves the thumbprint was a forgery.
+   b. The relationship is not a subjective interpretation but is factually incorrect based on the provided information.
+   c. The relationship does not make sense based on the book summary and chapter outline, as it contradicts the established narrative.
+
+Since the second atomic part contradicts the summary and chapter outline, and the relationship between the parts is not valid, the claim is INVALID."
+"Mrs. Hornby, who initially agreed to let Dr. Thorndyke examine the Thumbograph, later testified in court using prepared answers written by Walter Hornby.","Mrs. Hornby, who initially refused to let Dr. Thorndyke examine the Thumbograph, later testified in court using prepared answers written by Walter Hornby.","In Chapter 4, Mrs. Hornby agrees to let Dr. Thorndyke examine the Thumbograph, showing her willingness to cooperate with the investigation. However, in Chapter 15, it is revealed during her cross-examination that she had prepared answers written by Walter Hornby for her testimony. This fact demonstrates how Walter Hornby attempted to influence the case by manipulating Mrs. Hornby's testimony, despite her earlier cooperation with Thorndyke.","The outline clearly states that Mrs. Hornby agreed to let Dr. Thorndyke examine the Thumbograph, not refused, making this corrupted fact incorrect.","Chapter 4, 15","- Chapter 4, item 3: Mrs. Hornby joins the conversation and agrees to let Dr. Thorndyke examine the Thumbograph.
+- Chapter 15, item 5: Sir Hector Trumpler cross-examines Mrs. Hornby, revealing that she had prepared answers written by Walter Hornby.
+- Relationship: Mrs. Hornby's involvement in the case and Walter Hornby's influence",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. ""Mrs. Hornby, who initially agreed to let Dr. Thorndyke examine the Thumbograph"": This part is grounded in Chapter 4, where Mrs. Hornby agrees to let Dr. Thorndyke examine the Thumbograph (event 3).
+   b. ""later testified in court using prepared answers written by Walter Hornby"": This part is grounded in Chapter 15, where Mrs. Hornby gives a confusing testimony about the Thumbograph book, and it is revealed during cross-examination that she had prepared answers written by Walter Hornby (events 4 and 5).
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is objectively valid and meaningful. It shows a progression from Mrs. Hornby agreeing to cooperate with the investigation to her later involvement in court proceedings where her testimony is influenced by prepared answers.
+   b. The relationship is not a subjective interpretation; it is explicitly supported by the chapter outline.
+   c. The relationship makes sense based on the book summary and chapter outline, as it highlights the complexity and potential manipulation within the case.
+
+Since all considerations are satisfied, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+    a. ""Mrs. Hornby, who initially refused to let Dr. Thorndyke examine the Thumbograph"": This part is not grounded in the chapter outline. In Chapter 4, Mrs. Hornby agrees to let Dr. Thorndyke examine the Thumbograph, and there is no mention of her initially refusing.
+    b. ""later testified in court using prepared answers written by Walter Hornby"": This part is grounded in Chapter 15, where Mrs. Hornby gives a confusing testimony about the Thumbograph book, and it is revealed during cross-examination that she had prepared answers written by Walter Hornby.
+
+2. Analysis of the relationship between atomic parts:
+    a. The relationship is not meaningful because the claim suggests a change in Mrs. Hornby's behavior from initially refusing to later testifying with prepared answers, but the initial refusal is not supported by the chapter outline.
+    b. The relationship is a subjective interpretation and not explicitly grounded in the summary or outline.
+    c. The relationship does not contradict any information in the summary or outline, but it is not supported by the provided details.
+
+Since 1a. is not satisfied and the relationship between the atomic parts is not meaningful, the claim is INVALID."
+Dr. Thorndyke was targeted by two separate assassination attempts: a projectile shot through a window and a suspicious package delivered to his chambers.,Dr. Thorndyke was targeted by two separate assassination attempts: a brick thrown through a window and a suspicious letter delivered to his chambers.,"In Chapter 11, Thorndyke and the narrator witness a window shattering due to a projectile, which is later revealed to be a sophisticated hypodermic needle designed to deliver poison. In Chapter 13, a suspicious package arrives at Thorndyke's chambers, which he carefully examines before opening. These two incidents, occurring in different locations and using different methods, demonstrate a pattern of attempts on Thorndyke's life.","The outline mentions a projectile (later revealed to be a hypodermic needle) and a suspicious package, not a brick or a letter, making this corrupted fact incorrect.","Chapter 11, 13","- Chapter 11, item 4: In John Street, they hear a sharp thud and see a window shatter, prompting them to chase after a fleeing cyclist.
+- Chapter 13, item 2: A suspicious package arrives, and Thorndyke examines its exterior, noting several anomalies in its presentation.
+- Relationship: Multiple attempts on Thorndyke's life",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+    a. ""Dr. Thorndyke was targeted by a projectile shot through a window"": This part is grounded in Chapter 11, where Thorndyke and the narrator encounter a broken window and examine a projectile, which Thorndyke secretly pockets. This suggests an assassination attempt.
+    b. ""A suspicious package delivered to his chambers"": This part is grounded in Chapter 13, where a suspicious package containing a potentially dangerous Trichinopoly cigar is delivered to Thorndyke's chambers, indicating another assassination attempt.
+
+2. Analysis of the relationship between atomic parts:
+    a. The relationship is objectively valid and meaningful, as both events involve attempts on Dr. Thorndyke's life, indicating a pattern of targeted attacks.
+    b. The relationship is not a subjective interpretation; it is explicitly supported by the events described in the chapter outlines.
+    c. The relationship makes sense based on the book summary and chapter outline, as both incidents involve potential threats to Thorndyke's life.
+
+Since both atomic parts are grounded in the chapter outlines and the relationship between them is valid and meaningful, the claim is consistent with the provided information.",INVALID,"1. Analysis of atomic parts:
+    a. ""Dr. Thorndyke was targeted by two separate assassination attempts"": This part is a summary of the events described in the chapter outlines.
+    b. ""a brick thrown through a window"": This part is not explicitly mentioned in the chapter outline. Instead, the outline describes a ""sharp thud"" and a ""window shatter"" in Chapter 11, but it does not specify that a brick was thrown.
+    c. ""a suspicious letter delivered to his chambers"": This part is not mentioned in the chapter outline. Instead, Chapter 13 describes a suspicious package containing a cigar, not a letter.
+
+2. Analysis of the relationship between atomic parts:
+    a. The relationship is not meaningful because the claim inaccurately describes the events. The chapter outlines do not mention a brick or a letter; instead, they describe a hypodermic needle and a suspicious package with a cigar.
+    b. The relationship is a subjective interpretation and not explicitly grounded in the summary or outline.
+    c. The relationship does not contradict any information in the summary, but it misrepresents the details provided in the chapter outlines.
+
+Since 1b., 1c., 2a., and 2b. are not satisfied, the claim is INVALID."
+"The thumb-print found in John Hornby's safe after the diamonds went missing, which Mr. Singleton testified as matching Reuben Hornby's, was later revealed by Dr. Thorndyke to be a forgery based on size discrepancies and a unique mark.","The thumb-print found in John Hornby's safe after the diamonds went missing, which Mr. Singleton testified as matching Reuben Hornby's, was later revealed by Dr. Thorndyke to be genuine based on size similarities and the absence of any unique marks.","This fact combines information from multiple chapters to show the progression of the thumb-print evidence. It starts with the discovery of the print in the safe (Chapter 2), moves to the expert testimony identifying it as Reuben's (Chapter 15), and concludes with Thorndyke's revelation that it's a forgery (Chapter 16).","This corrupted fact contradicts Thorndyke's actual findings. He revealed the print to be a forgery, not genuine, and based this on size discrepancies and the presence of a unique mark, not size similarities and the absence of marks.","Chapters 2, 15, 16","- Chapter 2, item 2: A parcel of diamonds arrives at Hornby's office and is locked in the safe by John Hornby himself.
+- Chapter 2, item 3: The next morning, the diamonds are discovered missing from the safe, with drops of blood and a clear thumb-print found inside.
+- Chapter 15, item 2: Mr. Singleton testifies that the thumbprint on the paper matches Reuben Hornby's.
+- Chapter 16, item 4: Thorndyke reveals that the thumb-print found in the safe is a forgery, explaining the discrepancies in size and the presence of a unique mark.
+- Relationship: Central element (thumb-print evidence)",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. ""The thumb-print found in John Hornby's safe after the diamonds went missing"": This part is grounded in event 3 of Chapter 2, where the thumbprint is found inside the safe after the diamonds are discovered missing.
+   b. ""Mr. Singleton testified as matching Reuben Hornby's"": This part is grounded in event 2 of Chapter 15, where Mr. Singleton, a fingerprint expert, testifies that the thumbprint matches Reuben Hornby's.
+   c. ""was later revealed by Dr. Thorndyke to be a forgery based on size discrepancies and a unique mark"": This part is grounded in event 4 of Chapter 16, where Dr. Thorndyke reveals that the thumbprint is a forgery, explaining the discrepancies in size and the presence of a unique mark.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is objectively valid and meaningful. The claim logically connects the discovery of the thumbprint, the expert testimony, and the subsequent revelation of forgery by Dr. Thorndyke.
+   b. The relationship is not a subjective interpretation; it is explicitly stated in the chapter outline and consistent with the book summary.
+   c. The relationship makes sense based on the book summary and chapter outline, as it follows the progression of the investigation and trial.
+
+Since all atomic parts are grounded in the chapter outline and the relationship between them is valid and meaningful, the claim is consistent with the provided information.",INVALID,"1. Analysis of atomic parts:
+   a. ""The thumb-print found in John Hornby's safe after the diamonds went missing"": This part is grounded in event 3 of Chapter 2, where a thumbprint is found in the safe.
+   b. ""Mr. Singleton testified as matching Reuben Hornby's"": This part is grounded in event 2 of Chapter 15, where Mr. Singleton, a fingerprint expert, testifies that the thumbprint matches Reuben Hornby's.
+   c. ""was later revealed by Dr. Thorndyke to be genuine based on size similarities and the absence of any unique marks"": This part contradicts the information in Chapter 16, where Dr. Thorndyke reveals that the thumbprint is a forgery, not genuine, and explains discrepancies in size and the presence of a unique mark.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not valid because the claim incorrectly states that Dr. Thorndyke revealed the thumbprint to be genuine, whereas he actually demonstrated it was a forgery.
+   b. The relationship is not a subjective interpretation but is factually incorrect based on the chapter outline.
+   c. The relationship does not make sense based on the book summary and chapter outline, as it contradicts the events described.
+
+Since part 1c contradicts the chapter outline and the relationship between the atomic parts is not valid, the claim is INVALID."

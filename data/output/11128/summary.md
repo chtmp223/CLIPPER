@@ -1,0 +1,15 @@
+In the opening chapter, the narrator encounters an old friend, Dr. John Evelyn Thorndyke, a former medical practitioner who has transitioned into law, combining his medical expertise with legal practice. They agree to meet later to discuss Thorndyke's career shift. The narrator, Dr. Jervis, is currently unemployed and available to assist Thorndyke, who is now a barrister with chambers in the Inner Temple. They plan to reconnect over dinner to share their autobiographies and catch up on their lives since they last met.
+
+The narrative then shifts to a legal case involving Reuben Hornby, who is accused of stealing a valuable parcel of diamonds from his uncle, John Hornby's business. The diamonds were placed in a safe by John Hornby, and the next morning, they were missing. The only clue is a thumbprint in blood found on a piece of paper inside the safe, which experts identify as Reuben's. Despite the overwhelming evidence against him, Reuben maintains his innocence and seeks Thorndyke's help.
+
+Miss Juliet Gibson, a close family friend of the Hornbys, also believes in Reuben's innocence and offers financial support for his defense. She shares with Jervis her observations of the Hornby family dynamics, revealing that Walter Hornby, another nephew, has expressed romantic interest in her, but she is not engaged to him.
+
+Thorndyke and Jervis investigate the case, focusing on the thumbprint evidence. They visit Scotland Yard to examine the print and discuss the possibility of forgery. Thorndyke demonstrates that it is possible to create a counterfeit thumbprint indistinguishable from the original, suggesting that the evidence against Reuben might be fabricated.
+
+Throughout the investigation, Thorndyke remains secretive about his findings, even to Jervis, who assists him. Meanwhile, Jervis becomes increasingly fond of Juliet, though he is aware of the complications due to Reuben's situation.
+
+As the trial approaches, Thorndyke and his team prepare their defense, focusing on the possibility that someone with access to Reuben's thumbprint could have forged the evidence. They also consider John Hornby's financial troubles and the possibility that he might have staged the theft to cover his losses.
+
+During the trial, Thorndyke presents his findings, demonstrating the ease of forging a thumbprint and casting doubt on the prosecution's evidence. He reveals that the thumbprint in the safe was likely a forgery, made using a print from a "Thumbograph" book that Mrs. Hornby had shown to a detective. This revelation leads to Reuben's acquittal, as the jury finds the evidence against him insufficient.
+
+The narrative concludes with Reuben's release and the restoration of his reputation. Jervis reflects on the complexities of the case and his own feelings for Juliet, who remains a close friend and ally throughout the ordeal. The story highlights the importance of scientific inquiry and the potential for justice to prevail against seemingly insurmountable odds.

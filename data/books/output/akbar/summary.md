@@ -1,0 +1,13 @@
+In "Cyrus Shams," we are introduced to the titular character, a young Iranian-American man grappling with existential questions and a tumultuous past. The narrative is set in Keady University, Indiana, in 2015, where Cyrus experiences a moment of perceived divine intervention that sparks his quest for meaning. This quest is complicated by his struggles with addiction, the death of his parents, and his Iranian heritage.
+
+Cyrus's father, Ali Shams, was a man burdened by the tragedies of his life, including the death of his wife, Roya, in a plane crash caused by the U.S. Navy. This event looms large over Cyrus's life, influencing his thoughts on martyrdom and meaning. Ali raised Cyrus in Indiana, working at a chicken farm and trying to instill in him a sense of American identity, while also grappling with his own grief and the challenges of single parenthood.
+
+Cyrus's journey is intertwined with his friendship with Zee Novak, his Polish-Egyptian roommate. Zee is a grounding force for Cyrus, often challenging his ideas and supporting him through his recovery from addiction. Their relationship is complex, marked by shared struggles and moments of deep connection.
+
+The narrative shifts to Brooklyn, where Cyrus encounters Orkideh, an enigmatic Iranian artist who is spending her final days in a museum as part of her installation, "Death-Speak." Orkideh's presence and her conversations with Cyrus force him to confront his ideas about life, death, and art. Through these interactions, Cyrus learns about Orkideh's own past, including her escape from Iran after the revolution and her life as an artist in America.
+
+Orkideh's death and the revelation that she is, in fact, Cyrus's mother, Roya, who survived the plane crash by switching identities with her lover, Leila, shatter Cyrus's understanding of his past. This revelation forces him to reevaluate his ideas of martyrdom and meaning, as he grapples with feelings of abandonment and betrayal.
+
+Throughout the novel, themes of identity, belonging, and the search for meaning are explored against the backdrop of Cyrus's Iranian heritage and his life in America. The narrative weaves together past and present, reality and dreams, as Cyrus seeks to understand his place in the world and the legacy of his family.
+
+In the end, Cyrus's journey is one of reconciliation—coming to terms with his past, his parents' choices, and his own desires for his life. The novel closes with a sense of hope and acceptance, as Cyrus finds peace in the complexities of his identity and the possibilities of his future.

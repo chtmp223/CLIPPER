@@ -1,0 +1,15 @@
+Tom Swift Jr., an eighteen-year-old inventor, finds himself embroiled in a series of mysterious and potentially catastrophic events. It all begins when he is tasked with solving a problem with a gyro-stabilizer for Mark Faber, the president of Faber Electronics Company. However, their work is interrupted by a sudden and violent earthquake, which causes significant destruction and injuries, including to Faber himself. Tom and his friend Bud Barclay manage to escape the collapsing building, but they are left wondering about the unusual nature of the quake.
+
+Back at Swift Enterprises, Tom is informed by his father, Tom Swift Sr., about an upcoming visit from a being of pure energy sent by their mysterious space friends. This energy is intended to observe and report back on life on Earth. Tom is tasked with building a container to house the energy, allowing it to interact with the world. As he works on this project, Tom is also troubled by reports of other earthquakes, including one that devastates a rocket nose-cone plant in Medfield. These quakes seem too targeted to be natural, leading Tom to suspect foul play.
+
+Meanwhile, Tom encounters a mysterious hitchhiker who forces him to drive into Swift Enterprises. The man, who is later identified as Samson Narko, a Brungarian spy, is detained but refuses to talk. Tom learns from Interpol and the CIA that the Brungarian rebels are once again active, and they may have developed a way to cause artificial earthquakes using shock waves.
+
+As Tom continues to work on the space-brain container, he devises a plan to counteract the earthquake threat. He proposes building a "Quakelizor," a device capable of detecting and deflecting these artificial shock waves. With the help of government scientists, Tom begins setting up a network of detectors and prepares to install the Quakelizor in a cave in Colorado.
+
+In the midst of these developments, Tom and his friends experience a personal brush with disaster when a tidal wave, presumably caused by another quake, hits Lake Carlopa during a sailing trip. Although they survive, the incident underscores the urgency of Tom's mission.
+
+Back at Enterprises, Tom faces another challenge as two of his radio sets explode mysteriously, possibly due to enemy interference. Despite these setbacks, Tom remains focused on completing the Quakelizor. He successfully installs the device in the Colorado cave, just in time to prevent a major quake from striking Washington, D.C.
+
+Meanwhile, Narko, fearing for his life, agrees to talk in exchange for deportation. He reveals that the rebels plan to destroy Washington, D.C., confirming Tom's fears about the quake threat. With this information, Tom's efforts become even more critical.
+
+As the deadline for the arrival of the space brain approaches, Tom and his team prepare to receive the energy. Despite the risks, Tom is determined to protect and utilize the space brain for the benefit of Earth, while also thwarting the Brungarian rebels' plans. The stage is set for a high-stakes confrontation as Tom races against time to safeguard both his country and the mysterious visitor from space.

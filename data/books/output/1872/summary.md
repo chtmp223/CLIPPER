@@ -1,0 +1,17 @@
+In the drowsy heat of a summer afternoon, the Red House, a country estate owned by Mark Ablett, is disturbed by a mysterious event. Audrey Stevens, a parlour-maid, discusses with her aunt, Mrs. Stevens, the unexpected arrival of Mark's estranged brother, Robert, from Australia. Robert has not been seen for fifteen years, and his sudden reappearance raises eyebrows among the staff. Mark had announced at breakfast that Robert was visiting, a revelation that surprised everyone as none in the household had ever heard of him during their tenure.
+
+As the household goes about its day, Antony Gillingham, a visitor to the area, arrives at the Red House. He finds the house in chaos after a gunshot is heard, and Mark is nowhere to be found. Cayley, Mark's cousin and right-hand man, is in a state of panic, trying to break into the locked office where the shot was fired. Antony assists him, and they discover Robert's dead body inside.
+
+Inspector Birch is called to investigate. The evidence suggests that Mark, who is missing, might have shot his brother and fled. Antony, however, is not convinced by this straightforward explanation. He begins to investigate, noting peculiarities such as the placement of keys outside doors and the behavior of the household staff.
+
+Antony's investigation leads him to suspect that Cayley knows more than he admits. He discovers that Cayley has been moving keys around to manipulate the crime scene. Antony also learns about a secret passage in the house, which was used by Miss Norris, a guest, during a ghostly prank. This passage could be crucial to understanding the events leading to Robert's death.
+
+Antony deduces that Cayley might be protecting Mark or hiding something more sinister. He theorizes that Mark might have accidentally killed Robert in a struggle and that Cayley is helping him escape. Alternatively, Cayley might have his own reasons for wanting Robert dead, possibly to protect Mark or because of a personal vendetta.
+
+As Antony delves deeper, he uncovers a letter from Robert to Mark, suggesting a confrontation was planned. However, the letter's timing and contents raise suspicions about its authenticity and the true nature of Robert's visit.
+
+The story unfolds with Antony playing the detective, piecing together clues from the behavior of the household, the layout of the house, and the relationships between the characters. He questions the staff, examines the crime scene, and considers the possibility of a staged murder.
+
+Ultimately, Antony's investigation reveals that Cayley is indeed hiding something. He discovers Cayley emerging from a croquet box, suggesting he is using the secret passage. This revelation aligns with Antony's suspicion that the passage is central to the mystery.
+
+The novel concludes with Antony's realization that Cayley's actions are not just about protecting Mark but involve a deeper, more personal motive. The truth about Robert's death and Mark's disappearance is intricately tied to the dynamics within the Red House and the secrets its walls hold. Antony's role as an amateur detective uncovers a complex web of deceit, loyalty, and hidden agendas, leading to a resolution that challenges initial assumptions about guilt and innocence.

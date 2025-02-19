@@ -1,0 +1,15 @@
+The story unfolds on the Kansas prairie, a land marked by desolation and the bones of buffalo, horses, and men. Calvin Morgan, a rugged and determined man, arrives in Ascalon, a town notorious for lawlessness and violence. Ascalon is a cattle town, living off the herds driven northward and known as the wickedest place in America. The town's notoriety attracts gamblers, outlaws, and those seeking thrill, while respectable citizens live in fear.
+
+Morgan, a former cowboy turned professor, comes to Ascalon with the hope of farming the land, believing in its potential for wheat cultivation. However, he quickly becomes embroiled in the town's troubles. Seth Craddock, the city marshal, rules Ascalon with violence, having killed eight men in as many days. The town's citizens, weary of the bloodshed, seek a change.
+
+Rhetta Thayer, the daughter of Judge Thayer, who is also the mayor, becomes a key figure in urging Morgan to take on the role of city marshal and bring order to Ascalon. Despite the danger, Morgan accepts, driven by a sense of duty and perhaps a growing affection for Rhetta.
+
+Morgan's first major act as marshal is to confront Craddock and his gang. Using his skills with a rope rather than a gun, he captures Craddock and sends him out of town in a coffin box, a move that temporarily brings peace to Ascalon. However, Craddock's departure does not end the town's troubles. Peden, a powerful saloon owner, and other outlaws challenge Morgan's authority, leading to a violent confrontation in which Morgan is forced to kill Peden and his hired gunmen.
+
+The bloodshed weighs heavily on Morgan, particularly as it affects his relationship with Rhetta. She struggles with the reality of the violence necessary to bring peace to the town, and Morgan feels the burden of the blood on his hands. Despite this, he continues his work, determined to make Ascalon safe.
+
+Ascalon's transformation is not without cost. The town's economy, once fueled by vice, suffers as the saloons and gambling houses close. Many citizens, who once supported Morgan, turn against him, blaming him for their financial woes. Yet, Morgan remains steadfast, knowing he has done what was necessary.
+
+In the end, a new era begins for Ascalon. The town's notorious past is purged by fire, and with the promise of rain and the arrival of settlers, a brighter future is on the horizon. Morgan resigns as marshal, having fulfilled his duty. His relationship with Rhetta, strained by the violence, finds healing as she comes to understand the depth of his sacrifice and the purity of his intentions.
+
+Thirty years later, the Kansas prairie, once a land of bones, is transformed into a thriving agricultural region, testament to the vision and perseverance of those like Morgan who saw its potential. The story closes with Morgan and Rhetta, now older but unbowed by time, visiting the sod house where their journey began, a symbol of their enduring love and the legacy of a land redeemed.

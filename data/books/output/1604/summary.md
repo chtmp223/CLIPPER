@@ -1,0 +1,15 @@
+In the Pacific island of Papeete, three destitute men, Robert Herrick, Captain John Davis, and a clerk named Huish, find themselves stranded and struggling to survive. Herrick, a failed scholar from England, grapples with his shame and the downward spiral of his life. Davis, a disgraced sea captain, and Huish, an unscrupulous clerk, join Herrick in their shared misery. The three men are "on the beach," a South Sea term for impoverished foreigners in the islands, and they lack the means to escape their plight.
+
+Their fortunes take a turn when they come across the Farallone, a schooner that has been abandoned due to a smallpox outbreak. The trio seizes the opportunity to commandeer the ship, hoping to find a better life or at least a means to continue their existence. They set sail, but their journey is fraught with tension, as the men are bound together by necessity rather than friendship.
+
+As they navigate the seas, they encounter Attwater, a mysterious and commanding figure who resides on a secluded island. Attwater is a man of contradictions, exhibiting both religious zeal and a cold, calculating nature. He has established a pearl-fishing operation and rules over the island with an iron hand. The three men see an opportunity in Attwater's wealth, particularly his collection of pearls, and they plot to rob him.
+
+Herrick, who is tormented by his conscience and the moral implications of their plan, struggles with his role in the scheme. He is both repelled and fascinated by Attwater, whose charisma and authority unsettle him. As Herrick becomes more entangled in the plot, he is forced to confront his own values and the depths of his despair.
+
+The tension between the men escalates, with Davis and Huish eager to execute their plan, while Herrick is increasingly conflicted. Attwater, aware of their intentions, plays a dangerous game, testing the men's resolve and moral fiber. He invites them to dinner, where the atmosphere is charged with unspoken threats and hidden agendas.
+
+As the evening progresses, Herrick's internal struggle reaches a breaking point. He is caught between his loyalty to his companions and his growing admiration for Attwater, who represents both a threat and a moral challenge. The dinner becomes a psychological battleground, with Attwater's probing questions and Herrick's mounting guilt creating a volatile mix.
+
+The story explores themes of morality, survival, and the human capacity for self-deception. Herrick's journey is one of self-discovery, as he grapples with his failures and the possibility of redemption. The narrative delves into the complexities of human nature, the allure of wealth, and the thin veneer of civilization that separates order from chaos.
+
+Ultimately, the tale is a meditation on the choices that define us and the consequences of those choices. In the isolated and lawless environment of the South Seas, the characters are stripped to their core, revealing the raw and often troubling aspects of their personalities. The island becomes a crucible where their true selves are tested, and the outcome is as uncertain as the shifting tides of the ocean that surrounds them.

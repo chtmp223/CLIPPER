@@ -1,0 +1,21 @@
+In a quaint village nestled between the Weald and the sea, Putnam's is a storied stable known for its tradition in horse training, helmed by the enigmatic Old Mat Woodburn. A character as colorful as the horses he trains, Old Mat is a veteran in the racing world, renowned for his unconventional methods and a penchant for jumpers. He is a man of mystery, often seen muttering to himself and engaging in humorous banter with his head-lad, Monkey Brand, a cockney with a storied past and unmatched skill with horses. Together, they form a formidable team, bound by a shared love for horses and a deep understanding of the racing world.
+
+Old Mat's wife, Patience Longstaffe, known as Ma Woodburn, is a woman of strength and serenity, deeply respected in the village. She is the daughter of Preacher Joe, a revered figure who founded a chapel at God-First Farm. Patience brings a sense of calm and balance to Putnam's, complementing her husband's roguish charm with her practical wisdom. She is the backbone of the stable, managing it with a quiet authority and a deep love for the land and its creatures.
+
+Their daughter, Boy Woodburn, is a striking figure, a blend of her parents' best traits. With her fair hair and deep gray eyes, she is as headstrong as she is capable. Raised among horses, Boy is a natural rider with an ambition to match the best. Her secret dream is to ride the Grand National winner, a goal she nurtures with fierce determination.
+
+Enter Jim Silver, a young banker with a passion for horses. He is drawn to Putnam's and becomes a regular visitor, forming a bond with the Woodburns, particularly with Boy. Silver is a man of integrity, caught in the throes of financial trouble due to the collapse of the Union Bank of Brazil and Uruguay, a legacy from his father. Despite his troubles, he is determined to maintain his love for horses and the racing world.
+
+The narrative unfolds against the backdrop of the racing season, with the Grand National looming large. The Woodburns have a promising young horse, Four-Pound-the-Second, a colt with the potential to win the prestigious race. However, the path is fraught with challenges, including the presence of Joses, a disreputable figure with a past linked to the Three J's—Jaggers, the trainer; Chukkers, the jockey; and Ikey Aaronsohnn, the owner—known for their underhanded tactics in the racing world.
+
+Joses, a man with a checkered past and a knack for trouble, is lurking around Putnam's, raising suspicions. His intentions are unclear, but his presence is unsettling, especially to Monkey Brand, who keeps a close watch on him. As the race approaches, tensions rise, and the stakes become higher.
+
+Boy, determined to prove herself, takes charge of training Four-Pound-the-Second, with Albert, a promising young lad, as her ally. The colt is a challenge, but Boy's skill and patience begin to show results. Her relationship with Silver deepens, despite moments of misunderstanding and miscommunication.
+
+As the Grand National draws near, the racing world converges on Aintree, and the excitement is palpable. The race is a spectacle, with the American mare Mocassin, ridden by Chukkers, as the favorite. The Woodburns' colt is an outsider, but Boy's training and Albert's riding skills give them hope.
+
+The race is a thrilling affair, with Four-Pound-the-Second emerging victorious, much to the delight of Putnam's and the dismay of the Three J's. Boy's strategic planning and Albert's execution pay off, and Silver's fortunes take a turn for the better.
+
+In the aftermath, Boy and Silver's relationship solidifies, with the promise of a shared future. The victory is not just a triumph on the track but a testament to the power of perseverance, integrity, and the unyielding spirit of the Woodburns and their allies.
+
+The story weaves together themes of tradition, ambition, and the timeless bond between humans and horses, set against the vibrant tapestry of the English countryside and the exhilarating world of horse racing.

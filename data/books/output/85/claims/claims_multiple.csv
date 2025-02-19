@@ -1,0 +1,416 @@
+facts,corrupted_facts,fact_reasoning,corrupted_reasoning,source,brainstorm,duplication,duplication_reasoning,verify_facts,verify_facts_reasoning,verify_corruption,verify_corruption_reasoning
+"Jane's son Jack, who was reported stolen in a telegram to Tarzan, was not the baby Jane found with her on the Kincaid.","Jane's son Jack, who was reported stolen in a telegram to Tarzan, was the baby Jane found with her on the Kincaid.","In Chapter 1, Tarzan receives a telegram from Jane stating their son Jack was stolen. In Chapter 2, Jane searches for Tarzan and her son on the Kincaid. However, in Chapter 12, Jane discovers that the baby with her is not her own. This sequence of events reveals that the baby Jane had been caring for was not her stolen son Jack.","This corrupted fact contradicts the information in Chapter 12, where Jane discovers the baby with her is not her own, making it incorrect.","Chapter 1, 2, 12","- Chapter 1, item 2: Tarzan receives a telegram from Jane about their son Jack being stolen.
+- Chapter 2, item 2: Jane searches the Kincaid for Tarzan and her son, but is captured by Nikolas Rokoff.
+- Chapter 12, item 1: Jane discovers the baby with her is not her own.
+- Relationship: Central element (Jane's son)",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+    a. ""Jane's son Jack, who was reported stolen in a telegram to Tarzan"": This part is grounded in the book summary and Chapter 1 outline, where it is mentioned that Tarzan receives a telegram from Jane informing him that their son Jack has been stolen.
+    b. ""was not the baby Jane found with her on the Kincaid"": This part is grounded in Chapter 12 outline, where Jane discovers that the baby with her is not her own.
+
+2. Analysis of the relationship between atomic parts:
+    a. The relationship is objectively valid and meaningful. The claim establishes a connection between the initial kidnapping of Jack and the later discovery by Jane that the baby with her is not Jack.
+    b. The relationship is not a subjective interpretation; it is explicitly supported by the events described in the chapter outline.
+    c. The relationship makes sense based on the book summary and chapter outline, as it aligns with the narrative of Jane's struggle and the deception orchestrated by Rokoff.
+
+Since all considerations are satisfied, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+   a. ""Jane's son Jack, who was reported stolen in a telegram to Tarzan"": This part is grounded in the book summary and Chapter 1 outline, where it is mentioned that Tarzan receives a telegram from Jane informing him that their son Jack has been stolen.
+   b. ""was the baby Jane found with her on the Kincaid"": This part is not supported by the chapter outline. In Chapter 12, it is revealed that the baby with Jane is not her own, indicating that the baby she found with her on the Kincaid is not Jack.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not valid because the claim incorrectly asserts that the baby Jane found with her on the Kincaid is Jack, which contradicts the information in Chapter 12.
+   b. The relationship is not a subjective interpretation but rather a factual error based on the provided information.
+   c. The relationship does not make sense based on the book summary and chapter outline, as it contradicts the events described.
+
+Since the second atomic part is not grounded in the chapter outline and the relationship between the parts is factually incorrect, the claim is INVALID."
+"Tarzan, initially set ashore on what appeared to be the African coast, discovers he is on an island and prepares to leave with Mugambi.","Tarzan, initially set ashore on what appeared to be the African coast, discovers he is on a peninsula and prepares to leave with Mugambi.","In Chapter 2, Tarzan is set ashore on what appears to be the African coast. However, in Chapter 4, after exploring the shoreline for several days, Tarzan realizes he has been marooned on an island. Finally, in Chapter 5, Tarzan and Mugambi prepare to leave the island. This sequence of events shows Tarzan's evolving understanding of his location and his subsequent actions.","The corrupted fact incorrectly states that Tarzan discovers he is on a peninsula, while the outline clearly states he realizes he is on an island, making this version inaccurate.","Chapter 2, 4, 5","- Chapter 2, item 7: Tarzan is set ashore on what appears to be the African coast.
+- Chapter 4, item 4: Tarzan explores the shoreline for several days, realizing he has been marooned on an island.
+- Chapter 5, item 7: Tarzan and Mugambi prepare to leave the island.
+- Relationship: Temporal sequence (Tarzan's location)",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+    a. ""Tarzan, initially set ashore on what appeared to be the African coast"": This part is grounded in event 7 of Chapter 2, where Tarzan is set ashore and watches the Kincaid depart.
+    b. ""discovers he is on an island"": This part is grounded in event 4 of Chapter 4, where Tarzan realizes he has been marooned on an island.
+    c. ""prepares to leave with Mugambi"": This part is grounded in events 5 and 7 of Chapter 5, where Tarzan captures Mugambi and prepares to leave the island.
+
+2. Analysis of the relationship between atomic parts:
+    a. The relationship is objectively valid and meaningful. The sequence of events follows a logical progression: Tarzan is set ashore, discovers he is on an island, and then prepares to leave with Mugambi.
+    b. The relationship is not a subjective interpretation; it is explicitly grounded in the chapter outline.
+    c. The relationship makes sense based on the book summary and chapter outline, as it aligns with Tarzan's journey and efforts to reunite with his family.
+
+Since all atomic parts are grounded in the chapter outline and the relationship between them is valid and meaningful, the claim is coherent with the provided information.",INVALID,"1. Analysis of atomic parts:
+   a. ""Tarzan, initially set ashore on what appeared to be the African coast"": This part is grounded in event 7 of Chapter 2, where Tarzan is set ashore and believes he is on the African coast.
+   b. ""discovers he is on a peninsula"": This part is not grounded in the chapter outline. In Chapter 4, Tarzan realizes he is marooned on an island, not a peninsula.
+   c. ""prepares to leave with Mugambi"": This part is grounded in Chapter 5, where Tarzan and Mugambi prepare to leave the island.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not meaningful because the claim incorrectly states that Tarzan discovers he is on a peninsula, which contradicts the information in the chapter outline that he is on an island.
+   b. The relationship is not explicitly stated in the summary or outline, as the claim introduces an incorrect geographical detail.
+   c. The relationship does not make sense based on the book summary and chapter outline due to the incorrect mention of a peninsula.
+
+Since part 1b is not grounded in the chapter outline and the relationship between the atomic parts is not meaningful or coherent with the provided information, the claim is INVALID."
+"Both Rokoff and Paulvitch separately demand large sums of money from Jane and Tarzan, respectively, using threats against their family's safety as leverage.","Both Rokoff and Paulvitch jointly demand a large sum of money from Jane and Tarzan, using threats against their family's safety as leverage.","In Chapter 2, Rokoff demands a large sum of money from Jane in exchange for her and her family's safety. Later in the same chapter, Paulvitch demands another large sum of money from Tarzan, also threatening Jane and their son's safety. These parallel actions demonstrate that both villains use similar extortion tactics against the couple.","The corrupted fact incorrectly states that Rokoff and Paulvitch make their demands jointly, while the outline clearly shows they make separate demands, making this version inaccurate.",Chapter 2,"- Chapter 2, item 4: Rokoff demands a large sum of money from Jane for her family's safety.
+- Chapter 2, item 5: Paulvitch demands another large sum of money from Tarzan, threatening Jane and their son's safety.
+- Relationship: Similar actions (extortion attempts)",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. Rokoff demands a large sum of money from Jane using threats against their family's safety as leverage: This part is grounded in event 4 of Chapter 2, where Rokoff visits Jane and demands money for her and her family's safety.
+   b. Paulvitch demands a large sum of money from Tarzan using threats against their family's safety as leverage: This part is grounded in event 5 of Chapter 2, where Paulvitch brings Tarzan on deck and demands money, threatening Jane and their son's safety.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is objectively valid and meaningful, as both Rokoff and Paulvitch are using threats against the family's safety to extort money from Jane and Tarzan, respectively.
+   b. The relationship is not a subjective interpretation; it is explicitly stated in the chapter outline.
+   c. The relationship makes sense based on the book summary and chapter outline, as both characters are involved in the plot against Tarzan and his family.
+
+Since all considerations are satisfied, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+   a. ""Rokoff and Paulvitch jointly demand a large sum of money from Jane and Tarzan"": This part is partially grounded in the chapter outline. Rokoff demands money from Jane in event 4, and Paulvitch demands money from Tarzan in event 5. However, there is no indication that these demands are made jointly.
+   b. ""using threats against their family's safety as leverage"": This part is grounded in the chapter outline, as both Rokoff and Paulvitch use threats against Jane and their son's safety to demand money (events 4 and 5).
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not objectively valid because the chapter outline does not indicate that Rokoff and Paulvitch make their demands jointly. They make separate demands to Jane and Tarzan.
+   b. The relationship is a subjective interpretation, as the claim suggests a joint action that is not explicitly stated in the chapter outline.
+   c. The relationship does not contradict the summary or outline, but it is not supported by the details provided.
+
+Since the claim inaccurately represents the demands as being made jointly, which is not supported by the chapter outline, the claim is INVALID."
+"Tarzan establishes a relationship with Akut's ape tribe by demonstrating dominance and living among them, which later results in the apes assisting him in battle against warriors.","Tarzan establishes a relationship with Akut's ape tribe by taking leadership and living among them, which later results in the apes assisting him in battle against warriors.","In Chapter 3, Tarzan confronts Akut and establishes dominance without taking leadership. In Chapter 4, he introduces himself to the tribe and spends time living among them to establish a relationship. The outcome of this relationship is evident in Chapter 5, where a group of apes arrives to assist Tarzan in defeating the warriors. This sequence shows the development of Tarzan's alliance with the apes.","The corrupted fact incorrectly states that Tarzan takes leadership of the ape tribe, while the outline clearly states he establishes dominance without taking leadership, making this version inaccurate.","Chapter 3, 4, 5","- Chapter 3, item 3: Tarzan confronts Akut, the new leader of the ape tribe, and establishes dominance without taking leadership.
+- Chapter 4, item 3: Tarzan introduces himself to Akut's tribe and spends time living among them to establish a relationship.
+- Chapter 5, item 3: Sheeta the panther and a group of apes arrive to assist Tarzan in defeating the warriors.
+- Relationship: Development of alliance (Tarzan and the apes)",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+    a. ""Tarzan establishes a relationship with Akut's ape tribe by demonstrating dominance and living among them"": This part is grounded in Chapter 4, where Tarzan confronts Akut, establishes dominance, and spends time living among the ape tribe to build a relationship.
+    b. ""which later results in the apes assisting him in battle against warriors"": This part is grounded in Chapter 5, where the apes, along with Sheeta the panther, assist Tarzan in defeating the warriors.
+
+2. Analysis of the relationship between atomic parts:
+    a. The relationship is objectively valid and meaningful. Tarzan's actions in Chapter 4, where he establishes a relationship with the ape tribe, logically lead to the apes assisting him in Chapter 5.
+    b. The relationship is not a subjective interpretation; it is explicitly supported by the sequence of events in the chapter outline.
+    c. The relationship makes sense based on the book summary and chapter outline, as it aligns with Tarzan's ability to communicate and collaborate with wild creatures, as mentioned in the summary.
+
+Since all considerations are satisfied, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+   a. ""Tarzan establishes a relationship with Akut's ape tribe by taking leadership and living among them"": This part is partially grounded in the chapter outline. Tarzan does establish a relationship with Akut's tribe by living among them (Chapter 4, event 3), but he does not take leadership. Instead, he establishes dominance without taking leadership (Chapter 3, event 3).
+   b. ""which later results in the apes assisting him in battle against warriors"": This part is grounded in Chapter 5, events 2 and 3, where the apes assist Tarzan in battle against the warriors.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not entirely valid because the claim inaccurately states that Tarzan takes leadership of the ape tribe, which is not supported by the chapter outline. The relationship between establishing a relationship with the tribe and their assistance in battle is meaningful, but the claim's inaccuracy about leadership undermines its validity.
+   b. The relationship is not a subjective interpretation but is based on events in the chapter outline.
+   c. The relationship does not contradict the book summary or chapter outline, but the claim's inaccuracy about leadership affects its coherence.
+
+Since the claim inaccurately states that Tarzan takes leadership, which is not supported by the chapter outline, the claim is INVALID."
+"Tarzan is captured by Rokoff in a village, subjected to physical abuse and a native death dance, before being freed by Mugambi, leading to a battle at the village gate.","Tarzan is captured by Rokoff in a village, subjected to physical abuse and a native death dance, before escaping on his own, leading to a battle at the village gate.","In Chapter 7, Rokoff captures Tarzan in a village, binding and kicking him. Chapter 8 shows Tarzan subjected to a native death dance and further abuse by Rokoff. In Chapter 10, Mugambi arrives to free Tarzan, resulting in a fierce battle against the natives at the village gate. This sequence of events outlines Tarzan's capture, mistreatment, and eventual escape.","The corrupted fact incorrectly states that Tarzan escapes on his own, while the outline clearly shows that Mugambi frees him, making this version inaccurate.","Chapter 7, 8, 10","- Chapter 7, item 7: Rokoff returns to the village with his men, surprising the sleeping Tarzan, who is then bound and kicked in the face by Rokoff.
+- Chapter 8, item 6: The natives begin their death dance around Tarzan, with Rokoff taunting and physically abusing the captive.
+- Chapter 10, item 2: Mugambi arrives and frees Tarzan, leading to a fierce battle against the natives at the village gate.
+- Relationship: Sequence of events (Tarzan's capture and escape)",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. ""Tarzan is captured by Rokoff in a village"": This part is grounded in Chapter 7, event 7, where Rokoff surprises the sleeping Tarzan and captures him.
+   b. ""subjected to physical abuse and a native death dance"": This part is grounded in Chapter 8, event 6, where Rokoff taunts and physically abuses Tarzan, and the natives begin their death dance around him.
+   c. ""before being freed by Mugambi"": This part is grounded in Chapter 10, event 2, where Mugambi arrives and frees Tarzan.
+   d. ""leading to a battle at the village gate"": This part is grounded in Chapter 10, event 2, where a battle ensues against the natives at the village gate.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is objectively valid and meaningful. The sequence of events follows a logical progression: Tarzan is captured, abused, and subjected to a death dance, then freed by Mugambi, leading to a battle.
+   b. The relationship is not a subjective interpretation; it is explicitly grounded in the chapter outline.
+   c. The relationship makes sense based on the book summary and chapter outline, as it aligns with the narrative of Tarzan's capture and subsequent escape.
+
+Since all atomic parts are grounded in the chapter outline, and the relationship between them is valid and meaningful, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+   a. ""Tarzan is captured by Rokoff in a village"": This part is grounded in Chapter 7, where Tarzan is surprised by Rokoff and his men in a village and is bound.
+   b. ""subjected to physical abuse and a native death dance"": This part is grounded in Chapter 8, where Rokoff taunts and physically abuses Tarzan, and the natives begin a death dance around him.
+   c. ""before escaping on his own, leading to a battle at the village gate"": This part is not grounded in the chapter outline. In Chapter 10, Tarzan is freed by Mugambi, not by his own actions, and then a battle ensues at the village gate.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship between the first two parts is valid and meaningful, as they are sequential events that occur due to Rokoff's actions.
+   b. The relationship between the second and third parts is not valid. The claim suggests that Tarzan escapes on his own, which contradicts the outline where Mugambi frees him.
+   c. The relationship is not explicitly stated in the summary or outline, and the claim misrepresents the sequence of events.
+
+Since part 1c is not grounded in the chapter outline and the relationship between parts 2b and 2c is not valid, the claim is INVALID."
+"Anderssen, who helped Jane and a baby escape from the Kincaid by rowing them up the Ugambi River, later dies after revealing to Tarzan his attempt to help Jane and explaining that Rokoff has taken Tarzan's wife and child.","Anderssen, who helped Jane and a baby escape from the Kincaid by rowing them up the Ugambi River, later dies after revealing to Tarzan that Jane and the child are safe in a nearby village.","In Chapter 9, Anderssen helps Jane and a baby escape from the Kincaid, rowing them up the Ugambi River. In Chapter 10, Tarzan encounters a dying Swede, who is revealed to be Anderssen. Before succumbing to his wounds, Anderssen explains to Tarzan that he attempted to help Jane and that Rokoff has taken Tarzan's wife and child. This sequence reveals Anderssen's actions and his final revelation to Tarzan.","The corrupted fact incorrectly states that Anderssen reveals Jane and the child are safe, while the outline clearly shows that he tells Tarzan that Rokoff has taken them, making this version inaccurate.","Chapter 9, 10","- Chapter 9, item 3: Anderssen helps Jane and the baby escape from the Kincaid at night, rowing them up the Ugambi River and its tributary.
+- Chapter 10, item 6: Tarzan fights and kills the native warrior, then confronts the Swede, demanding information about his wife and child.
+- Chapter 10, item 7: The dying Swede, Anderssen, reveals that Rokoff has taken Tarzan's wife and child, and explains his own attempt to help them before succumbing to his wounds.
+- Relationship: Revelation of past events (Anderssen's actions)",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. ""Anderssen, who helped Jane and a baby escape from the Kincaid by rowing them up the Ugambi River"": This part is grounded in Chapter 9, events 3 and 4, where Anderssen assists Jane and the baby in escaping from the Kincaid and rowing them up the Ugambi River.
+   b. ""later dies after revealing to Tarzan his attempt to help Jane and explaining that Rokoff has taken Tarzan's wife and child"": This part is grounded in Chapter 10, events 6 and 7, where Anderssen, before dying, reveals to Tarzan his attempt to help Jane and informs him that Rokoff has taken his wife and child.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is objectively valid and meaningful. The sequence of events is coherent, as Anderssen's actions in helping Jane and the baby escape are directly related to his later revelation to Tarzan.
+   b. The relationship is not a subjective interpretation; it is explicitly stated in the chapter outline.
+   c. The relationship makes sense based on the book summary and chapter outline, as it aligns with the narrative of Anderssen aiding Jane and later providing crucial information to Tarzan.
+
+Since all considerations are satisfied, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+    a. ""Anderssen, who helped Jane and a baby escape from the Kincaid by rowing them up the Ugambi River"": This part is grounded in events 3 and 4 of Chapter 9, where Anderssen assists Jane and the baby in escaping the Kincaid and rowing them up the Ugambi River.
+    b. ""later dies after revealing to Tarzan that Jane and the child are safe in a nearby village"": This part is partially grounded in Chapter 10, where Anderssen, before dying, reveals to Tarzan that Rokoff has taken his wife and child. However, there is no explicit mention in the outline that Anderssen confirms Jane and the child are safe in a nearby village.
+
+2. Analysis of the relationship between atomic parts:
+    a. The relationship is not fully valid because while Anderssen does help Jane escape and later dies, the claim that he reveals Jane and the child are safe in a nearby village is not explicitly supported by the chapter outline.
+    b. The relationship is a subjective interpretation, as the outline does not confirm the safety of Jane and the child in a nearby village.
+    c. The relationship does not contradict the summary or outline, but it lacks explicit support for the claim about the safety revelation.
+
+Since 1b. and 2a. are not fully satisfied, the claim is INVALID."
+"Despite Anderssen's efforts to hide Jane and the baby from Rokoff, the Russian finds Jane in a hut with the now-deceased child, thwarting his plans for vengeance.","Despite Anderssen's efforts to hide Jane and the baby from Rokoff, the Russian finds Jane in a hut with the healthy child, allowing him to proceed with his plans for vengeance.","In Chapter 12, Anderssen hides Jane and the baby as Rokoff approaches, instructing Jane to seek help in a nearby village. However, later in the same chapter, Rokoff appears in the hut where Jane is holding the now-deceased baby. Chapter 13 reveals that when Rokoff confronts Jane about the child, he discovers it's dead, which thwarts his plans for vengeance. This sequence shows how Anderssen's attempt to protect Jane ultimately fails, but Rokoff's plans are still foiled by the baby's death.","The corrupted fact incorrectly states that Rokoff finds Jane with a healthy child, while the outline clearly shows that the baby is deceased when Rokoff arrives, making this version inaccurate.","Chapter 12, 13","- Chapter 12, item 4: As Rokoff approaches, Anderssen hides Jane and the baby, then goes to confront the Russian while instructing Jane to seek help in a nearby village.
+- Chapter 12, item 7: Nikolas Rokoff appears in the hut where Jane is holding the now-deceased baby.
+- Chapter 13, item 1: Rokoff confronts Jane about the child, only to discover it's dead, thwarting his plans for vengeance.
+- Relationship: Sequence of events (Jane, the baby, and Rokoff)",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. ""Despite Anderssen's efforts to hide Jane and the baby from Rokoff"": This part is grounded in event 4 of Chapter 12, where Anderssen hides Jane and the baby as Rokoff approaches.
+   b. ""the Russian finds Jane in a hut with the now-deceased child"": This part is grounded in event 7 of Chapter 12, where Rokoff appears in the hut where Jane is holding the now-deceased baby.
+   c. ""thwarting his plans for vengeance"": This part is grounded in event 1 of Chapter 13, where Rokoff discovers the child is dead, thwarting his plans for vengeance.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is objectively valid and meaningful. Anderssen's efforts to hide Jane and the baby are directly related to Rokoff finding Jane, which in turn affects his plans for vengeance.
+   b. The relationship is not a subjective interpretation; it is explicitly grounded in the chapter outline.
+   c. The relationship makes sense based on the book summary and chapter outline, as it follows the sequence of events and the motivations of the characters involved.
+
+Since all considerations are satisfied, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+   a. ""Despite Anderssen's efforts to hide Jane and the baby from Rokoff"": This part is grounded in event 4 of Chapter 12, where Anderssen hides Jane and the baby as Rokoff approaches.
+   b. ""the Russian finds Jane in a hut with the healthy child"": This part is not grounded in the chapter outline. In event 7 of Chapter 12, Rokoff finds Jane in a hut, but the child is deceased, not healthy.
+   c. ""allowing him to proceed with his plans for vengeance"": This part is not explicitly grounded in the chapter outline. In Chapter 13, Rokoff's plans are thwarted because the child is dead, which contradicts the claim that he can proceed with his plans for vengeance.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not valid because the claim incorrectly states that the child is healthy, which contradicts the chapter outline where the child is deceased.
+   b. The relationship is a subjective interpretation and not explicitly grounded in the summary or outline.
+   c. The relationship does not make sense based on the book summary and chapter outline, as the presence of a deceased child does not allow Rokoff to proceed with his plans for vengeance.
+
+Since 1b., 1c., 2a., and 2b. are not satisfied, the claim is INVALID."
+Jane's decision to release two imprisoned sailors in an attempt to set the Kincaid adrift backfires when the freed sailors overpower her after she is distracted by gunshots and a woman's scream from upriver.,Jane's decision to release two imprisoned sailors in an attempt to set the Kincaid adrift succeeds when the freed sailors help her navigate the ship away from danger after hearing gunshots and a woman's scream from upriver.,"In Chapter 15, Jane spots a ship's boat approaching, fearing it contains members of the Kincaid's missing crew. In Chapter 16, she releases two imprisoned sailors and attempts to set the Kincaid adrift. However, later in the same chapter, Jane is overpowered by the very sailors she released when she becomes distracted by gunshots and a woman's scream from upriver. This sequence shows how Jane's attempt to take control of the situation ultimately leads to her being overpowered.","The corrupted fact incorrectly states that the released sailors help Jane, while the outline clearly shows that they overpower her, making this version inaccurate.","Chapter 15, 16","- Chapter 15, item 4: Jane spots a ship's boat approaching from upstream, fearing it contains members of the Kincaid's missing crew.
+- Chapter 16, item 5: Jane releases two imprisoned sailors and attempts to set the Kincaid adrift at night.
+- Chapter 16, item 7: Jane is overpowered by the sailors she released when distracted by gunshots and a woman's scream from upriver.
+- Relationship: Consequence of actions (Jane's decision to release sailors)",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+    a. ""Jane's decision to release two imprisoned sailors"": This part is grounded in event 5 of Chapter 16, where Jane releases two imprisoned sailors.
+    b. ""in an attempt to set the Kincaid adrift"": This part is also grounded in event 5 of Chapter 16, where Jane attempts to set the Kincaid adrift at night.
+    c. ""backfires when the freed sailors overpower her"": This part is grounded in event 7 of Chapter 16, where Jane is overpowered by the sailors she released.
+    d. ""after she is distracted by gunshots and a woman's scream from upriver"": This part is grounded in event 7 of Chapter 16, where Jane is distracted by gunshots and a woman's scream from upriver.
+
+2. Analysis of the relationship between atomic parts:
+    a. The relationship is objectively valid and meaningful. Jane's decision to release the sailors is directly linked to her attempt to set the Kincaid adrift, and the consequence of this decision is that the sailors overpower her when she is distracted.
+    b. The relationship is not a subjective interpretation; it is explicitly stated in the chapter outline.
+    c. The relationship makes sense based on the book summary and chapter outline. There is no contradiction with the information provided in the summary or outline.
+
+Since all considerations are satisfied, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+    a. Jane's decision to release two imprisoned sailors: This part is grounded in event 5 of Chapter 16.
+    b. Attempt to set the Kincaid adrift: This part is also grounded in event 5 of Chapter 16.
+    c. The freed sailors help her navigate the ship away from danger: This part is not supported by the chapter outline. Instead, event 6 of Chapter 16 indicates that the Kincaid runs aground on a low-lying bar in the river channel, suggesting that the attempt to set the ship adrift was unsuccessful.
+    d. Hearing gunshots and a woman's scream from upriver: This part is grounded in event 7 of Chapter 16, but there is no indication that it is related to the sailors helping Jane navigate the ship.
+
+2. Analysis of the relationship between atomic parts:
+    a. The relationship is not objectively valid because the claim suggests a successful outcome (navigating the ship away from danger) that is not supported by the chapter outline.
+    b. The relationship is a subjective interpretation and not explicitly grounded in the summary or outline.
+    c. The relationship does not make sense based on the book summary and chapter outline, as the events described do not lead to the claimed outcome.
+
+Since 1c., 2a., and 2b. are not satisfied, the claim is INVALID."
+"Tarzan rescues Jane from two sailors on the Kincaid's deck, followed by the arrival of Rokoff, his men, and Tarzan's allies, leading to a battle between the two groups on the ship's deck.","Tarzan rescues Jane from two sailors on the Kincaid's deck, followed by the arrival of Rokoff, his men, and Tarzan's allies, leading to a peaceful negotiation between the two groups on the ship's deck.","In Chapter 17, Tarzan swims to the Kincaid after hearing gunfire and rescues Jane from two sailors on deck. Immediately after, Rokoff and his men climb aboard the ship, followed by Mugambi, the apes, and Sheeta the panther (Tarzan's allies). This leads to a battle on the deck between Tarzan's allies and Rokoff's men, with some of Rokoff's crew fleeing to the forecastle. This sequence of events shows how Tarzan's rescue of Jane quickly escalates into a larger conflict on the Kincaid.","The corrupted fact incorrectly states that a peaceful negotiation occurs, while the outline clearly describes a battle ensuing on the deck, making this version inaccurate.",Chapter 17,"- Chapter 17, item 2: Tarzan swims to the Kincaid after hearing gunfire and rescues Jane from two sailors on deck.
+- Chapter 17, item 3: Rokoff and his men climb aboard the Kincaid, followed by Mugambi, the apes, and Sheeta the panther.
+- Chapter 17, item 4: A battle ensues on deck between Tarzan's allies and Rokoff's men, with some of Rokoff's crew fleeing to the forecastle.
+- Relationship: Sequence of events (Battle on the Kincaid)",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. ""Tarzan rescues Jane from two sailors on the Kincaid's deck"": This part is grounded in event 2 of Chapter 17, where Tarzan swims to the Kincaid and rescues Jane from two sailors on deck.
+   b. ""followed by the arrival of Rokoff, his men, and Tarzan's allies"": This part is grounded in event 3 of Chapter 17, where Rokoff and his men, along with Mugambi, the apes, and Sheeta the panther, climb aboard the Kincaid.
+   c. ""leading to a battle between the two groups on the ship's deck"": This part is grounded in event 4 of Chapter 17, where a battle ensues on deck between Tarzan's allies and Rokoff's men.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is objectively valid and meaningful. The sequence of events logically follows: Tarzan rescues Jane, Rokoff and his men arrive, and a battle ensues.
+   b. The relationship is not a subjective interpretation; it is explicitly stated in the chapter outline.
+   c. The relationship makes sense based on the book summary and chapter outline, as it aligns with the narrative of Tarzan's pursuit of Rokoff and the ensuing conflict.
+
+Since all atomic parts are grounded in the chapter outline, and the relationship between them is valid and meaningful, the claim is consistent with the provided information.",INVALID,"1. Analysis of atomic parts:
+    a. ""Tarzan rescues Jane from two sailors on the Kincaid's deck"": This part is grounded in event 2 of Chapter 17, where Tarzan swims to the Kincaid and rescues Jane from two sailors.
+    b. ""followed by the arrival of Rokoff, his men, and Tarzan's allies"": This part is grounded in event 3 of Chapter 17, where Rokoff and his men, along with Mugambi, the apes, and Sheeta the panther, climb aboard the Kincaid.
+    c. ""leading to a peaceful negotiation between the two groups on the ship's deck"": This part is not grounded in the chapter outline. Instead, event 4 describes a battle ensuing on the deck between Tarzan's allies and Rokoff's men, which contradicts the notion of a peaceful negotiation.
+
+2. Analysis of the relationship between atomic parts:
+    a. The relationship is not objectively valid or meaningful because the chapter outline explicitly describes a battle, not a peaceful negotiation.
+    b. The relationship is a subjective interpretation and not explicitly stated in the summary or outline.
+    c. The relationship does not make sense based on the book summary and chapter outline, as the events lead to conflict rather than negotiation.
+
+Since part 1c is not grounded in the chapter outline and the relationship described in 2a is not valid, the claim is INVALID."
+"Paulvitch sneaks aboard the anchored Kincaid at night, sets an infernal machine in his cabin, and departs, which later causes an explosion on the ship as it sails towards Jungle Island.","Paulvitch sneaks aboard the anchored Kincaid at night, disarms an infernal machine in his cabin, and departs, which later prevents an explosion on the ship as it sails towards Jungle Island.","In Chapter 18, Paulvitch paddles to the anchored Kincaid at night, retrieves a black box containing an infernal machine from his cabin, sets it, and departs in his canoe. In Chapter 19, as the Kincaid sails towards Jungle Island, an explosion occurs in Alexander Paulvitch's cabin, causing panic among the crew and animals on deck. This sequence of events clearly shows that Paulvitch's actions directly led to the explosion on the Kincaid.",The corrupted fact incorrectly states that Paulvitch disarms the inf,"Chapter 18, 19","- Chapter 18, item 4: Paulvitch paddles down the river at night, locating the anchored Kincaid.
+- Chapter 18, item 7: Paulvitch retrieves a black box containing an infernal machine from his cabin, sets it, and departs the ship in his canoe.
+- Chapter 19, item 2: The Kincaid sails down the Ugambi and out to the Atlantic, heading towards Jungle Island.
+- Chapter 19, item 3: An explosion occurs in Alexander Paulvitch's cabin, causing panic among the crew and animals on deck.
+- Relationship: Cause and effect (Paulvitch's actions and the explosion)",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+    a. ""Paulvitch sneaks aboard the anchored Kincaid at night"": This part is grounded in event 5 of Chapter 18, where Paulvitch sneaks aboard the Kincaid.
+    b. ""sets an infernal machine in his cabin"": This part is grounded in event 7 of Chapter 18, where Paulvitch retrieves a black box containing an infernal machine and sets it.
+    c. ""departs"": This part is grounded in event 7 of Chapter 18, where Paulvitch departs the ship in his canoe.
+    d. ""which later causes an explosion on the ship as it sails towards Jungle Island"": This part is grounded in event 3 of Chapter 19, where an explosion occurs in Paulvitch's cabin as the Kincaid sails towards Jungle Island.
+
+2. Analysis of the relationship between atomic parts:
+    a. The relationship is objectively valid and meaningful. The sequence of events logically follows: Paulvitch sneaks aboard, sets the infernal machine, departs, and the machine later causes an explosion.
+    b. The relationship is not a subjective interpretation; it is explicitly grounded in the chapter outline.
+    c. The relationship makes sense based on the book summary and chapter outline, as it aligns with the events described in both.
+
+Since all atomic parts are grounded in the chapter outline, and the relationship between them is valid and meaningful, the claim is consistent with the provided information.",INVALID,"1. Analysis of atomic parts:
+   a. ""Paulvitch sneaks aboard the anchored Kincaid at night"": This part is grounded in event 5 of Chapter 18, where Paulvitch sneaks aboard the Kincaid.
+   b. ""disarms an infernal machine in his cabin"": This part is not grounded in the chapter outline. Instead, event 7 of Chapter 18 states that Paulvitch retrieves a black box containing an infernal machine, sets it, and departs the ship.
+   c. ""departs, which later prevents an explosion on the ship as it sails towards Jungle Island"": This part contradicts the chapter outline. In Chapter 19, an explosion occurs in Paulvitch's cabin, indicating that the infernal machine was not disarmed and did indeed cause an explosion.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not valid because the claim incorrectly states that Paulvitch disarmed the infernal machine, which contradicts the events in the chapter outline where an explosion occurs.
+   b. The relationship is a subjective interpretation and not explicitly grounded in the summary or outline.
+   c. The relationship does not make sense based on the book summary and chapter outline, as the explosion is a significant event in Chapter 19.
+
+Since 1b., 1c., 2a., and 2b. are not satisfied, the claim is INVALID."
+"While the new servant Carl kidnapped Tarzan and Jane's son in London, the Kincaid's cook Anderssen helped Jane and a baby escape from the ship by rowing them up the Ugambi River.","While the new servant Carl helped Jane escape from London, the Kincaid's cook Anderssen kidnapped Tarzan and Jane's son by rowing them up the Ugambi River.","This fact contrasts the actions of two servants: Carl, who kidnapped Tarzan and Jane's son in London (Chapter 1), and Anderssen, who helped Jane and a baby escape from the Kincaid (Chapter 9). It demonstrates how different servants played crucial roles in the fate of Jane and her child(ren) at different points in the story.","This corrupted fact reverses the roles of Carl and Anderssen, making it incorrect based on the information provided in the chapter outlines.","Chapter 1, 9","- Chapter 1, item 3: Jane explains how their son was kidnapped by their new servant Carl and an accomplice in a taxicab.
+- Chapter 9, item 3: Anderssen helps Jane and the baby escape from the Kincaid at night, rowing them up the Ugambi River and its tributary.
+- Relationship: Contrast in servants' actions",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. ""The new servant Carl kidnapped Tarzan and Jane's son in London"": This part is grounded in event 3 of Chapter 1, where Jane explains to Tarzan how their son was kidnapped by their new servant Carl and an accomplice.
+   b. ""The Kincaid's cook Anderssen helped Jane and a baby escape from the ship by rowing them up the Ugambi River"": This part is grounded in events 2 and 3 of Chapter 9, where Sven Anderssen interrupts Rokoff's assault on Jane and helps her and the baby escape from the Kincaid by rowing them up the Ugambi River.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is meaningful and valid. Both parts are connected through the narrative of Jane's struggle and eventual escape with the help of Anderssen, following the kidnapping of her son.
+   b. The relationship is not a subjective interpretation; it is explicitly grounded in the chapter outline.
+   c. The relationship makes sense based on the book summary and chapter outline, as it follows the sequence of events where Jane's son is kidnapped, and later, she is helped by Anderssen to escape.
+
+Since all considerations are satisfied, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+    a. ""While the new servant Carl helped Jane escape from London"": This part is not grounded in the chapter outline or book summary. The outline mentions Carl as an accomplice in the kidnapping of Tarzan and Jane's son, not as someone who helped Jane escape.
+    b. ""the Kincaid's cook Anderssen kidnapped Tarzan and Jane's son by rowing them up the Ugambi River"": This part is incorrect. According to Chapter 9, Anderssen helps Jane and the baby escape from the Kincaid by rowing them up the Ugambi River, but there is no mention of Anderssen kidnapping the child. Instead, he is portrayed as an ally to Jane.
+
+2. Analysis of the relationship between atomic parts:
+    a. The relationship is not valid because the claim incorrectly attributes actions to the characters. Carl is not mentioned as helping Jane escape, and Anderssen is not described as kidnapping the child.
+    b. The relationship is a subjective interpretation and not explicitly grounded in the summary or outline.
+    c. The relationship contradicts the information in the chapter outline, which portrays Anderssen as an ally, not a kidnapper.
+
+Since 1a., 1b., 2a., and 2b. are not satisfied, the claim is INVALID."
+The child Rokoff held up on the Kincaid's deck as Tarzan was marooned is not the same child Jane later buries outside M'ganwazam's village.,The child Rokoff held up on the Kincaid's deck as Tarzan was marooned is the same child Jane later buries outside M'ganwazam's village.,"This fact highlights a significant contrast in the story. In Chapter 2, Tarzan sees Rokoff holding up a child on the Kincaid's deck as he's marooned. However, in Chapter 12, Jane buries a dead child outside M'ganwazam's village. This indicates that the child Rokoff displayed was not the same one that died and was buried by Jane, revealing a complex situation involving multiple children in the narrative.","This corrupted fact incorrectly states that the child on the Kincaid's deck is the same one Jane buries, which contradicts the information provided in the chapter outlines and the overall narrative.","Chapter 2, 12","- Chapter 2, item 7: Tarzan is set ashore on what appears to be the African coast, watching helplessly as the Kincaid departs with Rokoff holding up a child on deck.
+- Chapter 12, item 7: Jane buries the dead child outside the village of M'ganwazam, accompanied by Rokoff and his men.
+- Relationship: Contrast in the fate of the child",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. ""The child Rokoff held up on the Kincaid's deck as Tarzan was marooned"": This part is grounded in Chapter 2, event 7, where Tarzan sees Rokoff holding up a child on the deck of the Kincaid.
+   b. ""is not the same child Jane later buries outside M'ganwazam's village"": This part is grounded in Chapter 12, event 7, where Jane is holding a deceased baby in the hut when Rokoff appears.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is meaningful and valid. The claim suggests that the child held by Rokoff on the Kincaid is different from the child Jane buries, which is supported by Chapter 12, event 1, where Jane discovers the baby with her is not her own.
+   b. The relationship is not a subjective interpretation; it is based on the events described in the chapter outline.
+   c. The relationship makes sense based on the book summary and chapter outline, as the narrative involves deceit and manipulation by Rokoff, which could include switching the children.
+
+Since all considerations are satisfied, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+   a. ""The child Rokoff held up on the Kincaid's deck as Tarzan was marooned"": This part is grounded in event 7 of Chapter 2, where Tarzan is set ashore and sees Rokoff holding up a child on the Kincaid's deck.
+   b. ""The same child Jane later buries outside M'ganwazam's village"": This part is grounded in event 7 of Chapter 12, where Jane is holding a now-deceased baby when Rokoff appears.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not explicitly stated in the summary or outline. The claim assumes that the child held by Rokoff is the same child Jane later buries, but there is no direct evidence or confirmation of this in the provided materials.
+   b. The relationship is a subjective interpretation, as the outline does not confirm the identity of the child held by Rokoff or the child Jane buries.
+   c. The relationship does not contradict any information in the summary or outline, but it is not explicitly supported either.
+
+Since the relationship between the atomic parts is not explicitly grounded in the summary or outline and relies on a subjective interpretation, the claim is INVALID."
+"Sheeta, the panther Tarzan freed from a fallen tree and hunted with for days, ultimately abandons Tarzan by racing towards the jungle upon reaching shore after the Kincaid's destruction.","Sheeta, the panther Tarzan freed from a fallen tree and hunted with for days, remains loyal to Tarzan by staying with him upon reaching shore after the Kincaid's destruction.","This fact traces the evolution of Tarzan's relationship with Sheeta the panther. In Chapter 4, Tarzan frees Sheeta from a fallen tree and forms an alliance with him, hunting together for days. However, in Chapter 19, after the Kincaid is destroyed and they reach shore, Sheeta races towards the jungle, leaving Tarzan and the other humans behind. This demonstrates how the initial alliance between Tarzan and Sheeta ultimately ends with the panther returning to its natural habitat.","This corrupted fact incorrectly states that Sheeta remains loyal to Tarzan, which contradicts the information in Chapter 19 where Sheeta races towards the jungle, leaving the humans behind.","Chapter 4, 19","- Chapter 4, item 5: Tarzan discovers a panther trapped under a fallen tree and decides to free it instead of killing it.
+- Chapter 4, item 6: Tarzan and the freed panther (now referred to as Sheeta) form an alliance, hunting together for several days.
+- Chapter 19, item 6: Upon reaching the shore, Sheeta and the apes of Akut race towards the jungle, leaving the humans behind.
+- Relationship: Development of Tarzan's relationship with Sheeta",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. ""Sheeta, the panther Tarzan freed from a fallen tree and hunted with for days"": This part is grounded in events 5 and 6 of Chapter 4, where Tarzan frees a panther trapped under a fallen tree and forms an alliance with it, referring to it as Sheeta.
+   b. ""ultimately abandons Tarzan by racing towards the jungle upon reaching shore after the Kincaid's destruction"": This part is grounded in event 6 of Chapter 19, where Sheeta and the apes of Akut race towards the jungle after reaching the shore.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is objectively valid and meaningful. The claim describes a sequence of events where Sheeta, who was previously allied with Tarzan, leaves him upon reaching the shore.
+   b. The relationship is not a subjective interpretation; it is explicitly grounded in the chapter outline.
+   c. The relationship makes sense based on the book summary and chapter outline. There is no contradiction, as the summary mentions Tarzan's bond with the animals of the jungle, including Sheeta, and the chapter outline supports the sequence of events described in the claim.
+
+Since all considerations are satisfied, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+   a. ""Sheeta, the panther Tarzan freed from a fallen tree and hunted with for days"": This part is grounded in events 5 and 6 of Chapter 4, where Tarzan frees a panther trapped under a fallen tree and forms an alliance with it, referring to it as Sheeta.
+   b. ""remains loyal to Tarzan by staying with him upon reaching shore after the Kincaid's destruction"": This part is not grounded in Chapter 19. Event 6 of Chapter 19 states that Sheeta and the apes of Akut race towards the jungle, leaving the humans behind upon reaching the shore, which contradicts the claim that Sheeta stays with Tarzan.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not valid because the claim that Sheeta remains loyal by staying with Tarzan is contradicted by the outline, which states that Sheeta leaves for the jungle.
+   b. The relationship is not a subjective interpretation but is explicitly contradicted by the chapter outline.
+   c. The relationship does not make sense based on the chapter outline, as it directly contradicts the events described.
+
+Since 1b. and 2a. are not satisfied, the claim is INVALID."
+Rokoff demonstrates his violent nature by kicking the bound Tarzan in the face in a village and later threatening Jane in her cabin on the Kincaid.,Rokoff demonstrates his peaceful nature by freeing the bound Tarzan in a village and later offering Jane protection in her cabin on the Kincaid.,"This fact highlights Rokoff's consistent violent behavior towards both Tarzan and Jane. In Chapter 7, Rokoff physically assaults Tarzan by kicking him in the face while he is bound. Later, in Chapter 9, Rokoff threatens Jane in her cabin on the Kincaid. These actions, occurring in different locations and against different targets, illustrate Rokoff's persistent aggression throughout the story.","This corrupted fact completely misrepresents Rokoff's actions and character, portraying him as peaceful when the chapter outlines clearly show his violent and threatening behavior.","Chapter 7, 9","- Chapter 7, item 7: Rokoff returns to the village with his men, surprising the sleeping Tarzan, who is then bound and kicked in the face by Rokoff.
+- Chapter 9, item 1: Rokoff visits Jane Clayton's cabin on the Kincaid, threatening her and offering a proposal, which she firmly rejects.
+- Relationship: Rokoff's consistent violent behavior towards Tarzan and Jane",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. ""Rokoff demonstrates his violent nature by kicking the bound Tarzan in the face in a village"": This part is grounded in event 7 of Chapter 7, where Rokoff surprises the sleeping Tarzan, who is then bound and kicked in the face by Rokoff.
+   b. ""later threatening Jane in her cabin on the Kincaid"": This part is grounded in event 1 of Chapter 9, where Rokoff visits Jane Clayton's cabin on the Kincaid and threatens her.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is objectively valid and meaningful. Both actions demonstrate Rokoff's violent and threatening nature, which is consistent with his role as the antagonist in the narrative.
+   b. The relationship is not a subjective interpretation; it is explicitly supported by the events described in the chapter outlines.
+   c. The relationship makes sense based on the book summary and chapter outline, as Rokoff is depicted as a violent and manipulative character throughout the narrative.
+
+Since both atomic parts are grounded in the chapter outlines and the relationship between them is meaningful and consistent with the narrative, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+   a. ""Rokoff demonstrates his peaceful nature by freeing the bound Tarzan in a village"": This part is not grounded in the chapter outline. In Chapter 7, Rokoff surprises the sleeping Tarzan and binds him, but there is no mention of Rokoff freeing Tarzan. This contradicts the claim of Rokoff demonstrating a peaceful nature.
+   b. ""later offering Jane protection in her cabin on the Kincaid"": This part is also not grounded in the chapter outline. In Chapter 9, Rokoff visits Jane's cabin on the Kincaid to threaten her and offer a proposal, which she rejects. There is no mention of Rokoff offering protection to Jane; instead, he is portrayed as a threat.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not objectively valid or meaningful. Both parts of the claim are not supported by the chapter outline, and the actions described contradict Rokoff's character as depicted in the summary and outline.
+   b. The relationship is a subjective interpretation and not explicitly grounded in the summary or outline.
+   c. The relationship does not make sense based on the book summary and chapter outline, as Rokoff is consistently portrayed as an antagonist.
+
+Since neither atomic part is grounded in the provided information, and the relationship between them is not valid, the claim is INVALID."
+"The rifle and ammunition Jane finds hidden by Anderssen while fleeing through the jungle is later used by her to fire at Rokoff's approaching canoe from the Kincaid, forcing it to retreat.","The rifle and ammunition Jane finds hidden by Anderssen while fleeing through the jungle is later used by Rokoff to fire at Jane's approaching canoe from the Kincaid, forcing her to retreat.","This fact connects two events involving Jane and a rifle. In Chapter 14, Jane finds a rifle and ammunition hidden by Anderssen while fleeing through the jungle. Later, in Chapter 16, Jane uses a rifle to fire at Rokoff's approaching canoe from the Kincaid, forcing it to retreat. The connection between these events suggests that the rifle Jane uses on the Kincaid is likely the same one she found earlier, demonstrating how Anderssen's foresight in hiding the weapon ultimately aids Jane in defending herself against Rokoff.","This corrupted fact incorrectly reverses the roles of Jane and Rokoff, stating that Rokoff uses the rifle against Jane, which contradicts the information provided in the chapter outlines.","Chapter 14, 16","- Chapter 14, item 2: Jane Clayton flees through the jungle, finding a rifle and ammunition hidden by Anderssen.
+- Chapter 16, item 5: Jane fires at Rokoff's approaching canoe from the Kincaid, forcing it to retreat to shore.
+- Relationship: Jane's use of the rifle for self-defense",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+    a. ""The rifle and ammunition Jane finds hidden by Anderssen while fleeing through the jungle"": This part is grounded in event 2 of Chapter 14, where Jane finds a rifle and ammunition hidden by Anderssen.
+    b. ""is later used by her to fire at Rokoff's approaching canoe from the Kincaid, forcing it to retreat"": This part is grounded in event 4 of Chapter 16, where Jane fires at Rokoff's approaching canoe from the Kincaid, forcing it to retreat to shore.
+
+2. Analysis of the relationship between atomic parts:
+    a. The relationship is objectively valid and meaningful. The claim establishes a causal link between Jane finding the rifle and ammunition and her later use of them to fire at Rokoff's canoe.
+    b. The relationship is not a subjective interpretation or assumption; it is a logical sequence of events based on the chapter outline.
+    c. The relationship makes sense based on the book summary and chapter outline. There is no contradicting information, and the sequence of events is coherent with the narrative.
+
+Since all considerations are satisfied, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+   a. ""The rifle and ammunition Jane finds hidden by Anderssen while fleeing through the jungle"": This part is grounded in event 2 of Chapter 14, where Jane finds a rifle and ammunition hidden by Anderssen.
+   b. ""is later used by Rokoff to fire at Jane's approaching canoe from the Kincaid, forcing her to retreat"": This part is not grounded in the chapter outline. In Chapter 16, it is Jane who fires at Rokoff's approaching canoe from the Kincaid, not the other way around. There is no mention of Rokoff using the rifle and ammunition found by Jane to fire at her.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not objectively valid because the sequence of events described in the claim does not occur in the chapter outline. Jane uses the rifle to fire at Rokoff, not the other way around.
+   b. The relationship is a subjective interpretation and not explicitly grounded in the summary or outline.
+   c. The relationship does not make sense based on the book summary and chapter outline, as it misrepresents the events.
+
+Since 1b., 2a., and 2b. are not satisfied, the claim is INVALID."
+"Despite Rokoff's plans for vengeance involving the child, he discovers the baby has died when he confronts Jane in M'ganwazam's village, and subsequently accompanies her as she buries the child outside the village.","Despite Rokoff's plans for vengeance involving the child, he discovers the baby is alive when he confronts Jane in M'ganwazam's village, and subsequently allows her to escape with the child.","In Chapter 12, Rokoff appears in the hut where Jane is holding the deceased baby. Chapter 13 reveals that Rokoff's discovery of the child's death thwarts his plans for vengeance. The chapter also shows that Rokoff accompanies Jane as she buries the dead child outside M'ganwazam's village. This sequence of events demonstrates how Rokoff's plans are disrupted by the child's death and his subsequent involvement in the burial.","This corrupted fact incorrectly states that the baby is alive and that Rokoff allows Jane to escape with the child, which contradicts the information provided in the chapter outlines about the child's death and burial.","Chapters 12, 13","- Chapter 12, item 7: Nikolas Rokoff appears in the hut where Jane is holding the now-deceased baby.
+- Chapter 13, item 1: Rokoff confronts Jane about the child, only to discover it's dead, thwarting his plans for vengeance.
+- Chapter 13, item 2: Jane buries the dead child outside the village of M'ganwazam, accompanied by Rokoff and his men.
+- Relationship: Progression of events involving Jane, Rokoff, and the deceased child.",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. ""Despite Rokoff's plans for vengeance involving the child"": This part is grounded in Chapter 13, event 1, where Rokoff's plans for vengeance are thwarted by the child's death.
+   b. ""he discovers the baby has died when he confronts Jane in M'ganwazam's village"": This part is grounded in Chapter 13, event 1, where Rokoff discovers the child is dead.
+   c. ""and subsequently accompanies her as she buries the child outside the village"": This part is grounded in Chapter 13, event 2, where Jane buries the child accompanied by Rokoff and his men.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is objectively valid and meaningful. Rokoff's discovery of the child's death directly impacts his plans for vengeance, and his subsequent accompaniment of Jane to bury the child is a logical sequence of events.
+   b. The relationship is not a subjective interpretation; it is explicitly stated in the chapter outline.
+   c. The relationship makes sense based on the book summary and chapter outline, as it follows the sequence of events described.
+
+Since all atomic parts are grounded in the chapter outline and the relationship between them is valid and meaningful, the claim is consistent with the provided information.",INVALID,"1. Analysis of atomic parts:
+   a. ""Despite Rokoff's plans for vengeance involving the child"": This part is grounded in the chapter outline, specifically in Chapter 12, where Rokoff's pursuit and intentions are mentioned. However, the outline does not explicitly state that Rokoff's plans for vengeance involve the child being alive.
+   b. ""he discovers the baby is alive when he confronts Jane in M'ganwazam's village"": This part contradicts the chapter outline. In Chapter 13, it is stated that Rokoff discovers the child is dead when he confronts Jane.
+   c. ""and subsequently allows her to escape with the child"": This part is not grounded in the chapter outline. Instead, the outline indicates that Jane escapes after knocking Rokoff unconscious and not because Rokoff allows her to escape.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not objectively valid because the claim contradicts the events described in the chapter outline. Rokoff does not discover the baby is alive, nor does he allow Jane to escape with the child.
+   b. The relationship is a subjective interpretation and not explicitly grounded in the summary or outline.
+   c. The relationship does not make sense based on the book summary and chapter outline, as it misrepresents the events.
+
+Since the claim contains contradictions and misinterpretations of the chapter outline, it is INVALID."
+"Jane's decision to release two imprisoned sailors in an attempt to set the Kincaid adrift backfires when the freed sailors overpower her after she is distracted by gunshots and a woman's scream from upriver, leading to Tarzan swimming to the Kincaid to rescue her.","Jane's decision to release two imprisoned sailors in an attempt to set the Kincaid adrift succeeds when the freed sailors help her escape after hearing gunshots and a woman's scream from upriver, leading to Tarzan swimming to the shore to meet them.","In Chapter 16, Jane releases two imprisoned sailors and tries to set the Kincaid adrift. However, she is overpowered by these same sailors when distracted by gunshots and a scream from upriver. Chapter 17 then shows Tarzan swimming to the Kincaid after hearing gunfire and rescuing Jane from the two sailors on deck. This sequence of events demonstrates how Jane's escape attempt leads to a dangerous situation, ultimately resulting in Tarzan's intervention.","This corrupted fact incorrectly states that Jane's plan succeeds and that the sailors help her escape, which contradicts the information provided in the chapter outlines about Jane being overpowered and Tarzan rescuing her from the Kincaid.","Chapters 16, 17","- Chapter 16, item 5: Jane releases two imprisoned sailors and attempts to set the Kincaid adrift at night.
+- Chapter 16, item 7: Jane is overpowered by the sailors she released when distracted by gunshots and a woman's scream from upriver.
+- Chapter 17, item 2: Tarzan swims to the Kincaid after hearing gunfire and rescues Jane from two sailors on deck.
+- Relationship: Progression of events from Jane's attempt to escape to Tarzan's rescue.",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+    a. ""Jane's decision to release two imprisoned sailors in an attempt to set the Kincaid adrift"": This part is grounded in event 5 of Chapter 16, where Jane releases two imprisoned sailors and attempts to set the Kincaid adrift.
+    b. ""backfires when the freed sailors overpower her after she is distracted by gunshots and a woman's scream from upriver"": This part is grounded in event 7 of Chapter 16, where Jane is overpowered by the sailors she released when distracted by gunshots and a woman's scream from upriver.
+    c. ""leading to Tarzan swimming to the Kincaid to rescue her"": This part is grounded in event 2 of Chapter 17, where Tarzan swims to the Kincaid after hearing gunfire and rescues Jane from two sailors on deck.
+
+2. Analysis of the relationship between atomic parts:
+    a. The relationship is objectively valid and meaningful. Jane's decision to release the sailors directly leads to her being overpowered, which in turn necessitates Tarzan's rescue.
+    b. The relationship is not a subjective interpretation; it is explicitly grounded in the sequence of events described in the chapter outline.
+    c. The relationship makes sense based on the book summary and chapter outline, as it follows a logical progression of events.
+
+Since all atomic parts are grounded in the chapter outline and the relationship between them is valid and meaningful, the claim is consistent with the provided information.",INVALID,"1. Analysis of atomic parts:
+    a. ""Jane's decision to release two imprisoned sailors in an attempt to set the Kincaid adrift"": This part is grounded in event 5 of Chapter 16, where Jane releases two imprisoned sailors and attempts to set the Kincaid adrift.
+    b. ""succeeds when the freed sailors help her escape after hearing gunshots and a woman's scream from upriver"": This part is not supported by the chapter outline. Instead, event 7 of Chapter 16 indicates that Jane is overpowered by the sailors she released when distracted by gunshots and a woman's scream from upriver.
+    c. ""leading to Tarzan swimming to the shore to meet them"": This part is not directly supported by the chapter outline. Event 2 of Chapter 17 mentions Tarzan swimming to the Kincaid after hearing gunfire, but it does not specify that he is meeting Jane and the sailors.
+
+2. Analysis of the relationship between atomic parts:
+    a. The relationship is not objectively valid. The claim suggests a causal link between Jane's actions and the sailors helping her escape, which contradicts the chapter outline where the sailors overpower her.
+    b. The relationship is a subjective interpretation and not explicitly grounded in the summary or outline.
+    c. The relationship does not make sense based on the book summary and chapter outline, as the events do not align with the claim's narrative.
+
+Since 1b., 1c., 2a., and 2b. are not satisfied, the claim is INVALID."
+"During the battle on the Kincaid's deck between Tarzan's allies and Rokoff's men, Rokoff is thrown onto the deck by his own crew, where he is attacked and killed by Sheeta the panther while Tarzan watches.","During the battle on the Kincaid's deck between Tarzan's allies and Rokoff's men, Rokoff is thrown onto the deck by Tarzan, where he is attacked and killed by Numa the lion while Jane watches.","Chapter 17 describes a sequence of events on the Kincaid. First, a battle ensues on deck between Tarzan's allies and Rokoff's men. Then, Rokoff is thrown onto the deck by his own men, where he faces Sheeta the panther. Finally, Sheeta attacks and kills Rokoff on the bridge of the Kincaid, with Tarzan watching. This progression shows how the chaos of the battle leads to Rokoff's demise at the hands (or paws) of Sheeta.","This corrupted fact incorrectly states that Tarzan throws Rokoff onto the deck (instead of Rokoff's own men), that Numa the lion kills Rokoff (instead of Sheeta the panther), and that Jane watches (instead of Tarzan). These details contradict the information provided in the chapter outline.",Chapter 17,"- Chapter 17, item 3: A battle ensues on deck between Tarzan's allies and Rokoff's men, with some of Rokoff's crew fleeing to the forecastle.
+- Chapter 17, item 5: Rokoff is thrown onto the deck by his own men, where he faces Sheeta the panther.
+- Chapter 17, item 6: Sheeta attacks and kills Rokoff on the bridge of the Kincaid, while Tarzan watches.
+- Relationship: Progression of events leading to Rokoff's death.",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. ""During the battle on the Kincaid's deck between Tarzan's allies and Rokoff's men"": This part is grounded in event 4 of Chapter 17, where a battle ensues on the deck.
+   b. ""Rokoff is thrown onto the deck by his own crew"": This part is grounded in event 5 of Chapter 17, where Rokoff is indeed thrown onto the deck by his own men.
+   c. ""where he is attacked and killed by Sheeta the panther while Tarzan watches"": This part is grounded in event 6 of Chapter 17, where Sheeta attacks and kills Rokoff on the bridge of the Kincaid while Tarzan watches.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is objectively valid and meaningful. The sequence of events is clearly outlined in the chapter, with Rokoff being thrown onto the deck, followed by Sheeta attacking and killing him.
+   b. The relationship is not a subjective interpretation; it is explicitly stated in the chapter outline.
+   c. The relationship makes sense based on the book summary and chapter outline. There is no contradiction, and the events are consistent with the narrative of Tarzan's confrontation with Rokoff.
+
+Since all atomic parts are grounded in the chapter outline, and the relationship between them is valid and meaningful, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+   a. ""During the battle on the Kincaid's deck between Tarzan's allies and Rokoff's men"": This part is grounded in event 4 of Chapter 17, where a battle ensues on the deck.
+   b. ""Rokoff is thrown onto the deck by Tarzan"": This part is not grounded in the chapter outline. The outline states that Rokoff is thrown onto the deck by his own men, not by Tarzan (event 5).
+   c. ""where he is attacked and killed by Numa the lion"": This part is not grounded in the chapter outline. The outline specifies that Sheeta the panther attacks and kills Rokoff, not Numa the lion (event 6).
+   d. ""while Jane watches"": This part is not mentioned in the chapter outline. The outline does not specify Jane's presence or her witnessing the event.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not objectively valid because the claim contains inaccuracies regarding who throws Rokoff onto the deck and which animal kills him.
+   b. The relationship is a subjective interpretation and not explicitly grounded in the summary or outline.
+   c. The relationship does not make sense based on the book summary and chapter outline due to the inaccuracies in the claim.
+
+Since parts 1b., 1c., and 1d. are not grounded in the chapter outline, and the relationship between the atomic parts is not valid, the claim is INVALID."

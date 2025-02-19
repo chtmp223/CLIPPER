@@ -1,0 +1,13 @@
+The story unfolds in a quaint Austrian city, where an old stucco house, once a royal hunting lodge, becomes the setting for a tale of young American music students living abroad. Harmony Wells, the protagonist, is a talented violinist struggling to make ends meet while pursuing her musical dreams. The narrative introduces us to a small community of expatriates: the Big Soprano, Scatchy (Miss Scatchett), and the Harmar sisters, all of whom face financial difficulties.
+
+As the story progresses, Harmony's companions leave one by one, returning to America due to dwindling funds. Left alone, Harmony is determined to stay and continue her studies, even as she grapples with loneliness and the challenges of living in a foreign land. She finds herself in the company of Dr. Peter Byrne, a kind-hearted but financially struggling American surgeon, and Anna Gates, a practical and somewhat cynical doctor.
+
+Peter, who is also living in the city to further his medical studies, becomes a central figure in Harmony's life. Despite his own hardships, he offers support and companionship, and a deep bond forms between them. Their relationship is complicated by the presence of Jimmy, a sick child whom Peter has taken under his wing. Jimmy's mother, a music-hall singer from Paris, has abandoned him, and Peter has been writing letters pretending to be Jimmy's father to keep the boy's spirits up.
+
+The narrative explores the dynamics of this makeshift family, with Peter, Harmony, and Anna sharing a small apartment and pooling their resources to survive. Harmony takes on the role of caregiver, managing the household and nurturing Jimmy, while Peter and Anna work tirelessly at the hospital.
+
+Throughout the story, the characters face moral dilemmas and personal challenges. Harmony struggles with her feelings for Peter, who is unaware of his own growing affection for her. Meanwhile, Peter is torn between his responsibilities and his dreams of a medical career. The story delves into themes of sacrifice, love, and the pursuit of one's passions, set against the backdrop of a city that is both beautiful and harsh.
+
+As winter sets in, the group faces mounting difficulties, including financial strain and the ever-present threat of illness. Despite these challenges, Harmony's determination to succeed and Peter's unwavering support create a sense of hope and resilience.
+
+In the end, the story is a poignant exploration of the complexities of human relationships and the sacrifices made in the name of love and ambition. Harmony's journey is one of self-discovery and growth, as she learns to navigate the often harsh realities of life while holding onto her dreams and the people she cares about.

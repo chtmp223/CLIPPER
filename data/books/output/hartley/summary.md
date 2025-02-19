@@ -1,0 +1,17 @@
+In a tale set against the backdrop of 1690s England, the story unfolds with Captain Adrian Cassilis, a soldier of fortune, tasked with arresting the Marquis de Launay, a suspected Jacobite agent. Cassilis and his troop arrive at Cleeve Manor, the ancestral home of the Ingram family, where he encounters the beautiful and proud Lady Lettice Ingram. Despite her initial hostility and an altercation that leaves Cassilis humiliated, he successfully captures the Marquis.
+
+The narrative is driven by political intrigue and personal vendettas. England is rife with tension as supporters of the deposed King James II plot against the reigning King William III. Cassilis, a seasoned soldier with a reputation for swordsmanship, finds himself embroiled in a complex web of loyalties and deceit. His mission is complicated by his growing fascination with Lady Lettice, whose beauty and spirit captivate him, despite her scornful treatment of him.
+
+As Cassilis navigates his duties, he discovers that Lady Lettice is deeply involved in the Jacobite cause, her loyalty to King James unwavering. Her brother, the Earl of Cleeve, is a prominent figure in the rebellion, and the manor becomes a hub for conspirators. Cassilis's position becomes precarious as he balances his duty to the crown with his personal feelings for Lady Lettice.
+
+The tension escalates when Cassilis intercepts a meeting of Jacobite sympathizers at the manor. He outmaneuvers them, securing a list of their names, which could lead to their arrest and execution. Despite his victory, Cassilis is tormented by the thought of betraying Lady Lettice, whose life would be forfeit if the document were made public.
+
+In a moment of introspection, Cassilis decides to hide the list, choosing to protect Lady Lettice and her associates. His actions are driven by a complex mix of honor, love, and a desire for redemption from his past. This decision sets the stage for a dramatic confrontation with his commanding officer, Sir Richard Danvers, who is determined to quash the Jacobite threat.
+
+The plot thickens as Cassilis's past catches up with him. Haunted by the memory of his sister's tragic fate, he grapples with his sense of justice and the moral ambiguity of his current mission. His internal struggle is mirrored by the external chaos of a country on the brink of civil war.
+
+Cassilis's relationship with Lady Lettice evolves from animosity to a reluctant alliance. Despite her initial contempt, she comes to recognize his integrity and the sacrifices he makes on her behalf. Their interactions are charged with tension and unspoken emotions, culminating in a poignant acknowledgment of mutual respect and understanding.
+
+As the story reaches its climax, Cassilis must confront his rival, Cornet De Brito, in a duel that tests his skill and resolve. The outcome of this encounter has far-reaching implications for Cassilis's future and his standing with Lady Lettice.
+
+In the end, Cassilis's actions reflect a deep-seated sense of honor and a commitment to doing what he believes is right, even at great personal cost. His journey is one of redemption and self-discovery, set against a richly detailed historical backdrop that captures the turbulence and intrigue of post-revolutionary England.

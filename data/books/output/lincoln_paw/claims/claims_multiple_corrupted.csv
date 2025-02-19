@@ -1,0 +1,304 @@
+facts,corrupted_facts,fact_reasoning,corrupted_reasoning,source,brainstorm,duplication,duplication_reasoning,verify_facts,verify_facts_reasoning,verify_corruption,verify_corruption_reasoning
+"Miss Susan Baird's body, found dead in her chair in the library, was determined by Dr. Fisher's autopsy to have died from prussic acid poisoning.","Miss Susan Baird's body, found dead in her bedroom, was determined by Dr. Fisher's autopsy to have died from strychnine poisoning.","In Chapter 1, Miss Baird's body is discovered in her chair. Chapter 2 confirms that her body was found in the library. Later, in Chapter 6, Dr. Fisher's autopsy reveals the cause of death as prussic acid poisoning. This fact connects the discovery of the body with the determined cause of death.","The corrupted fact incorrectly states that the body was found in the bedroom instead of the library, and mentions strychnine poisoning instead of prussic acid poisoning.","Chapters 1, 2, 6","- Chapter 1, item 5: Miss Baird's body is found dead in her chair.
+- Chapter 2, item 4: McLean examines the body of Miss Susan Baird in the library.
+- Chapter 6, item 5: Dr. Fisher testifies that Susan Baird died from prussic acid poisoning.
+- Relationship: Cause of death and discovery",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+    a. ""Miss Susan Baird's body, found dead in her chair in the library"": This part is grounded in event 5 of Chapter 1, where the unnamed man finds Miss Baird dead in her chair in the library.
+    b. ""was determined by Dr. Fisher's autopsy to have died from prussic acid poisoning"": This part is grounded in event 5 of Chapter 6, where Dr. Fisher testifies that Susan Baird died from prussic acid poisoning.
+
+2. Analysis of the relationship between atomic parts:
+    a. The relationship is objectively valid and meaningful. The claim connects the discovery of Miss Baird's body with the cause of death determined by the autopsy.
+    b. The relationship is not a subjective interpretation; it is explicitly stated in the chapter outline.
+    c. The relationship makes sense based on the book summary and chapter outline, as both parts are consistent with the information provided.
+
+Since all considerations are satisfied, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+   a. ""Miss Susan Baird's body, found dead in her bedroom"": This part is not grounded in the book summary or chapter outline. The summary and Chapter 1 outline indicate that Miss Baird was found dead in her library, not her bedroom.
+   b. ""determined by Dr. Fisher's autopsy to have died from strychnine poisoning"": This part contradicts the information provided. The summary and Chapter 6 outline state that Miss Baird died from prussic acid poisoning, not strychnine poisoning.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not meaningful because both atomic parts are incorrect based on the provided information.
+   b. The relationship is not a subjective interpretation but is factually incorrect according to the summary and outline.
+   c. The relationship does not make sense based on the book summary and chapter outline, as both parts of the claim are inconsistent with the provided details.
+
+Since both atomic parts are not grounded in the events and contradict the information in the summary and outline, the claim is INVALID."
+"The poison that killed Susan Baird was found on a half-eaten peach and the fruit knife used to cut it, and Kitty recalled that Leigh Wallace had a habit of bringing peaches when visiting.","The poison that killed Susan Baird was found on a half-eaten apple and the fruit knife used to cut it, and Kitty recalled that Leigh Wallace had a habit of bringing apples when visiting.","Chapter 6 reveals that the poison was found on a half-eaten peach and the fruit knife. In Chapter 13, Kitty remembers that Leigh Wallace habitually brought peaches when visiting. This fact connects the murder weapon (poisoned peach) with a potential suspect's habit, suggesting a possible link between Wallace and the murder.","The corrupted fact incorrectly mentions apples instead of peaches, which is not consistent with the information provided in the chapter outlines.","Chapters 6, 13","- Chapter 6, item 6: The poison was found on a half-eaten peach and the fruit knife used to cut it.
+- Chapter 13, item 5: Kitty recalls Leigh Wallace's habit of bringing peaches when visiting.
+- Relationship: Connection between the murder weapon and a suspect's habit",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. ""The poison that killed Susan Baird was found on a half-eaten peach and the fruit knife used to cut it"": This part is grounded in events 5 and 6 of Chapter 6, where Dr. Fisher testifies about the autopsy results and the presence of poison on the peach and knife.
+   b. ""Kitty recalled that Leigh Wallace had a habit of bringing peaches when visiting"": This part is grounded in event 6 of Chapter 13, where Kitty remembers Leigh Wallace's habit of bringing peaches.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is meaningful as it suggests a potential link between Leigh Wallace's habit and the method of poisoning, which could be relevant to the investigation.
+   b. The relationship is not a subjective interpretation; it is based on factual recollections and evidence presented in the chapter outlines.
+   c. The relationship makes sense based on the book summary and chapter outline, as it ties together the method of poisoning with a character's known behavior, which could imply a motive or opportunity.
+
+Since both atomic parts are grounded in the chapter outlines and the relationship between them is meaningful and consistent with the narrative, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+   a. ""The poison that killed Susan Baird was found on a half-eaten apple and the fruit knife used to cut it"": This part is not grounded in the chapter outline or book summary. The poison was found on a half-eaten peach and the fruit knife used to cut it, as mentioned in Chapter 6, events 5 and 6.
+   b. ""Kitty recalled that Leigh Wallace had a habit of bringing apples when visiting"": This part is not grounded in the chapter outline or book summary. In Chapter 13, event 6, Kitty recalls Leigh Wallace's habit of bringing peaches, not apples.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not valid because both atomic parts are factually incorrect based on the provided information.
+   b. The relationship is a subjective interpretation and not explicitly grounded in the summary or outline.
+   c. The relationship does not make sense based on the book summary and chapter outline, as both parts of the claim are incorrect.
+
+Since both atomic parts are incorrect and the relationship is not meaningful or grounded in the provided information, the claim is INVALID."
+"Ted Rogers' discovery of a hidden key in the library bench led to a series of clues attached to keys, ultimately revealing Susan Baird's will and financial documents concealed in a glass case containing a Gila monster cast.","Ted Rogers' discovery of a hidden key in the attic led to a series of clues attached to keys, ultimately revealing Susan Baird's diary concealed in a glass case containing a snake cast.","Chapter 8 outlines a sequence of events starting with Rogers finding a hidden key, which leads to a search following clues attached to a series of keys. This search culminates in the discovery of Susan Baird's will and financial documents hidden in a glass case with a Gila monster cast. This fact connects the initial discovery with the final revelation of important documents.","The corrupted fact incorrectly states that the key was found in the attic instead of the library, mentions a diary instead of a will and financial documents, and refers to a snake cast rather than a Gila monster cast.",Chapter 8,"- Chapter 8, item 1: Ted Rogers discovers a hidden key in a bench by the fireplace in the library.
+- Chapter 8, item 3: Rogers, Craige, and Kitty follow clues attached to a series of keys.
+- Chapter 8, item 5: They find a glass case containing a Gila monster cast, which conceals Susan Baird's will and financial documents.
+- Relationship: Sequence of events leading to the discovery of important documents",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. ""Ted Rogers' discovery of a hidden key in the library bench"": This part is grounded in event 1 of Chapter 8, where Ted Rogers finds a hidden key in a bench by the fireplace in the library.
+   b. ""led to a series of clues attached to keys"": This part is grounded in event 3 of Chapter 8, where the discovery of the key leads the trio on a search through the house, following clues attached to a series of keys.
+   c. ""ultimately revealing Susan Baird's will and financial documents concealed in a glass case containing a Gila monster cast"": This part is grounded in events 5 and 6 of Chapter 8, where the search leads to the discovery of Susan Baird's will and financial documents in a glass case containing a Gila monster cast.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is objectively valid and meaningful. The discovery of the hidden key initiates a sequence of events that lead to the revelation of Susan Baird's will and financial documents.
+   b. The relationship is not a subjective interpretation; it is explicitly stated in the chapter outline.
+   c. The relationship makes sense based on the book summary and chapter outline, as the discovery of the will and financial documents is a significant plot point in the narrative.
+
+Since all atomic parts are grounded in the chapter outline, and the relationship between them is valid and meaningful, the claim is consistent with the provided information.",INVALID,"1. Analysis of atomic parts:
+   a. ""Ted Rogers' discovery of a hidden key in the attic"": This part is not grounded in the chapter outline. The outline states that Ted Rogers discovers a hidden key in a bench by the fireplace in the library, not in the attic (event 1 of Chapter 8).
+   b. ""led to a series of clues attached to keys"": This part is grounded in event 3 of Chapter 8, where the discovery of the hidden key leads to a search through the house following clues attached to a series of keys.
+   c. ""ultimately revealing Susan Baird's diary concealed in a glass case containing a snake cast"": This part is not grounded in the chapter outline. The outline mentions that they find Susan Baird's will and financial documents concealed in a glass case containing a Gila monster cast, not a snake cast or a diary (event 5 of Chapter 8).
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not valid because the initial discovery of the key is incorrectly attributed to the attic, and the final discovery is inaccurately described as a diary in a snake cast instead of a will in a Gila monster cast.
+   b. The relationship is a subjective interpretation and not explicitly grounded in the summary or outline.
+   c. The relationship does not make sense based on the book summary and chapter outline, as it misrepresents key details.
+
+Since 1a., 1c., 2a., and 2b. are not satisfied, the claim is INVALID."
+"The Holt will case, involving Edward Rodgers, is connected to Kitty's family history, as Leigh Wallace, Kitty's cousin, is the son of James Leigh Wallace, who jilted Aunt Susan to marry Anne Holt.","The Holt will case, involving Edward Rodgers, is connected to Kitty's family history, as Leigh Wallace, Kitty's brother, is the son of James Leigh Wallace, who jilted Anne Holt to marry Aunt Susan.","Chapter 9 mentions the Holt will case involving Edward Rodgers. Chapter 13 reveals that Leigh Wallace is Kitty's cousin. Chapter 15 provides information about James Leigh Wallace jilting Aunt Susan to marry Anne Holt. This fact connects these separate pieces of information, revealing a complex family history related to the current events.","The corrupted fact incorrectly states that Leigh Wallace is Kitty's brother instead of cousin, and reverses the relationship between James Leigh Wallace, Aunt Susan, and Anne Holt.","Chapters 9, 13, 15","- Chapter 9, item 3: Mrs. Parsons shares the story of the Holt will case, involving Jake Brown and Edward Rodgers, with Inspector Mitchell.
+- Chapter 13, item 3: Mitchell reveals that Leigh Wallace is Kitty's cousin.
+- Chapter 15, item 7: A love letter reveals that Aunt Susan was jilted by James Leigh Wallace, who married Anne Holt instead.
+- Relationship: Connection between characters and past events",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. ""The Holt will case, involving Edward Rodgers"": This part is grounded in the chapter outline, specifically in Chapter 9, where Mrs. Parsons discusses the Holt will case and Edward Rodgers' involvement with Inspector Mitchell.
+   b. ""is connected to Kitty's family history"": This part is grounded in the chapter outline, specifically in Chapter 13, where it is revealed that Leigh Wallace is Kitty's cousin, and there is a discussion about Colonel Marcus Holt's will contest.
+   c. ""Leigh Wallace, Kitty's cousin, is the son of James Leigh Wallace, who jilted Aunt Susan to marry Anne Holt"": This part is grounded in Chapter 15, where Kitty discovers a newspaper clipping revealing that James Leigh Wallace, who married Anne Holt, jilted Aunt Susan.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is objectively valid and meaningful. The Holt will case involves Edward Rodgers, and Leigh Wallace's connection to Kitty's family history is established through his familial ties and the past events involving James Leigh Wallace and Aunt Susan.
+   b. The relationship is not a subjective interpretation; it is explicitly supported by the information in the chapter outlines.
+   c. The relationship makes sense based on the book summary and chapter outline, as it ties together the characters and events across different chapters, showing a coherent connection between the Holt will case and Kitty's family history.
+
+Since all atomic parts are grounded in the chapter outline and the relationship between them is valid and meaningful, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+   a. ""The Holt will case, involving Edward Rodgers"": This part is grounded in the chapter outline, specifically in Chapter 9, where Mrs. Parsons discusses the Holt will case and Edward Rodgers' involvement with Inspector Mitchell.
+   b. ""is connected to Kitty's family history"": This part is partially grounded in the chapter outline and book summary. The chapter outline mentions the Holt will case and its connection to Major Leigh Wallace, who is involved in both the Holt will case and the Baird murder investigation. The summary also mentions Leigh Wallace as a suitor disapproved by Miss Baird.
+   c. ""as Leigh Wallace, Kitty's brother, is the son of James Leigh Wallace, who jilted Anne Holt to marry Aunt Susan"": This part is not grounded in the book summary or chapter outline. The summary and chapter outline do not mention Leigh Wallace being Kitty's brother or James Leigh Wallace jilting Anne Holt to marry Aunt Susan. Instead, Chapter 15 reveals that Aunt Susan was jilted by James Leigh Wallace, who married Anne Holt.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not objectively valid because the claim incorrectly states familial relationships and events that are not supported by the provided information.
+   b. The relationship is a subjective interpretation and assumption not explicitly stated in the summary or outline.
+   c. The relationship does not make sense based on the book summary and chapter outline, as it introduces incorrect familial ties and events.
+
+Since the claim contains incorrect information and assumptions not supported by the provided materials, it is INVALID."
+"The front door of Rose Hill mansion, which was accidentally slammed by the unnamed man leaving the library, was later found by Inspector Mitchell with the house key still in the lock.","The front door of Rose Hill mansion, which was accidentally left open by the unnamed man leaving the library, was later found by Inspector Mitchell with the house key missing from the lock.","In Chapter 1, we see the unnamed man accidentally slamming the front door as he leaves. Later, in Chapter 5, Inspector Mitchell testifies that he found the house key in the front door lock when he arrived at the crime scene. This connection suggests that the door was not properly secured after the man left, potentially providing important information about the timeline and access to the crime scene.","The original fact states that the door was slammed, not left open, and that the key was found in the lock, not missing. This makes the corrupted fact incorrect based on the information provided in the chapter outlines.","Chapter 1, 5","- Chapter 1, item 3: The man leaves the library, pausing in the hall to light a cigarette before accidentally slamming the front door.
+- Chapter 2, item 2: McLean and Wallace drive to Rose Hill mansion in Georgetown, where they encounter a policeman at the door.
+- Chapter 5, item 4: Mitchell describes finding the house key in the front door lock and Miss Baird's body in the library, seated at her tea table.
+- Relationship: The front door and its significance in the crime scene",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. ""The front door of Rose Hill mansion, which was accidentally slammed by the unnamed man leaving the library"": This part is grounded in event 3 of Chapter 1, where the unnamed man pauses to light a cigarette and accidentally slams the front door.
+   b. ""was later found by Inspector Mitchell with the house key still in the lock"": This part is grounded in event 3 of Chapter 5, where Inspector Mitchell describes finding the house key in the front door lock.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is meaningful and valid. The claim connects the action of the unnamed man slamming the door with the later discovery by Inspector Mitchell of the key in the lock, suggesting a sequence of events.
+   b. The relationship is not a subjective interpretation; it is based on the sequence of events described in the chapter outline.
+   c. The relationship makes sense based on the book summary and chapter outline, as it ties together the actions of the unnamed man and the subsequent investigation by Inspector Mitchell.
+
+Since all considerations are satisfied, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+   a. ""The front door of Rose Hill mansion, which was accidentally left open by the unnamed man leaving the library"": This part is partially grounded in the chapter outline. The unnamed man accidentally slams the front door (Chapter 1, event 3), but there is no mention of the door being left open.
+   b. ""was later found by Inspector Mitchell with the house key missing from the lock"": This part is not grounded in the chapter outline. In Chapter 5, event 3, Inspector Mitchell finds the house key in the front door lock, not missing.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not valid because the claim incorrectly states that the house key was missing, which contradicts the chapter outline where the key is found in the lock.
+   b. The relationship is not a subjective interpretation but is factually incorrect based on the provided information.
+   c. The relationship does not make sense based on the book summary and chapter outline, as it introduces an inconsistency regarding the status of the house key.
+
+Since the claim contains incorrect information about the status of the house key and the door being left open, it is not consistent with the chapter outline."
+"Ted Rodgers was shot by an unknown assailant in a passing car while driving with Kitty through Rock Creek Park, and Inspector Mitchell later discovered Kitty's recently discharged revolver in Rodgers' car.","Ted Rodgers was stabbed by a known assailant in a parked car while driving with Kitty through Georgetown, and Inspector Mitchell later discovered Kitty's unused knife in Rodgers' car.","In Chapter 16, we learn that Ted is shot by someone in a passing car while driving with Kitty. Later, in Chapter 17, Inspector Mitchell discovers Kitty's revolver in Rodgers' car, which had been recently discharged. This fact connects the shooting incident with the discovery of potential evidence, raising questions about the identity of the shooter and the role of Kitty's revolver in the incident.","The original fact states that Ted was shot, not stabbed, by an unknown assailant in a passing car, not a parked one. The incident occurred in Rock Creek Park, not Georgetown. Mitchell discovered a recently discharged revolver, not an unused knife. These discrepancies make the corrupted fact incorrect based on the information provided in the chapter outlines.","Chapter 16, 17","- Chapter 16, item 5: An oncoming car blinds Kitty with its spotlight, and she hears a loud report as the car passes them.
+- Chapter 16, item 6: Kitty discovers that Ted has been shot and is bleeding, barely conscious in the passenger seat.
+- Chapter 17, item 7: Mitchell discovers Kitty's revolver in Rodgers' car, recently discharged and identified by Potter.
+- Relationship: The shooting incident and the discovery of evidence",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. ""Ted Rodgers was shot by an unknown assailant in a passing car while driving with Kitty through Rock Creek Park"": This part is grounded in events 5 and 6 of Chapter 16, where an oncoming car blinds Kitty, and she hears a loud report, discovering Ted has been shot.
+   b. ""Inspector Mitchell later discovered Kitty's recently discharged revolver in Rodgers' car"": This part is grounded in event 7 of Chapter 17, where Mitchell finds Kitty's revolver in Rodgers' car, recently discharged.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is meaningful and valid. The discovery of the discharged revolver in Rodgers' car is directly related to the shooting incident, suggesting a connection between the two events.
+   b. The relationship is not a subjective interpretation; it is based on the sequence of events described in the chapter outline.
+   c. The relationship makes sense based on the book summary and chapter outline, as both parts are consistent with the narrative of the investigation and the shooting incident.
+
+Since all considerations are satisfied, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+   a. ""Ted Rodgers was stabbed by a known assailant in a parked car while driving with Kitty through Georgetown"": This part is not grounded in the chapter outline. Chapter 16 describes Ted being shot, not stabbed, while driving with Kitty through Rock Creek Park, not Georgetown. There is no mention of a known assailant or the car being parked.
+   b. ""Inspector Mitchell later discovered Kitty's unused knife in Rodgers' car"": This part is not grounded in the chapter outline. Chapter 17 mentions that Mitchell discovers Kitty's revolver, which was recently discharged, in Rodgers' car, not an unused knife.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not meaningful or valid because the events described in the claim do not accurately reflect the events in the chapter outline.
+   b. The relationship is a subjective interpretation and not explicitly grounded in the summary or outline.
+   c. The relationship does not make sense based on the book summary and chapter outline, as the details in the claim are incorrect.
+
+Since both atomic parts are not grounded in the chapter outline and the relationship between them is not valid, the claim is INVALID."
+"Despite Miss Susan Baird's poor attire, which led others like Ben Potter to believe she was impoverished, she possessed valuable jewelry and left a substantial fortune to her niece Kitty.","Despite Miss Susan Baird's expensive attire, which led others like Ben Potter to believe she was wealthy, she possessed only costume jewelry and left a modest inheritance to her niece Kitty.","In Chapter 1, the unnamed man observes Miss Baird's poor attire but valuable jewelry. This contrasts with Chapter 10, where Ben Potter expresses surprise at Susan's wealth, having thought she was poor. The revelation in Chapter 8 that Kitty inherits not just the house but a substantial fortune confirms Susan Baird's hidden wealth.","This corrupted fact contradicts the outline by stating that Susan Baird wore expensive attire and left a modest inheritance, when in fact she wore poor attire and left a substantial fortune.","Chapters 1, 8, 10","- Chapter 1, item 5: Miss Baird's poor attire and valuable jewelry
+- Chapter 8, item 7: Kitty inherits not just the house, but a substantial fortune
+- Chapter 10, item 2: Potter thought Susan was poor
+- Relationship: Contrast between appearance and reality of Susan Baird's wealth",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. ""Despite Miss Susan Baird's poor attire, which led others like Ben Potter to believe she was impoverished"": This part is grounded in the chapter outline, specifically in Chapter 1, where the man observes Miss Baird's poor attire. The summary also supports this by mentioning that Ben Potter was surprised by Susan's wealth, indicating he believed she was poor.
+   b. ""she possessed valuable jewelry"": This part is grounded in Chapter 1, where the man observes Miss Baird's valuable jewelry.
+   c. ""and left a substantial fortune to her niece Kitty"": This part is grounded in both the book summary and Chapter 8, where it is revealed that Kitty inherits a substantial fortune from Miss Baird.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is objectively valid and meaningful. The claim connects Miss Baird's appearance and the perception of her wealth with the reality of her financial status and the inheritance left to Kitty.
+   b. The relationship is not a subjective interpretation; it is explicitly supported by the summary and chapter outline.
+   c. The relationship makes sense based on the book summary and chapter outline, as it highlights the contrast between Miss Baird's appearance and her actual wealth, which is a key element in the narrative.
+
+Since all atomic parts are grounded in the provided information, and the relationship between them is valid and meaningful, the claim is consistent with the book summary and chapter outline.",INVALID,"1. Analysis of each atomic part:
+   a. ""Despite Miss Susan Baird's expensive attire"": The chapter outline in Chapter 1, event 6, describes Miss Baird's appearance, noting her poor attire but valuable jewelry. This suggests a contradiction in the claim, as it implies expensive attire, which is not supported by the outline.
+   b. ""which led others like Ben Potter to believe she was wealthy"": The chapter outline does not mention Ben Potter's belief about Miss Baird's wealth based on her attire. However, Chapter 10, event 2, indicates Potter's surprise at Susan's wealth, suggesting he did not initially believe she was wealthy.
+   c. ""she possessed only costume jewelry"": The chapter outline in Chapter 1, event 6, mentions valuable jewelry, contradicting the claim that she possessed only costume jewelry.
+   d. ""left a modest inheritance to her niece Kitty"": The book summary and Chapter 8, event 7, indicate that Kitty inherits a substantial fortune, contradicting the claim of a modest inheritance.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not objectively valid, as the claim contains contradictions with the chapter outline and book summary.
+   b. The relationship is a subjective interpretation and not explicitly grounded in the summary or outline.
+   c. The relationship does not make sense based on the book summary and chapter outline, as it misrepresents Miss Baird's financial status and the nature of the inheritance.
+
+Since the atomic parts are not grounded in the events and the relationship between them is not valid, the claim is INVALID."
+"James Leigh Wallace, who had jilted Susan Baird in the past as revealed by a love letter Kitty discovered, was seen leaving Rose Hill mansion on the Sunday afternoon of Susan's death by both Inspector Mitchell's informant and Mrs. Augustus Murray.","James Leigh Wallace, who had proposed to Susan Baird in the past as revealed by a love letter Kitty discovered, was seen entering Rose Hill mansion on the Monday morning after Susan's death by both Inspector Mitchell's informant and Mrs. Augustus Murray.","This fact connects the revelation in Chapter 15 about Wallace's past relationship with Susan Baird to his presence at Rose Hill on the day of her death, as reported in Chapters 17 and 18. It links the historical context of Wallace and Susan's relationship to a key piece of evidence in the murder investigation.","This corrupted fact changes key details: Wallace's past action (proposed instead of jilted), the timing of his presence at Rose Hill (Monday morning after death instead of Sunday afternoon of death), and his action (entering instead of leaving).","Chapters 15, 17, 18","- Chapter 15, item 7: Kitty discovers a love letter revealing Susan was jilted by James Leigh Wallace
+- Chapter 17, item 1: Inspector Mitchell learns Wallace was seen leaving Rose Hill on Sunday afternoon
+- Chapter 18, item 1: Mrs. Augustus Murray confirms seeing Wallace leave the Baird mansion on Sunday afternoon
+- Relationship: Connection between Wallace's past with Susan and his presence at Rose Hill on the day of her death",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. ""James Leigh Wallace, who had jilted Susan Baird in the past as revealed by a love letter Kitty discovered"": This part is grounded in Chapter 15, where Kitty discovers a love letter revealing that Aunt Susan was jilted by James Leigh Wallace.
+   b. ""was seen leaving Rose Hill mansion on the Sunday afternoon of Susan's death by both Inspector Mitchell's informant and Mrs. Augustus Murray"": This part is grounded in Chapter 17, where Inspector Mitchell learns from Donovan that Major Leigh Wallace was seen leaving Rose Hill on Sunday afternoon, and in Chapter 18, where Mrs. Augustus Murray confirms seeing Major Wallace leaving the Baird mansion on Sunday afternoon.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is objectively valid and meaningful. The claim connects Wallace's past relationship with Susan Baird to his presence at the mansion on the day of her death, which is relevant to the investigation of her murder.
+   b. The relationship is not a subjective interpretation; it is based on factual events described in the chapter outlines.
+   c. The relationship makes sense based on the book summary and chapter outline, as it ties together Wallace's past with Susan and his suspicious presence at the mansion.
+
+Since all parts of the claim are grounded in the chapter outlines and the relationship between them is meaningful and coherent with the book summary, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+   a. ""James Leigh Wallace, who had proposed to Susan Baird in the past as revealed by a love letter Kitty discovered"": This part is grounded in Chapter 15, where Kitty discovers a love letter revealing that Aunt Susan was jilted by James Leigh Wallace.
+   b. ""was seen entering Rose Hill mansion on the Monday morning after Susan's death by both Inspector Mitchell's informant and Mrs. Augustus Murray"": This part is not grounded in the chapter outline or the book summary. The chapter outlines mention Major Leigh Wallace being seen leaving Rose Hill on Sunday afternoon, but there is no mention of him being seen entering the mansion on Monday morning by Inspector Mitchell's informant or Mrs. Augustus Murray.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship between the atomic parts is not meaningful because the second part of the claim is not supported by the provided information. There is no evidence in the summary or chapter outline that supports the claim that Wallace was seen entering the mansion on Monday morning.
+   b. The relationship is a subjective interpretation and not explicitly grounded in the summary or outline.
+   c. The relationship does not make sense based on the book summary and chapter outline, as the second part of the claim is not supported by the provided information.
+
+Since 1b., 2a., and 2b. are not satisfied, the claim is INVALID."
+"The search for papers in the Baird house, overheard by Kitty and later carried out by an intruder in her bedroom, was related to Susan Baird's secret life as a money-lender, which Charles Craige sought to exploit by marrying Kitty for financial reasons.","The search for jewelry in the Baird house, overheard by Mandy and later carried out by Oscar in the attic, was related to Susan Baird's secret life as an art collector, which Charles Craige sought to protect by marrying Kitty for love.","In Chapter 14, Kitty overhears Oscar's conversation about searching for papers. Chapter 15 describes an intruder searching through papers in Kitty's bedroom. Finally, in Chapter 22, Craige confesses to killing Susan Baird and reveals her secret life as a money-lender, as well as his plan to marry Kitty for financial gain. This fact connects the mysterious search for papers with Susan Baird's hidden financial activities and Craige's motives.","This corrupted fact changes multiple details, including the item being searched for, who overheard the conversation, where the search took place, Susan Baird's secret life, and Craige's motives, making it inconsistent with the information provided in the chapter outlines.","Chapter 14, 15, 22","- Chapter 14, item 4: Kitty tells Rodgers about overhearing Oscar's conversation with an unknown woman about searching for papers.
+- Chapter 15, item 2: An intruder enters Kitty's bedroom while Mandy is asleep, searching through papers in the secretary.
+- Chapter 22, item 2: Craige confesses to killing Susan Baird, revealing her secret life as a money-lender and his plan to marry Kitty for financial reasons.
+- Relationship: Connection between the search for papers and Susan Baird's secret life",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. ""The search for papers in the Baird house, overheard by Kitty"": This part is grounded in Chapter 14, where Kitty overhears a conversation about searching for papers.
+   b. ""later carried out by an intruder in her bedroom"": This part is grounded in Chapter 15, where an intruder searches through papers in Kitty's bedroom.
+   c. ""related to Susan Baird's secret life as a money-lender"": This part is grounded in Chapter 22, where Charles Craige confesses to Susan Baird's secret life as a money-lender.
+   d. ""which Charles Craige sought to exploit by marrying Kitty for financial reasons"": This part is grounded in Chapter 22, where Craige confesses his plan to marry Kitty for financial reasons.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is objectively valid and meaningful. The search for papers and the intruder's actions are connected to Susan Baird's secret life, which Craige intended to exploit.
+   b. The relationship is not a subjective interpretation; it is supported by the events described in the chapter outlines and the summary.
+   c. The relationship makes sense based on the book summary and chapter outline, as it ties together the motivations and actions of the characters involved.
+
+Since all atomic parts are grounded in the events, and the relationship between them is valid and meaningful, the claim is consistent with the book summary and chapter outline.",INVALID,"1. Analysis of atomic parts:
+   a. ""The search for jewelry in the Baird house, overheard by Mandy"": There is no mention in the chapter outline or book summary of Mandy overhearing a search for jewelry. The chapter outlines mention Kitty overhearing a conversation about searching for papers, not jewelry.
+   b. ""later carried out by Oscar in the attic"": There is no mention in the chapter outline or book summary of Oscar searching for jewelry in the attic. The chapter outlines do not describe Oscar's actions in the attic.
+   c. ""related to Susan Baird's secret life as an art collector"": The book summary reveals Susan Baird's secret life as a money-lender, not an art collector. There is no mention of her being an art collector in the summary or chapter outline.
+   d. ""which Charles Craige sought to protect by marrying Kitty for love"": The book summary states that Charles Craige's motive for marrying Kitty was financial desperation and to cover up his forgery, not to protect Susan Baird's secret life as an art collector.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not objectively valid or meaningful because the claim is based on incorrect or unsupported details from the summary and chapter outline.
+   b. The relationship is a subjective interpretation and not explicitly grounded in the summary or outline.
+   c. The relationship does not make sense based on the book summary and chapter outline, as it introduces elements not supported by the provided information.
+
+Since none of the atomic parts are grounded in the events described in the summary or chapter outline, and the relationship between them is not valid or meaningful, the claim is INVALID."
+"The gray Angora cat, Mouchette, which was present during Miss Susan Baird's murder, was later used by Charles Craige to kill Mrs. Parsons by spraying poison on its paw.","The gray Angora cat, Mouchette, which was present during Miss Susan Baird's murder, was later used by Mrs. Parsons to kill Charles Craige by spraying poison on its paw.","In Chapter 1, a gray Angora cat is mentioned running through the library after Miss Baird's murder. This cat, identified as Mouchette in Chapter 18, startles Mrs. Parsons. Finally, in Chapter 21, it's revealed that Charles Craige used the cat to kill both Miss Susan Baird and Mrs. Parsons by spraying poison on its paw.","The corrupted fact incorrectly states that Mrs. Parsons used the cat to kill Charles Craige, when in fact, it was Craige who used the cat to kill Mrs. Parsons and Miss Susan Baird.","Chapters 1, 18, 21","- Chapter 1, item 7: A gray Angora cat, startled by the sound of the front door closing, runs from its hiding place through the library and up to the attic.
+- Chapter 18, item 6: Mrs. Parsons is startled by Mouchette the cat, accidentally dropping the sugar bowl.
+- Chapter 21, item 7: Ted Rodgers explains that Craige killed Miss Susan Baird and Mrs. Parsons using poison sprayed on the cat's paw.
+- Relationship: The cat's role in the murders",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. ""The gray Angora cat, Mouchette, which was present during Miss Susan Baird's murder"": This part is grounded in Chapter 1, where a gray Angora cat is mentioned as being startled and running through the library after the murder of Miss Susan Baird.
+   b. ""was later used by Charles Craige to kill Mrs. Parsons by spraying poison on its paw"": This part is grounded in Chapter 21, where it is revealed that Charles Craige used poison sprayed on the cat's paw to kill Mrs. Parsons.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is objectively valid and meaningful. The claim connects the presence of the cat during Miss Baird's murder to its later use in another murder, showing a continuity of events involving the cat.
+   b. The relationship is not a subjective interpretation; it is explicitly supported by the chapter outline and the book summary, which detail the use of the cat in the murder of Mrs. Parsons.
+   c. The relationship makes sense based on the book summary and chapter outline, as both parts of the claim are consistent with the events described.
+
+Since all considerations are satisfied, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+    a. ""The gray Angora cat, Mouchette, which was present during Miss Susan Baird's murder"": This part is grounded in Chapter 1, where a gray Angora cat is mentioned running through the library after Miss Baird's death.
+    b. ""was later used by Mrs. Parsons to kill Charles Craige by spraying poison on its paw"": This part is not grounded in the chapter outline or the book summary. In Chapter 21, it is revealed that Charles Craige is the murderer, and he used poison sprayed on the cat's paw to kill Miss Susan Baird and Mrs. Parsons. There is no mention of Mrs. Parsons using the cat to kill Charles Craige.
+
+2. Analysis of the relationship between atomic parts:
+    a. The relationship is not valid because the claim incorrectly attributes the use of the cat to Mrs. Parsons, whereas the outline and summary indicate that Charles Craige used the cat for poisoning.
+    b. The relationship is a subjective interpretation and not explicitly grounded in the summary or outline.
+    c. The relationship contradicts the information in the summary and outline, which clearly states that Charles Craige was the one who used the cat for poisoning.
+
+Since 1b., 2a., and 2b. are not satisfied, the claim is INVALID."
+"Leigh Wallace received multiple warnings, including a mysterious note from a waiter and a crumpled note found by Kitty, which Mrs. Parsons was later confronted about at Rose Hill.","Leigh Wallace sent multiple warnings, including a mysterious note to a waiter and a crumpled note found by Kitty, which Mrs. Parsons was later confronted about at Rose Hill.","In Chapter 12, Wallace receives a mysterious note from a waiter, and Kitty later finds a crumpled note warning Wallace that he is being watched. In Chapter 18, Kitty confronts Mrs. Parsons about a warning note sent to Leigh Wallace, connecting these incidents and suggesting a pattern of surveillance and warnings directed at Wallace.","The corrupted fact incorrectly states that Wallace sent the warnings, when in fact, he received them.","Chapters 12, 18","- Chapter 12, item 4: Wallace receives a mysterious note from a waiter.
+- Chapter 12, item 6: Kitty finds a crumpled note on the steps with a warning to Wallace that he is being watched.
+- Chapter 18, item 4: Mrs. Parsons visits Kitty Baird at Rose Hill, where Kitty confronts her about a warning note sent to Leigh Wallace.
+- Relationship: Mysterious notes and warnings to Leigh Wallace",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. Leigh Wallace received multiple warnings: This part is grounded in the chapter outlines. In Chapter 12, Wallace receives a mysterious note from a waiter during lunch with Kitty, and Kitty finds a crumpled note warning Wallace that he is being watched.
+   b. Mrs. Parsons was later confronted about the crumpled note at Rose Hill: This part is grounded in Chapter 18, where Kitty confronts Mrs. Parsons about a warning note sent to Leigh Wallace.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is objectively valid and meaningful. The claim connects the warnings received by Wallace to the confrontation with Mrs. Parsons, suggesting a continuity in the narrative regarding the warnings.
+   b. The relationship is not a subjective interpretation; it is explicitly grounded in the chapter outlines.
+   c. The relationship makes sense based on the book summary and chapter outline. There is no contradicting information, and the sequence of events is coherent.
+
+Since all considerations are satisfied, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+   a. ""Leigh Wallace sent multiple warnings"": There is no evidence in the chapter outline or book summary that Leigh Wallace sent any warnings. The outline mentions Wallace receiving a mysterious note from a waiter and a crumpled note found by Kitty, but it does not state that Wallace sent these warnings.
+   b. ""including a mysterious note to a waiter"": The chapter outline for Chapter 12 mentions that Wallace receives a mysterious note from a waiter during lunch with Kitty, but it does not indicate that Wallace sent this note.
+   c. ""a crumpled note found by Kitty"": In Chapter 12, Kitty finds a crumpled note on the steps with a warning to Wallace, but there is no indication that Wallace sent this note.
+   d. ""which Mrs. Parsons was later confronted about at Rose Hill"": In Chapter 18, Kitty confronts Mrs. Parsons about a warning note sent to Leigh Wallace, but the outline does not specify that Wallace sent this note.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not objectively valid because there is no evidence that Wallace sent any warnings. The notes mentioned are received by or found by Wallace and Kitty, respectively, but not sent by Wallace.
+   b. The relationship is a subjective interpretation and not explicitly grounded in the summary or outline.
+   c. The relationship does not make sense based on the book summary and chapter outline, as there is no indication that Wallace sent any warnings.
+
+Since the claim is not supported by the provided information and the relationship between the atomic parts is not valid, the claim is INVALID."
+"Susan Baird's objections to Kitty's relationships, including her disapproval of Major Leigh Wallace, were influenced by her own past experience of being jilted by James Leigh Wallace, who married Anne Holt instead.","Susan Baird's objections to Kitty's relationships, including her disapproval of Major Leigh Wallace, were influenced by her secret romantic affair with James Leigh Wallace, which continued after he married Anne Holt.","In Chapter 3, Oscar mentions an argument between Susan and Kitty. Chapter 6 reveals that Susan disapproved of Kitty's relationship with Major Leigh Wallace. Finally, in Chapter 15, Kitty discovers evidence that Aunt Susan was jilted by James Leigh Wallace, who married Anne Holt instead. These details together suggest that Susan's past romantic disappointment with James Leigh Wallace influenced her objections to Kitty's relationships, particularly with Major Leigh Wallace.","This corrupted fact introduces a false narrative of a secret ongoing affair between Susan Baird and James Leigh Wallace, which is not supported by the information provided in the chapter outlines. The actual fact indicates that Susan was jilted by James, not that they had a continuing secret relationship.","Chapter 3, 6, 15","- Chapter 3, item 6: Oscar reveals that Miss Baird had an argument with her niece, Miss Kitty, but claims ignorance about the details.
+- Chapter 6, item 3: Oscar Jackson is recalled to testify about a quarrel between Susan and Kitty, revealing Susan's disapproval of Kitty's relationship with Major Leigh Wallace.
+- Chapter 15, item 7: Kitty discovers a love letter, dried rose, and newspaper clipping revealing that Aunt Susan was jilted by James Leigh Wallace, who married Anne Holt instead.
+- Relationship: Susan Baird's objections to Kitty's relationships are connected to her own past romantic disappointment.",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+    a. Susan Baird's objections to Kitty's relationships, including her disapproval of Major Leigh Wallace: This part is grounded in the book summary, which mentions that Miss Baird disapproved of Major Leigh Wallace and had quarreled with Kitty over him. It is also supported by Chapter 6, where Oscar Jackson testifies about Susan's disapproval of Kitty's relationship with Major Leigh Wallace.
+    b. Susan Baird was influenced by her own past experience of being jilted by James Leigh Wallace, who married Anne Holt instead: This part is grounded in Chapter 15, where Kitty discovers a love letter and newspaper clipping revealing that Aunt Susan was jilted by James Leigh Wallace, who married Anne Holt.
+
+2. Analysis of the relationship between atomic parts:
+    a. The relationship is objectively valid and meaningful. The claim suggests that Susan Baird's disapproval of Kitty's relationship with Major Leigh Wallace could be influenced by her own past experience with James Leigh Wallace, which is a reasonable inference based on the information provided.
+    b. The relationship is not merely a subjective interpretation; it is a logical connection based on the details given in the summary and chapter outline.
+    c. The relationship makes sense based on the book summary and chapter outline, as it ties together Susan's past experiences with her actions in the present.
+
+Since all considerations are satisfied, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+   a. ""Susan Baird's objections to Kitty's relationships, including her disapproval of Major Leigh Wallace"": This part is grounded in the book summary, which mentions that Miss Baird disapproved of Major Leigh Wallace and had quarreled with Kitty over him. It is also supported by Chapter 6, where Oscar Jackson testifies about Susan's disapproval of Kitty's relationship with Major Leigh Wallace.
+   b. ""were influenced by her secret romantic affair with James Leigh Wallace, which continued after he married Anne Holt"": This part is not explicitly grounded in the book summary or chapter outline. The summary and Chapter 15 outline mention that Aunt Susan was jilted by James Leigh Wallace, who married Anne Holt instead, but there is no mention of a continued romantic affair after his marriage.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not objectively valid because there is no evidence in the summary or chapter outline that Susan's objections to Kitty's relationships were influenced by a continued romantic affair with James Leigh Wallace.
+   b. The relationship is a subjective interpretation and not explicitly stated in the summary or outline.
+   c. The relationship does not make sense based on the book summary and chapter outline, as there is no indication of a continued affair influencing Susan's objections.
+
+Since 1b., 2a., and 2b. are not satisfied, the claim is INVALID."
+"Major Leigh Wallace's suspicious behavior, including his nervousness during a taxi ride with Kitty and his refusal to enter Rose Hill, coincides with his presence at the mansion on the day of Susan Baird's murder and the discovery of a warning note indicating he was being watched.",Major Leigh Wallace's calm and collected behavior during a taxi ride with Kitty and his eagerness to enter Rose Hill coincides with his absence from the mansion on the day of Susan Baird's murder and the discovery of a note praising his actions.,"Chapter 12 describes Wallace's uncharacteristic irritability and nervousness during a taxi ride with Kitty, as well as his refusal to enter Rose Hill. After he leaves, Kitty finds a crumpled note warning Wallace that he is being watched. In Chapter 17, it's revealed that Wallace was seen leaving Rose Hill on the Sunday afternoon of Susan Baird's death. These events, when connected, suggest that Wallace's suspicious behavior may be related to his presence at the crime scene and the fact that someone was monitoring his actions.","The corrupted fact contradicts the information provided in the chapter outlines by describing Wallace's behavior as calm and collected, stating he was eager to enter Rose Hill, claiming he was absent from the mansion on the day of the murder, and mentioning a note of praise instead of a warning.","Chapters 12, 17","- Chapter 12, item 4: Wallace insists on taking Kitty home in a taxi, during which Kitty notices his uncharacteristic irritability and nervousness.
+- Chapter 12, item 5: Upon arriving at ""Rose Hill,"" Wallace declines to enter and suggests Kitty should not live there alone.
+- Chapter 12, item 6: After Wallace leaves, Kitty finds a crumpled note on the steps with a warning to Wallace that he is being watched.
+- Chapter 17, item 1: Inspector Mitchell learns from Donovan that Major Leigh Wallace was seen leaving Rose Hill on Sunday afternoon around 5 PM.
+- Relationship: Wallace's suspicious behavior and presence at the crime scene",Unique,Valid claim,VALID,"1. Analysis of atomic parts:
+   a. Major Leigh Wallace's suspicious behavior, including his nervousness during a taxi ride with Kitty: This part is grounded in event 4 of Chapter 12, where Wallace is described as uncharacteristically irritable and nervous during the taxi ride with Kitty.
+   b. His refusal to enter Rose Hill: This part is grounded in event 5 of Chapter 12, where Wallace declines to enter Rose Hill.
+   c. Coincides with his presence at the mansion on the day of Susan Baird's murder: This part is grounded in event 1 of Chapter 17, where it is mentioned that Wallace was seen leaving Rose Hill on Sunday afternoon.
+   d. The discovery of a warning note indicating he was being watched: This part is grounded in event 6 of Chapter 12, where Kitty finds a crumpled note warning Wallace that he is being watched.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is objectively valid and meaningful. The claim connects Wallace's suspicious behavior and the warning note to his presence at the mansion on the day of the murder, suggesting a potential link to the crime.
+   b. The relationship is not a subjective interpretation; it is based on the sequence of events and the implications of Wallace's actions and the warning note.
+   c. The relationship makes sense based on the book summary and chapter outline. There is no contradicting information, and the claim aligns with the narrative of Wallace's suspicious behavior and involvement in the events surrounding Miss Baird's murder.
+
+Since all considerations are satisfied, the claim is VALID.",INVALID,"1. Analysis of atomic parts:
+   a. Major Leigh Wallace's calm and collected behavior during a taxi ride with Kitty: This part is not grounded in the chapter outline. Instead, the outline mentions Wallace's uncharacteristic irritability and nervousness during the taxi ride with Kitty (Chapter 12, event 4).
+   b. His eagerness to enter Rose Hill: This part is not grounded in the chapter outline. The outline states that Wallace declines to enter Rose Hill and suggests Kitty should not live there alone (Chapter 12, event 5).
+   c. His absence from the mansion on the day of Susan Baird's murder: This part is not explicitly mentioned in the chapter outline or summary. The outline mentions Wallace being seen leaving Rose Hill on a Sunday afternoon (Chapter 17, event 1), but it does not specify the day of Susan Baird's murder.
+   d. The discovery of a note praising his actions: This part is not grounded in the chapter outline or summary. The outline mentions a crumpled note with a warning to Wallace (Chapter 12, event 6), but not a note praising his actions.
+
+2. Analysis of the relationship between atomic parts:
+   a. The relationship is not objectively valid or meaningful, as the atomic parts are not accurately grounded in the chapter outline or summary.
+   b. The relationship is a subjective interpretation and not explicitly stated in the summary or outline.
+   c. The relationship does not make sense based on the book summary and chapter outline, as the claim misrepresents the events and character behaviors.
+
+Since none of the atomic parts are accurately grounded in the provided information, and the relationship between them is not valid, the claim is INVALID."

@@ -1,0 +1,17 @@
+Ross Murdock, a young man with a troubled past, finds himself in a detention room, facing an uncertain future. With a conservative appearance that belies his turbulent inner nature, Ross is presented with a choice by Judge Ord Rawle: undergo rehabilitation or volunteer for a mysterious government project. Sensing an opportunity, Ross volunteers, despite the judge's disapproval.
+
+Under the supervision of a man called Major Kelgarries, Ross is whisked away in a helicopter, leaving behind the city he knows for a destination unknown. The journey is disorienting, and Ross finds himself in a new world—one where time travel is not just a possibility but a reality. He is taken to a base where he undergoes rigorous training, learning skills ranging from hand-to-hand combat to ancient languages and customs. Alongside this training, Ross is introduced to a network of time agents, each with a specific role in a broader mission to uncover and neutralize a mysterious threat from the past.
+
+Ross's partner in this endeavor is Gordon Ashe, a seasoned archaeologist and time traveler. Together, they are tasked with a mission to ancient Britain, where they must blend in with the Beaker people, a group of traders known for their extensive trade networks across prehistoric Europe. Their mission is complicated by the presence of the Reds, a group of Soviet agents who have also discovered time travel and are exploiting it for their own ends.
+
+As Ross and Ashe navigate the complexities of their mission, they uncover evidence of the Reds' interference in history. The destruction of a Beaker trading post by a mysterious explosion suggests the use of advanced technology, and Ross and Ashe realize that the Reds are not only present but actively altering historical events to their advantage.
+
+Their journey takes them through a landscape both familiar and alien, where they must rely on their wits and training to survive. Ross, in particular, faces challenges that test his resolve and force him to confront his own identity. The line between his past self and his role as a time agent blurs, and he must decide where his loyalties lie.
+
+Amidst the backdrop of ancient Britain, Ross encounters various tribes and must navigate their customs and beliefs, all while maintaining his cover as a trader. The mission becomes a race against time as Ross and Ashe work to locate the Reds' base and uncover their plans. The stakes are high, and the consequences of failure could alter the course of history itself.
+
+Throughout the mission, Ross grapples with the moral implications of time travel and the responsibility that comes with it. He learns that the past is not just a backdrop for adventure but a living, breathing world with its own complexities and dangers. As he delves deeper into the mission, Ross discovers the true nature of the threat posed by the Reds and the lengths to which they will go to achieve their goals.
+
+In a climactic confrontation, Ross must use all the skills he has acquired to thwart the Reds' plans and protect the integrity of history. The mission tests his courage and ingenuity, ultimately leading him to a deeper understanding of himself and his place in the world.
+
+As the story unfolds, Ross Murdock evolves from a rebellious youth into a dedicated time agent, committed to preserving the past and ensuring a future free from the manipulations of those who would exploit time for their own ends. His journey is one of self-discovery, adventure, and the relentless pursuit of justice across the ages.

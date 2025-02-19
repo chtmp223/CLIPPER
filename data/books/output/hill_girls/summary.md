@@ -1,0 +1,13 @@
+The story revolves around the Kenway sisters—Ruth, Agnes, Tess, and Dot—who transition from a modest life in a tenement house on Essex Street to inheriting their Uncle Peter Stower's grand old Corner House in Milton. Their uncle's death leaves them with the house and a considerable estate, though the will is yet to be found, creating a layer of uncertainty about their claim.
+
+Ruth, the eldest at sixteen, is the responsible head of the family, managing the household duties with the help of her sisters. Agnes, twelve, is jolly and imaginative, Tess, ten, is practical and kind-hearted, while Dot, the youngest at eight, is serious and imaginative. The sisters face the challenge of adapting to their new life, managing a large house, and dealing with the mystery surrounding their uncle's missing will.
+
+They encounter various characters, including Aunt Sarah, a silent and grim woman who lives with them, and Uncle Rufus, the old colored servant who was devoted to their uncle and wishes to continue serving in the house. The sisters agree to let him stay, recognizing his attachment to the house and his usefulness.
+
+The girls also face the neighborhood's curiosity and the legend of the house being haunted by a ghost seen in the garret window during storms. This ghost story, spread by locals like Eva Larry, adds a spooky element to their new home, although Ruth remains skeptical.
+
+Their interactions with neighbors, like the Creamer girls, are initially challenging due to misunderstandings and rumors about the house and its previous owner. However, they also make friends, such as Alfredia Blossom and the grocery store owner's daughter, Myra Stetson, who helps them acquire a cat, Sandy-face, and her kittens to deal with a mouse problem in the house.
+
+The story is not just about adapting to a new lifestyle but also about the sisters' growing independence and ability to handle responsibilities. Ruth is especially concerned about managing finances and ensuring the family doesn't overextend themselves financially, given the uncertainty about the will.
+
+As they settle into their new life, they experience both humorous and heartwarming moments, such as Dot's misunderstanding of overheard conversations, and the girls' efforts to make friends in their new community. The narrative is filled with the sisters' adventures, their bonding, and their ability to face challenges together, all while maintaining their kindness and sense of duty, which ultimately endears them to the people of Milton.

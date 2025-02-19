@@ -1,0 +1,15 @@
+The story begins with the tale of Sigi, a man known as the son of Odin, who becomes an outlaw after killing a thrall named Bredi out of jealousy. Forced to flee, Sigi embarks on a life of warfare and eventually becomes a king, ruling over the land of the Huns. He marries a noble woman and has a son named Refir, who grows up in his father's house.
+
+As the narrative unfolds, we encounter the Volsungs, a powerful family with a tragic destiny. Sigmund, a son of King Volsung, becomes a central figure in the saga. He and his sister Signy are twins, and their lives are intertwined with themes of betrayal and vengeance. Signy is married off to King Siggeir, who later betrays and kills King Volsung. Sigmund, the sole surviving son, vows revenge.
+
+Sigmund's son, Sinfjotli, is born from a union with his sister Signy, who seeks to produce a child capable of avenging their father. Sinfjotli grows up to be a fierce warrior, and together with Sigmund, they set out to kill Siggeir. After a series of battles and betrayals, they succeed, but Signy chooses to die with Siggeir, having fulfilled her purpose.
+
+The narrative then shifts to Sigurd, a hero of unmatched prowess, who slays the dragon Fafnir and takes its hoard of gold. Sigurd becomes entangled in a web of love and betrayal as he is manipulated into marrying Gudrun, the daughter of King Giuki, despite his love for Brynhild, a Valkyrie. Brynhild, feeling betrayed, orchestrates a series of tragic events that lead to Sigurd's death at the hands of Gudrun's brothers, Gunnar and Hogni.
+
+Gudrun, consumed by grief and anger, eventually marries Atli, the brother of Brynhild. Atli invites Gunnar and Hogni to his court with the intention of killing them to seize their wealth. Despite warnings and ominous dreams, the brothers accept the invitation. They are captured, and Atli demands the location of the treasure. Hogni's heart is cut out, and Gunnar is thrown into a pit of serpents, where he dies playing a harp with his toes to lull the snakes.
+
+Gudrun avenges her brothers by killing her own sons with Atli, serving their flesh to him, and finally killing Atli. After the destruction of Atli's hall, Gudrun attempts to drown herself but is carried by the waves to the land of King Jonakr, whom she marries, and they have children together.
+
+The saga concludes with the tragic tale of Gudrun's daughter, Swanhild, who is married to King Jormunrek. She is falsely accused of infidelity and executed. Gudrun urges her sons by Jonakr to avenge their sister, but they fail, resulting in their deaths and the end of the Volsung lineage.
+
+Throughout the saga, themes of fate, revenge, and the inescapable nature of destiny are explored, with the characters' lives intertwined in a tapestry of heroism and tragedy. The story is a rich tapestry of Norse mythology, exploring the complexities of human emotions and the inevitable consequences of actions driven by love, betrayal, and vengeance.

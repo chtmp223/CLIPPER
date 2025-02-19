@@ -1,0 +1,13 @@
+Wilford Heaton, a man in his mid-twenties, recounts a perplexing period of his life, beginning with his sudden blindness due to a disease contracted while traveling in Italy. After returning to London, he lives in isolation, relying on his friend Dick Doyle and an old family servant, Mrs. Parker. Despite the gloom of his condition, Wilford's life takes a dramatic turn following a mysterious accident that leaves him unconscious.
+
+Upon awakening, Wilford finds himself in a strange house, tended by a woman named Edna, who demands his silence about a crime he inadvertently witnessed. Edna, whose identity remains shrouded in mystery, extracts a promise from Wilford to obey any future instructions he receives via letters signed "Avel." Despite the odd circumstances, Wilford agrees, driven by the need to protect his life.
+
+As Wilford navigates this new reality, he discovers that six years of his life have inexplicably vanished. During this period, he has become a successful financier with dealings in Bulgaria, acquired a wife he does not remember marrying, and is living in a grand house in Devonshire. Confounded by these revelations, Wilford struggles to piece together the events of his lost years.
+
+His quest for answers leads him back to London, where he attempts to reconnect with Mabel Anson, a woman he once loved. Through a series of encounters and investigations, Wilford learns that Mabel is, in fact, an Archduchess living incognito in England. The mystery deepens as he uncovers the truth about the murder he witnessed: the victim was Prince Alexander, heir to the Bulgarian throne, and the crime was part of a political conspiracy involving Edna and other high-ranking individuals.
+
+Throughout his journey, Wilford is aided by Edna, who, despite her involvement in the conspiracy, helps restore his sight through a miraculous operation performed by a mysterious oculist, Dr. Slade. As his vision returns, Wilford is determined to unravel the enigma surrounding his life and the people who have manipulated it.
+
+In the end, Wilford's perseverance pays off as he reunites with Mabel and learns the full extent of the conspiracy. The truth reveals that Mabel's maid, driven by jealousy, was the actual murderer of Prince Alexander. With the mystery solved, Wilford and Mabel, now free from the shadows of their past, are able to pursue a future together.
+
+The narrative is a complex tale of intrigue, love, and the quest for identity, set against a backdrop of political machinations and personal rediscovery. Wilford's journey from darkness to light, both literally and metaphorically, underscores the themes of resilience and the enduring power of love.

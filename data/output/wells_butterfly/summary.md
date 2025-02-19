@@ -1,0 +1,13 @@
+Patty Fairfield, a lively and charming young girl, is spending her summer at Spring Beach with her family. Despite her love for the seashore, she agrees to a plan to move to the White Mountains to please her stepmother, Nan, who prefers the mountains. Patty is known for her cheerful disposition and willingness to make sacrifices for others, though she secretly wishes to stay by the sea, especially because of her attachment to her motor-car, Camilla.
+
+As the summer progresses, Patty becomes involved in various social activities, including a house party at Mona Galbraith's luxurious home, "Red Chimneys." Mona, a wealthy but socially awkward girl, invites Patty to stay with her, offering a chance for Patty to remain at Spring Beach while her parents travel to the mountains. Patty accepts the invitation, partly out of a desire to help Mona improve her social skills and partly because it allows her to stay by the sea.
+
+The house party at "Red Chimneys" includes a mix of guests, such as the charming artist Laurence Cromer, the lively Daisy Dow, and the imposing Bill Farnsworth, a Western giant with whom Patty shares an unexpected and humorous encounter. The guests engage in various activities, including a garden party at the Sayres' and a Pageant that features elaborate floats and costumes.
+
+Patty's stay is not without challenges. Mona's Aunt Adelaide, who is supposed to chaperone the girls, proves to be a fussy and demanding presence. Patty's tact and good nature help manage the situation, but Aunt Adelaide's interference often tests the patience of the household.
+
+Throughout the summer, Patty navigates social dynamics with grace, forming friendships and handling misunderstandings with humor and kindness. Her interactions with Bill Farnsworth are particularly noteworthy, as he develops a fondness for her, which she acknowledges but does not reciprocate in the same way, preferring to remain friends.
+
+As the summer unfolds, Patty's influence helps Mona become more socially adept, and the house party becomes a success. Despite the occasional mishaps and the presence of Aunt Adelaide, Patty's charm and ability to bring people together ensure that the summer is filled with memorable and enjoyable experiences.
+
+Patty's journey is one of growth and understanding, as she balances her desires with the expectations of those around her, ultimately finding joy and fulfillment in her relationships and the vibrant social life at Spring Beach.

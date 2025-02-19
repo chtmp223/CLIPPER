@@ -1,0 +1,11 @@
+In a small French town, Lucie Du Bois, a young girl, finds solace in her friendship with Annette Le Brun amidst the backdrop of an impending war. Lucie, the daughter of Captain Marcel Du Bois and an American mother, lives with her family and their devoted maid, Paulette. Her father is soon called to serve in the army, leaving Lucie and her mother to manage the household with the help of her grandfather, Monsieur Du Bois.
+
+As the war escalates, Madame Du Bois leaves to care for her wounded husband, leaving Lucie under the care of her grandfather and Paulette. Lucie’s life takes a drastic turn as the Germans advance, forcing the family to flee their home. During their escape, they become separated from Monsieur Du Bois, who later dies from a shrapnel wound. Lucie and Paulette, along with the faithful dog Pom Pom, make their way to Paris, where they find temporary refuge.
+
+In Paris, Lucie befriends Odette Moreau, a fellow refugee from Picardy. Despite their different backgrounds, the two girls bond over their shared experiences of loss and displacement. Paulette, struggling to find work, eventually secures employment at a laundry, while Lucie and Odette manage their modest household and learn to cook and knit for the soldiers.
+
+Victor Guerin, Annette’s cousin and a young soldier, becomes a significant figure in Lucie’s life. He provides support and assistance, helping Lucie and Paulette navigate the challenges of life in Paris during wartime. Victor’s visits bring news from the front and comfort to Lucie, who is anxious about her parents and the uncertainty of their situation.
+
+The war's toll is evident as Lucie learns of her grandfather’s death and struggles with the absence of her parents. However, she remains hopeful, buoyed by the support of Paulette, Victor, and her new friend Odette. Despite the hardships, Lucie finds strength in her friendships and the resilience of those around her.
+
+As the war progresses, Lucie and Paulette continue to adapt to their new life in Paris, holding onto the hope of reuniting with Lucie’s parents and returning to their home. The narrative captures Lucie's journey from a carefree childhood to a more mature understanding of the world, shaped by the trials of war and the enduring bonds of friendship and family.

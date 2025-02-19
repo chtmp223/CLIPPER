@@ -1,0 +1,13 @@
+In a tale of intrigue, magic, and divine intervention, the story unfolds in ancient Egypt, where the Pharaoh Meneptah and his Queen, Meriamun, rule the land. The narrative begins with the arrival of a mysterious and formidable wanderer, who claims to be Eperitus, a man from the north. This wanderer is none other than Odysseus, the famed hero of the Trojan War, who has been led to Egypt by the gods.
+
+The Queen Meriamun is a woman of great beauty and ambition, who has long been plagued by a vision of a man in golden armor, whom she believes she is destined to love. This vision has haunted her dreams, and she is convinced that the man is Odysseus, whom she sees as both her doom and her desire. Despite being married to Pharaoh Meneptah, Meriamun is driven by her passion and a prophecy that foretells her fate intertwined with that of the wanderer.
+
+Rei, the High Priest and counselor to the Pharaoh, is a key figure who provides insight into the Queen's past and her dealings with dark magic. He reveals that Meriamun has used her knowledge of ancient spells to gain power and manipulate those around her, including summoning the spirit of a woman she killed, seeking answers to her future.
+
+As the story progresses, it becomes clear that the land of Egypt is under a curse, with plagues and darkness afflicting the people. The source of these woes is believed to be a mysterious and enchanting figure known as the Strange Hathor, a woman of unparalleled beauty who resides in a temple and captivates all who see her. Pharaoh himself has been bewitched by her allure, causing tension and jealousy in Meriamun.
+
+The wanderer, Odysseus, is drawn into this web of intrigue as he learns of the Strange Hathor and the chaos her presence has wrought. Despite warnings, he is intrigued by the possibility of confronting her, driven by his own quest for the World's Desire, a love that transcends mortal bounds.
+
+As tensions rise, Meriamun's jealousy and ambition lead her to plot against both the Strange Hathor and Odysseus. She seeks to rid Egypt of the enchantress and claim the wanderer for herself, even as the land teeters on the brink of ruin due to the plagues and the threat of foreign invasion.
+
+The story weaves together themes of love, destiny, and the struggle for power, set against the backdrop of a land steeped in ancient magic and divine influence. Odysseus, the eternal wanderer, finds himself caught in a conflict that echoes his own past and the timeless struggle between love and duty, as he navigates the dangerous path laid before him by the gods and the ambitions of mortals.

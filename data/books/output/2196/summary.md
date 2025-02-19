@@ -1,0 +1,13 @@
+In a coastal village in Brittany, the lives of fishermen and their families revolve around the perilous journeys to Iceland for the cod fisheries. The story follows Gaud Mevel, a beautiful and proud young woman who has returned to her roots after living in Paris. Gaud falls deeply in love with Yann Gaos, a handsome and strong fisherman, known for his wild and independent nature.
+
+Yann, who has promised himself to the sea, is hesitant to marry despite his feelings for Gaud. His stubbornness and the influence of his friends and family prevent him from acknowledging his love. Gaud, meanwhile, waits patiently, hoping for Yann to come to her. Her patience is tested as she endures the long absence of the fishermen during the Icelandic fishing season.
+
+The narrative explores the rugged life of the fishermen, their close-knit community, and the ever-present danger of the sea. The men are described as brave and noble, living by the rhythms of the ocean. The women, left behind, are portrayed as resilient and supportive, managing their households and waiting anxiously for their loved ones' return.
+
+As the story unfolds, Gaud and Yann's paths intertwine, and they eventually confess their love for each other. They marry, but their happiness is short-lived as Yann must soon return to the sea. Gaud is left alone, filled with a mix of hope and dread, as she waits for his return.
+
+The novel also highlights the bond between Yann and his cousin Sylvestre Moan, who is conscripted into the navy and sent to China. Sylvestre, a gentle and kind-hearted young man, shares a close relationship with his grandmother, Yvonne Moan, who raised him after his parents' death. Yvonne's character adds depth to the narrative, representing the older generation's wisdom and the enduring strength of family ties.
+
+Tragedy strikes when Yann's ship, the _Leopoldine_, is lost at sea during a storm. Gaud, devastated by the news, struggles with her grief and the harsh reality of life without Yann. The novel portrays her emotional turmoil and the impact of Yann's loss on the community, emphasizing the sea's dual role as both a provider and a destroyer.
+
+Through vivid descriptions and rich character development, the story captures the essence of Breton life, the harsh beauty of the sea, and the deep-seated traditions that bind the community. The narrative is a poignant exploration of love, loss, and the enduring human spirit in the face of nature's relentless power.

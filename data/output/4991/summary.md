@@ -1,0 +1,11 @@
+The story begins with the Pony Rider Boys—Tad Butler, Stacy Brown, Ned Rector, and Walter Perkins—along with Professor Zepplin, traveling by train to Bluewater. They overhear a conversation between two men, Bob Lasar and his companion, about a treasure hidden south of the Zuni range, which piques their interest. The boys, known for their adventurous spirit, are on a vacation in the saddle, having had previous adventures in the Rockies, Texas, Montana, the Ozarks, and the Alkali desert.
+
+Upon reaching Bluewater, the boys and their guide, Juan, set out on their journey. They are drawn into a plot involving a hidden treasure, which Lasar and his companion are after. The treasure is said to consist of jewels and Spanish money buried by a Franciscan monk after the Pueblo revolution in 1680. The boys, unaware of the exact location, are intrigued by the mystery and the potential danger posed by Lasar and his partner.
+
+As they travel, the boys face various challenges, including a prairie fire, which Tad and Stacy narrowly escape, showcasing their bravery and quick thinking. They also encounter a group of Indians, leading to a tense moment where Tad uses his wits to avoid a dangerous situation. The group is joined by Kris Kringle, a knowledgeable guide, who helps them navigate the perils of the journey.
+
+The story reaches a climax when the boys, along with Mr. Marquand, a man they befriend who is connected to the treasure, discover the ancient Pueblo site. They witness a mysterious moonbeam pointing to the treasure's location, a chest filled with gold and silver. However, their discovery is not without danger, as Lasar and his gang attempt to seize the treasure by besieging the group.
+
+Tad plays a crucial role in their escape, sneaking out to fetch help. His bravery and resourcefulness lead to the capture of Lasar and his men by a sheriff's posse, allowing the group to safely transport the treasure back to civilization.
+
+Throughout the narrative, the boys demonstrate courage, loyalty, and a keen sense of adventure, overcoming various obstacles and learning valuable lessons about trust and friendship. The story concludes with the boys returning home, having added another thrilling chapter to their series of adventures, and setting the stage for their next journey to the Grand Canyon.

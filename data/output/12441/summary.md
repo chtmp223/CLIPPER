@@ -1,0 +1,15 @@
+John Glenarm, a young engineer, receives news of his grandfather, John Marshall Glenarm's, death and a peculiar will that requires him to reside for a year at Glenarm House in Indiana to inherit the estate. The conditions are stringent, and failure to comply would result in the estate passing to Marian Devereux, a woman unknown to John. Despite his initial reluctance, John agrees and travels back to America, leaving his adventurous life behind.
+
+Upon arrival, John is greeted by Bates, the enigmatic caretaker, and discovers that the house is a sprawling, unfinished architectural marvel filled with books and curiosities. The house, surrounded by a high stone wall, is steeped in mystery and local superstition about hidden treasures. John quickly learns that he is not alone in the house; someone fires a shot through a window at him on his first night, and he finds evidence of intruders in his room.
+
+The nearby St. Agatha's School for Girls, run by Sister Theresa and her niece Marian Devereux, is a source of curiosity for John. He encounters a lively young girl in a red tam-o'-shanter, Olivia, who adds a touch of humor and intrigue to his isolated life. Olivia, spirited and evasive, becomes a symbol of the mystery surrounding Glenarm House and its neighbors.
+
+John's suspicions about Bates grow as he discovers Bates' secretive behavior and his possible connection to Arthur Pickering, the executor of the will, who has his own designs on the estate. John learns that Pickering is not to be trusted and that he may be conspiring with others, including a local caretaker named Morgan, to drive John away.
+
+Throughout his stay, John is haunted by the idea of a hidden treasure, and his explorations of the house and its grounds reveal secret passages and clues left by his grandfather. His determination to uncover the truth and fulfill the terms of the will is tested by the constant threat of danger and the enigmatic presence of Marian Devereux, whose motives remain unclear.
+
+As the story unfolds, John grapples with his feelings for Marian and the realization that she might be involved in the plot against him. However, his resolve is strengthened by the support of his old friend, Larry Donovan, who arrives unexpectedly to assist him.
+
+In a dramatic climax, John discovers that his grandfather is alive, having faked his death to test John's character and resolve. The old man reveals the truth about the estate and the treasure, clearing Marian of any wrongdoing. With the mystery solved, John is free to pursue his future, having proven himself worthy of his grandfather's legacy.
+
+The story concludes with John contemplating his next steps, having found purpose and direction through the trials at Glenarm House, and hinting at a possible future with Marian Devereux, who has become more than just a name in his grandfather's will.

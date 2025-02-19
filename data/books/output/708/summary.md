@@ -1,0 +1,15 @@
+In a kingdom nestled among mountains, a young princess named Irene lives in a grand palace. Due to her mother's frail health, she is raised by country folk in a house part castle, part farmhouse, on the mountain's side. Irene, a sweet and curious child, is about eight years old when our story begins. The mountains are riddled with caverns inhabited by goblins, who once lived above ground but retreated underground due to grievances with the king's ancestors. These goblins, though clever, bear a grudge against the humans and especially the royal family, seeking opportunities to cause mischief.
+
+Irene's adventures begin when she encounters Curdie, a brave miner's son. One day, while playing outside, she hears a bugle blast and realizes her father, the king, is visiting. The king is a tall, noble man with gentle eyes and a long dark beard. Irene adores him, and he cherishes his daughter. During his visit, Irene speaks of her mysterious great-great-grandmother, who lives in a tower. The king is puzzled, as he knows nothing of such a relative.
+
+The goblins, meanwhile, plot against the humans. Curdie spends many nights in the mines, working and observing the goblins. He learns of their plans to flood the mines and discovers their one vulnerability: their soft feet. Curdie uses this knowledge to protect the miners and the kingdom.
+
+One night, Irene follows a magical thread given by her grandmother, which leads her through the dark to rescue Curdie, who has been trapped by goblins. Her grandmother is a mystical figure, spinning a thread of protection. Curdie is skeptical of the grandmother's existence until he experiences her magic firsthand.
+
+As the goblins' plans progress, they aim to kidnap Irene to force a marriage with their prince, Harelip, securing a hold over the king. Curdie, now aware of the threat, is determined to thwart their plans. Despite being captured and injured by the palace guards, who mistake him for a goblin, Curdie's resolve doesn't waver.
+
+The goblins attempt to execute their plan by flooding the mines, but Curdie warns the king in time. The royal family and their servants escape to safety, while the goblins inadvertently flood their own domain. The king, grateful for Curdie's bravery, offers him a place in his service, but Curdie declines, choosing to stay with his family.
+
+Throughout the story, Irene's faith in her grandmother and her magical thread is unwavering, guiding her through danger and confusion. Her adventures teach her courage and kindness, shaping her into a true princess. Curdie's bravery and cleverness save the kingdom, proving that heroism doesn't require royal blood.
+
+In the end, the goblins retreat, their plans foiled, and peace returns to the mountain. Irene and Curdie's friendship strengthens, bound by their shared adventures and mutual respect. The king, recognizing Curdie's valor, promises future rewards, and the kingdom remains vigilant against future goblin threats. The tale concludes with the promise of more adventures, leaving the door open for further exploration of Irene and Curdie's world.

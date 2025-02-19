@@ -1,0 +1,17 @@
+The narrative begins with a protagonist who reflects on his reckless nature, recounting various childhood incidents that illustrate his impulsive behavior, such as jumping from a school building and injuring himself. He describes his family dynamics, where his father disapproves of him, and his mother favors his brother, leaving him feeling isolated. His brother, who aspires to be a businessman, often clashes with him, leading to frequent fights.
+
+The protagonist's only solace comes from Kiyo, the family maid, who treats him with kindness and affection, often providing him with food and small gifts. Despite the protagonist's troublesome nature, Kiyo believes he will achieve greatness. After his mother's death, the protagonist continues to live with his father and brother, feeling increasingly alienated.
+
+Upon graduating, he receives a job offer as a mathematics teacher in a rural town in Shikoku. Reluctantly, he accepts the position and moves to the countryside, where he finds himself in a small, insular community. The school environment is challenging, with students who are unruly and teachers who are indifferent or self-serving. The protagonist struggles with his new role and the expectations placed upon him.
+
+He develops a friendship with a fellow teacher nicknamed Porcupine, who, despite his gruff exterior, is principled and stands up for what he believes is right. In contrast, the protagonist becomes wary of another teacher, Red Shirt, who, despite his refined demeanor, is manipulative and deceitful. Red Shirt is involved in a love triangle with a local girl, the Madonna, and another teacher, Koga, who is being transferred against his will, possibly due to Red Shirt's machinations.
+
+The protagonist becomes embroiled in school politics and student pranks, which test his patience and resolve. Despite his frustration, he finds himself drawn to the students' antics and begins to understand the complexities of his new environment. He is determined to maintain his integrity and not succumb to the pettiness and corruption around him.
+
+As tensions rise, the protagonist learns from the old lady at his boarding house about Red Shirt's true nature and his schemes to win over the Madonna. This revelation solidifies the protagonist's resolve to confront Red Shirt and stand by his principles. Meanwhile, he continues to receive support from Porcupine, who shares his disdain for Red Shirt's underhanded tactics.
+
+The protagonist's growing awareness of the duplicity around him leads to a confrontation during a farewell dinner for Koga. Porcupine delivers a speech that subtly criticizes Red Shirt and the school's administration, while the protagonist struggles with his own speech due to his lack of eloquence. The dinner descends into chaos, with drunken teachers and geishas, highlighting the farcical nature of the school's social dynamics.
+
+Ultimately, the protagonist decides to leave the town, disillusioned by the hypocrisy and manipulation he has witnessed. He is determined to return to Tokyo, where he feels he can live more authentically and perhaps start a new chapter with Kiyo, who remains a source of comfort and stability in his life.
+
+Throughout the narrative, the protagonist grapples with themes of integrity, loyalty, and the challenges of navigating a world filled with deceit and self-interest. His journey is one of self-discovery, as he learns to balance his impulsive nature with a growing sense of responsibility and moral clarity.

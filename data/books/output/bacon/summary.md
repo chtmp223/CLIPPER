@@ -1,0 +1,11 @@
+In a small town called Calivada, Bill Jones, affectionately known as "Lightnin'" due to his slow demeanor, lives with his wife, Mrs. Jones, and their adopted daughter, Millie. Despite his leisurely pace, Bill is beloved in the community for his humorous tales and amiable nature. However, the family faces financial struggles, having sold much of their timber and land. They attempt to make ends meet by taking in boarders, but this only adds to the workload of Mrs. Jones and Millie.
+
+Bill becomes concerned about their financial state and, during a moment of inspiration, devises a plan to turn their home into a hotel for people seeking divorces in Reno. The house is uniquely positioned on the state line, allowing guests to reside in Nevada while enjoying California's amenities. This idea is met with enthusiasm by his family and friends, including John Marvin, a young law student who is close to the Jones family.
+
+However, complications arise when Everett Hammond and Raymond Thomas, two unscrupulous businessmen, attempt to swindle the Joneses out of their property. They convince Mrs. Jones to sign a deed under the pretense of securing their financial future, but Bill is suspicious and refuses to sign. Marvin, who has a history with Thomas, is aware of their deceit and tries to stop the sale.
+
+Amidst this, Marvin is also dealing with a legal battle over timber he sold to Rodney Harper, which Thomas and Hammond claim belongs to the Pacific Railroad. Marvin's situation is further complicated by his feelings for Millie, who is initially swayed by Thomas's charm and promises.
+
+As tensions rise, Bill disappears, prompting a search by his family. He eventually returns, having stayed at a veterans' home, and with Marvin's help, they uncover Thomas and Hammond's fraudulent activities. In court, Bill's testimony and Marvin's defense reveal the truth, leading to the collapse of the scheme against the Joneses.
+
+Meanwhile, Millie realizes her true feelings for Marvin, and the couple reconciles. The Jones family regains control of their property, and Bill's hotel idea continues to thrive, bringing financial stability and happiness to the family. Throughout the story, Bill's seemingly slow nature proves to be a guise for his sharp wit and deep understanding, ultimately saving his family from ruin.

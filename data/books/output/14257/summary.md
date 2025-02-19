@@ -1,0 +1,15 @@
+Margaret Dauncey, an art student in Paris, shares a flat with Susie Boyd, a former schoolmistress who now enjoys a modest life of leisure thanks to an unexpected inheritance. They live near the Boulevard du Montparnasse, and Susie, though plain and disillusioned by her own lack of artistic talent, takes pleasure in Margaret's beauty and artistic promise. Margaret is engaged to Arthur Burdon, a successful surgeon who has been her guardian since her father's death left her penniless. Arthur has supported Margaret financially, allowing her to pursue her art studies in Paris, and their relationship is founded on deep mutual affection.
+
+Arthur, who is deeply in love with Margaret, visits Paris to see her. Susie is excited to meet him, as she has heard much about him. Margaret, aware of Arthur's generosity and love, is devoted to him, but her life takes a dramatic turn when they encounter Oliver Haddo, a mysterious and corpulent man with a reputation for eccentricity and knowledge of the occult.
+
+Haddo, who is secretly fascinated by Margaret, begins to weave a web of influence around her. Despite her initial repulsion, Margaret feels an inexplicable attraction to Haddo, driven by his hypnotic power and the allure of his strange tales of magic and adventure. Haddo's influence grows, and Margaret becomes increasingly distant from Arthur, eventually succumbing to Haddo's advances.
+
+Margaret's sudden and inexplicable marriage to Haddo shocks Arthur and Susie. Arthur, devastated by Margaret's betrayal, struggles to understand how the woman he loved could abandon him for a man like Haddo. Susie, who has secretly harbored feelings for Arthur, is equally distraught but remains supportive.
+
+Haddo and Margaret's life together is marked by excess and mystery. They travel in high society, but rumors of Haddo's dark practices and Margaret's unhappiness abound. Arthur, unable to shake the feeling that Margaret is in danger, becomes increasingly obsessed with the idea that Haddo has ensnared her through supernatural means.
+
+Arthur's fears are confirmed when he learns from Dr. Porhoët, an expert in the occult, that Haddo is rumored to be conducting experiments to create life through magic. Arthur's determination to save Margaret leads him to confront Haddo at his estate, Skene, where he discovers that Haddo has been using Margaret for his experiments.
+
+Tragically, Margaret dies under mysterious circumstances, and Arthur is left to grapple with his grief and the knowledge that Haddo's evil machinations were responsible. In a climactic confrontation, Arthur kills Haddo in a fit of rage, only to find that Haddo's body is nowhere to be found.
+
+The story concludes with Arthur, Susie, and Dr. Porhoët returning to Skene to uncover the truth. They find Haddo's laboratory filled with grotesque, half-formed creatures, evidence of his attempts to create life. As they leave, the house is consumed by flames, erasing all traces of Haddo's dark deeds. Arthur and Susie, having endured unimaginable horrors, find solace in the dawn of a new day, hopeful for a future free from Haddo's shadow.

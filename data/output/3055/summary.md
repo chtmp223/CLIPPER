@@ -1,0 +1,13 @@
+Walter, a young man of twenty-five from the coastal city of Langton on Holm, is caught in a web of love and betrayal. His wife, whom he deeply loves, proves unfaithful, leaving him restless and loathing his familiar surroundings. In search of solace and distraction, Walter decides to embark on a voyage aboard his father Bartholomew Golden's ship, the Katherine, setting sail to explore other lands.
+
+As the ship journeys across the seas, Walter encounters a mysterious vision at the quay: a dwarf, a maiden, and a stately lady, all of whom captivate his imagination. This vision haunts him, driving his desire to uncover their identities and purpose. Despite the passage of time and his involvement in trade and travel, Walter's longing to solve this mystery persists.
+
+Eventually, the Katherine is caught in a storm, forcing it off course and leading Walter and the crew to an unfamiliar land. Here, Walter meets an old man who lives alone, having once been a knight. The old man, who speaks of strange adventures and a mysterious pass in the mountains, piques Walter's curiosity. Despite the old man's warnings of danger, Walter is determined to explore the pass, hoping to find answers to his visions.
+
+As Walter ventures into the wilderness, he faces various challenges, including navigating through a barren mountain range and surviving on limited provisions. His journey is marked by encounters with strange creatures, including a terrifying dwarf who speaks cryptically of a "Lady" and a "Thing," hinting at dark secrets and a perilous path ahead.
+
+Walter's journey takes him to the land of the Bear-folk, a tribe of formidable, half-wild men who worship a mysterious woman as their deity. The Maid, who has been accompanying Walter, reveals her own connection to this land and its people. With her wisdom and courage, she aids Walter in navigating their customs and potential dangers.
+
+As they continue their journey, Walter and the Maid grow closer, their bond strengthened by shared trials and the promise of a future together. The Maid's wisdom and foresight guide them through the wilderness, leading them to a prosperous city where Walter is unexpectedly crowned king. The Maid, now his queen, brings peace and prosperity to the land, beloved by all for her beauty and kindness.
+
+Walter's reign is marked by wisdom and strength, as he navigates the complexities of leadership and the challenges of maintaining peace. The story concludes with Walter and the Maid ruling their kingdom with justice and love, their past adventures shaping a future filled with hope and prosperity. Their journey from the wilderness to the throne symbolizes the triumph of love and courage over adversity, leaving a legacy of peace and happiness for generations to come.

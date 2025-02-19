@@ -1,0 +1,15 @@
+The story begins at Charing Cross, where Lilia Herriton is being seen off by her relatives as she embarks on a trip to Italy. Among those present are Philip Herriton, Lilia's brother-in-law, Harriet Herriton, her sister-in-law, Irma, her daughter, and Mrs. Herriton, her mother-in-law. Lilia is full of high spirits, treating the departure as a grand adventure. Philip, who is intoxicated by the idea of Italy, gives Lilia a stream of advice on what to see and do.
+
+As Lilia departs, the family returns to their home in Sawston, where the quietness after the bustle of preparation is palpable. The story reveals that Lilia was once married to Charles Herriton, who has died, leaving her with their daughter, Irma. Lilia's relationship with her in-laws is strained, and she is seen as somewhat of a burden. The Herritons are concerned about Lilia's behavior and the potential for scandal, as she is a widow of thirty-three with a young daughter to consider.
+
+In Italy, Lilia becomes infatuated with Gino Carella, a young Italian man of lower social standing, and the two quickly marry. This decision shocks and dismays the Herriton family, who are concerned about the social implications and the potential for scandal. Philip is sent to Italy to prevent the marriage, but he arrives too late. Lilia is already married to Gino, and Philip's attempts to reason with her are unsuccessful.
+
+As time passes, Lilia's marriage to Gino proves to be a failure. She is isolated and unhappy, realizing that Gino married her for her money. Lilia becomes pregnant and dies in childbirth, leaving behind a son. The Herritons are now faced with the issue of the child's future. Mrs. Herriton, concerned about the family's reputation and the child's upbringing, decides that the baby must be brought to England.
+
+Philip and Harriet travel to Italy to retrieve the child, but they are met with resistance from Gino, who has grown attached to his son. Miss Abbott, a family friend who had initially supported Lilia's marriage, is also in Italy and becomes involved in the situation. She is torn between her sense of duty to the Herritons and her sympathy for Gino.
+
+The story reaches a climax when Harriet, in a fit of desperation, kidnaps the child. During their escape, the carriage overturns, and the baby dies in the accident. This tragedy forces the characters to confront the consequences of their actions and the complexities of love, duty, and cultural differences.
+
+Philip, who has been struggling with his own sense of purpose and morality, undergoes a transformation. He recognizes the futility of his previous actions and resolves to live a more meaningful life. Miss Abbott, who has also been changed by the events, decides to stay in Italy and help Gino rebuild his life.
+
+The novel ends with a sense of resolution and growth for the characters, as they come to terms with the past and look towards the future with a renewed sense of purpose and understanding. The story explores themes of cultural clash, the limitations of social conventions, and the redemptive power of love and self-awareness.

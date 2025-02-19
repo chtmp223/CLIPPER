@@ -1,0 +1,13 @@
+Adam Salton, a young man from Australia, receives an invitation from his grand-uncle, Richard Salton, to visit him in England and potentially make it his permanent home. Delighted by the prospect, Adam travels to Lesser Hill, where he is warmly welcomed by his grand-uncle and introduced to Sir Nathaniel de Salis, a family friend and local historian.
+
+The setting is the heart of the old kingdom of Mercia, a region rich in history and legend. Among the notable places is Diana's Grove, also known as "The Lair of the White Worm," a site with a dark past involving monstrous serpents. Another important location is Castra Regis, the ancestral home of the Caswall family, who have a reputation for being cold, dominant, and possibly connected to dark forces.
+
+Edgar Caswall, the current heir of Castra Regis, returns from Africa, bringing with him a sinister African servant named Oolanga. Caswall is a man of formidable presence, with a hypnotic gaze that unsettles those around him. Lady Arabella March, the mysterious and beautiful mistress of Diana's Grove, is also introduced. She is a woman with a dark reputation and a possible connection to the White Worm.
+
+Adam becomes acquainted with the Watford family, particularly Lilla and Mimi, two cousins who live at Mercy Farm. Lilla is fair and gentle, while Mimi, with her exotic looks, is fiercely protective of her cousin. Adam is immediately drawn to Mimi, and a bond forms between them.
+
+As Adam settles into his new life, strange occurrences begin to unfold. Oolanga, with his malevolent presence, seems to have a mysterious power, and Lady Arabella's behavior raises suspicions. Adam, along with Sir Nathaniel, starts to investigate the legends and the current events, suspecting that the White Worm, a monstrous creature from ancient times, might still be a threat.
+
+The story delves into themes of superstition, ancient evil, and the struggle between good and evil. Adam's quest to uncover the truth leads him to confront the possibility that Lady Arabella is connected to the White Worm. The narrative builds tension as Adam prepares to combat this ancient evil, using his knowledge and resources to protect those he cares about.
+
+Throughout the story, the characters navigate a world where the past and present intertwine, and where ancient legends may hold the key to understanding the dangers they face. As Adam and his allies delve deeper into the mystery, they uncover a web of intrigue and danger that threatens to consume them all. The climax of the story involves a battle against the monstrous forces at play, with Adam determined to destroy the White Worm and protect Mimi and the others from its malevolent influence.

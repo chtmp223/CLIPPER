@@ -1,0 +1,17 @@
+Miss Nitocris Marmion, the golden-haired, black-eyed daughter of Professor Franklin Marmion, stands beside a mummy recently received from Memphis. She muses on the mummy's resemblance to herself, while her father, a celebrated mathematician and physicist, is engrossed in a problem related to the Forty-seventh Proposition of Euclid. Their conversation touches on the possibilities of the fourth dimension and the mysteries of ancient Egypt.
+
+After Nitocris leaves, Professor Marmion experiences a strange vision, hearing a voice that seems to echo from the depths of his own soul. The voice, familiar yet distant, stirs memories of ancient tragedies and visions of vast cities and temples. He wonders if the mummy of Nitocris, a daughter of the Pharaohs, is somehow connected to these visions.
+
+The Professor is further unsettled by an encounter with two mysterious figures, Pent-Ah and Neb-Anat, who appear to be searching for the mummy. He uses his newfound powers to make himself invisible to them, realizing that he has crossed into a higher plane of existence where time and space are one. This revelation leads him to ponder the implications of his abilities and the responsibilities they entail.
+
+Meanwhile, Nitocris is caught in a dilemma of love and duty. She loves Commander Mark Merrill, a naval officer, but her father forbids their union due to his belief in the aristocracy of intellect and the purity of bloodlines. Despite her father's prohibition, Nitocris is determined to follow her heart, even as she grapples with the legacy of her past life as Queen Nitocris of Egypt.
+
+As events unfold, Professor Marmion's lecture on "An Examination of Some Supposed Mathematical Impossibilities" becomes a sensation. He demonstrates solutions to problems long deemed unsolvable, like trisecting the triangle and squaring the circle, baffling his audience, including his rival, Professor Hoskins van Huysman. The lecture sparks a storm of controversy and debate in the scientific community.
+
+Amidst these intellectual challenges, the political landscape is in turmoil. The mysterious disappearance of Prince Emil Rudolf von Zastrow, a potential Tsar of Russia, threatens to destabilize Europe. Professor Marmion, with his enhanced perception, becomes aware of a conspiracy involving Prince Oscar Oscarovitch, who has designs on Nitocris.
+
+Oscarovitch, a man of power and ambition, is captivated by Nitocris and seeks to make her his consort. He invites the Marmions aboard his yacht, the _Grashna_, under the pretense of a leisurely cruise, but with ulterior motives. Nitocris, aware of his intentions, plays along, planning to turn the tables on him.
+
+As the yacht sails, Oscarovitch attempts to seduce Nitocris with the Horus Stone, a gem of legendary power. Nitocris, however, is not swayed. She uses her own powers to ensure her safety and prepare for the confrontation with Oscarovitch.
+
+The narrative weaves together themes of love, power, and the eternal struggle between knowledge and ignorance. Nitocris and her father navigate the complexities of their dual existences, balancing the responsibilities of their newfound abilities with the demands of their mortal lives. The story culminates in a dramatic showdown that tests their resolve and the limits of their powers.

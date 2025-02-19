@@ -1,0 +1,17 @@
+In a world of intrigue and danger on the planet Barsoom, Thuvia of Ptarth finds herself at the center of a complex web of political machinations and personal vendettas. The tale begins in the royal gardens of Thuvan Dihn, Jeddak of Ptarth, where Thuvia is accosted by Astok, Prince of Dusar, who is driven by an obsessive and unrequited love for her. Astok's advances are rebuffed, leading to a confrontation with Carthoris of Helium, the son of the legendary John Carter, who intervenes to protect Thuvia.
+
+Despite Carthoris' heroism, misunderstandings and the machinations of Astok cast suspicion on him, leading to a series of events that see Thuvia abducted and Carthoris framed for her disappearance. Astok's plan is to sow discord among the great nations of Barsoom—Helium, Ptarth, and Kaol—by implicating Carthoris in Thuvia's kidnapping, hoping to weaken them and elevate Dusar's standing.
+
+As Carthoris sets out to clear his name and rescue Thuvia, he is unwittingly drawn into a labyrinthine plot involving betrayal and deception. His journey takes him across the vast Martian landscape, where he encounters various allies and enemies, including the mysterious and ancient city of Lothar. Here, he meets Jav, a Lotharian who reveals the city's strange ability to project imaginary armies that can fight as real soldiers, a power stemming from their belief in the supremacy of the mind over matter.
+
+In Lothar, Carthoris learns of the political and philosophical schisms that divide its people—between the realists, who believe in the physical world, and the etherealists, who deny its existence. This knowledge becomes crucial as Carthoris navigates the city's complex social structure to rescue Thuvia, who has been imprisoned by Tario, the jeddak of Lothar, who desires her for himself.
+
+Throughout the narrative, Thuvia's courage and resourcefulness shine. She uses her unique ability to control the great banths of Barsoom to her advantage, demonstrating her strength and independence. Her interactions with Carthoris reveal a growing bond, complicated by her betrothal to Kulan Tith, Jeddak of Kaol.
+
+As Carthoris and Thuvia attempt to escape Lothar, they are pursued by phantom bowmen—creations of the Lotharians' powerful minds. The couple must rely on their wits and the loyalty of newfound allies, including Kar Komak, a bowman from Lothar's ancient past who materializes to aid them.
+
+The climax of the story sees Carthoris and Thuvia caught in a battle between the real armies of Torquas and the imaginary forces of Lothar. In a desperate bid to survive, Carthoris challenges the Lotharian belief system, leading to a dramatic confrontation with Tario and his followers.
+
+Ultimately, the story explores themes of loyalty, love, and the power of belief. Carthoris' unwavering dedication to Thuvia, despite the political ramifications and personal danger, underscores the depth of his character and the strength of his convictions. Thuvia's journey from a pawn in a political game to a self-determined woman highlights her resilience and agency.
+
+As the tale concludes, the political tensions among the great nations of Barsoom are resolved, and Thuvia's true feelings for Carthoris are revealed, setting the stage for a new alliance that promises peace and prosperity for their world.

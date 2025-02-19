@@ -1,0 +1,17 @@
+In a quaint and somewhat neglected garden, Penelope Carroll watches butterflies, oblivious to the untidiness around her. Her family, the Carrolls, once lived a life of luxury, but financial difficulties have reduced them to a modest existence. Penelope, nearly twelve, is one of four sisters; Esther, the eldest, is burdened with the family's struggles, Angela is gentle and nurturing, and Poppy, the youngest, is lively and imaginative.
+
+Esther recalls the family's decline from wealth, marked by the loss of their home, servants, and comforts. Their father, Mr. Carroll, now lives in Canada, trying to establish a new life, while their mother, Mrs. Carroll, stays behind, preoccupied and somewhat detached from the children's day-to-day lives. The children adapt to their reduced circumstances, with Esther taking on a maternal role, managing household tasks and caring for her younger siblings.
+
+The family eventually moves to the village of Framley, where they find some solace in the surrounding woods and countryside. However, financial constraints continue to press upon them, and Mr. Carroll's letters from Canada bring little hope of improvement. Despite the challenges, the sisters find joy in small pleasures and maintain a close bond.
+
+One day, a letter arrives, altering their lives significantly. Mrs. Carroll is summoned to join her husband in Canada, leaving the children to live with their Aunt Julia, a prospect they dread due to her strictness. However, their mother receives a more favorable offer from Cousin Charlotte Ashe, who invites the children to live with her in Dorsham, a village in Devonshire.
+
+The children travel to Dorsham, filled with apprehension about their new life. Upon arrival, they are warmly welcomed by Cousin Charlotte, a kind and gentle woman who lives in a cozy cottage on the moor. The children are enchanted by the wild beauty of the moor and the warmth of their new home.
+
+Cousin Charlotte, a retired schoolmistress, plans to educate the children herself, as there is no suitable school nearby. Esther, eager to help, offers to assist Anna, the housekeeper, with household chores to alleviate the need for an additional servant. Despite her initial nervousness, Esther finds satisfaction in contributing to the household.
+
+Penelope, who dreams of learning music, is sent on an errand to Miss Row, a friend of Cousin Charlotte's. Although initially intimidated by Miss Row's stern demeanor, Penelope's charm wins her over, and she receives a bouquet of flowers as a parting gift. This encounter sparks Penelope's hope of learning to play the organ someday.
+
+The children gradually settle into their new life, exploring the moor and forming bonds with the villagers. Poppy, with her entrepreneurial spirit, plants parsley seeds in the hope of selling the produce to help Cousin Charlotte financially. Esther, too, is determined to find ways to support their kind benefactor.
+
+As the children adapt to their new environment, they learn the value of hard work, kindness, and the importance of supporting one another. Cousin Charlotte's home becomes a haven where they blossom, each finding their own path and purpose. Through their experiences, they grow in understanding and character, embracing the challenges and joys of their new life on the moor.
