@@ -93,8 +93,8 @@ def extraction(story, story_id):
 
 def wp(num_desired_claims):
     # I/O path
-    input_path = f"../../data/wp.csv"
-    output_path = f"../../data/wp_claims.csv"
+    input_path = f"../../data/wp/wp.csv"
+    output_path = f"../../data/wp/wp_claims.csv"
     df_input = pd.read_csv(input_path)
 
     # If the output file does not exist or is empty, create it with headers
@@ -110,8 +110,8 @@ def wp(num_desired_claims):
         output_dfs = output_dfs.drop_duplicates(subset=['facts']).reset_index(drop=True)
         output_dfs = output_dfs.drop_duplicates(subset=['corrupted_facts']).reset_index(drop=True)
         output_dfs = output_dfs[~(output_dfs['duplication']=="Duplicate")].reset_index(drop=True)
-        if len(output_dfs) >= 10000:
-            print("Reached 10000 claims. Stopping extraction.")
+        if len(output_dfs) >= num_desired_claims:
+            print(f"Reached {num_desired_claims} claims. Stopping extraction.")
             return
     
     # Continue processing from the most recent ID if the file is not empty
@@ -123,7 +123,7 @@ def wp(num_desired_claims):
     stories = df_input["text"].tolist()
     story_ids = df_input["id"].tolist()
 
-    for i, story in enumerate(tqdm(stories), description="Extracting claims from stories"):
+    for i, story in enumerate(tqdm(stories)):
         output_dfs = output_dfs.drop_duplicates(subset=['facts']).reset_index(drop=True)
         output_dfs = output_dfs.drop_duplicates(subset=['corrupted_facts']).reset_index(drop=True)
         output_dfs = output_dfs[~(output_dfs['duplication']=="Duplicate")].reset_index(drop=True)
@@ -151,7 +151,8 @@ def wp(num_desired_claims):
                 'max_tokens': 4096, 
                 'top_p': 1.0
             },
-            system_message="You are an expert at identifying duplicate claims."
+            system_message="You are an expert at identifying duplicate claims.", 
+            project_id=""       #TODO
         )
 
         # If no meaningful duplicate info is returned

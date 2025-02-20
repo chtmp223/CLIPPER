@@ -145,9 +145,9 @@ def single(outlines, existing_df, book_name):
     '''
     Extracting claims from a single chapter in the story
     '''
-    summary = open(f"../../data/books/output/{book_name}/summary.md", "r").read()
+    summary = open(f"../../data/output/{book_name}/summary.md", "r").read()
     existing_facts_list = existing_df["facts"].apply(lambda x: x.strip()).tolist()
-    p = open("../../prompts/extraction_corruption_single.md", "r").read()
+    p = open("../../prompts/extraction_single.md", "r").read()
 
     claim_text, claim_exp, source, brainstorms = [], [], [], []
     corrupted, corrupted_reasoning = [], []
@@ -195,18 +195,18 @@ def single(outlines, existing_df, book_name):
 
 
 def extraction_main(book_name, iteration, gen_type): 
-    outlines = open(f"../../data/books/output/{book_name}/outline.md", "r").read().split("\n----------------\n")
+    outlines = open(f"../../data/output/{book_name}/outline.md", "r").read().split("\n----------------\n")
 
     if gen_type.lower().strip() in ['multiple', 'both']:
-        os.makedirs(f"../../data/books/output/{book_name}/claims", exist_ok=True)
+        os.makedirs(f"../../data/output/{book_name}/claims", exist_ok=True)
         df = multiple_init(outlines)
-        df.to_csv(f"../../data/books/output/{book_name}/claims/claims_multiple_raw.csv", index=False)   
+        df.to_csv(f"../../data/output/{book_name}/claims/claims_multiple_raw.csv", index=False)   
         cont_df = multiple_cont(df, outlines, times=int(iteration)) 
-        cont_df.to_csv(f"../../data/books/output/{book_name}/claims/claims_multiple_raw.csv", index=False)        
+        cont_df.to_csv(f"../../data/output/{book_name}/claims/claims_multiple_raw.csv", index=False)        
     if gen_type.lower().strip() in ['single', 'both']:
-        cont_df = pd.read_csv(f"../../data/books/output/{book_name}/claims/claims_multiple_raw.csv")
+        cont_df = pd.read_csv(f"../../data/output/{book_name}/claims/claims_multiple_raw.csv")
         single_df = single(outlines, cont_df, book_name)
-        single_df.to_csv(f"../../data/books/output/{book_name}/claims/claims_single_raw.csv", index=False)
+        single_df.to_csv(f"../../data/output/{book_name}/claims/claims_single_raw.csv", index=False)
 
 if __name__ == "__main__": 
     parser = argparse.ArgumentParser()

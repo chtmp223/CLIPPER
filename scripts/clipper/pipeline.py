@@ -15,13 +15,13 @@ def format_data(row):
     '''
     Format the data into the format for the fine-tuning task
     '''
-    prompt = open("../prompts/claim_extraction/evaluation.md", "r").read()
+    prompt = open("../../prompts/eval.md", "r").read()
     book = row['book_name']
     assert len(row['facts'].strip()) > 0, "Empty facts"
     assert len(row['corrupted_facts'].strip()) > 0, "Empty corrupted facts"
     
-    if book in os.listdir("../data/books/"): 
-        texts = [open(f"../data/books/{book}/" + f, 'r').read() for f in os.listdir(f"../data/books/{book}/") if f.endswith(".txt")]
+    if book in os.listdir("../../data/books/"): 
+        texts = [open(f"../../data/books/{book}/" + f, 'r').read() for f in os.listdir(f"../../data/books/{book}/") if f.endswith(".txt")]
 
     book_texts = "\n\n\n\n".join(texts)
     prompt = prompt.replace("{book_text}", book_texts)
@@ -97,19 +97,21 @@ def process_text(text):
         return text
 
 
-df = pd.read_csv("../../data/books/metadata/gutenberg.csv")
-book_names = df.book_name.tolist()
-print("Number of books in both heldout sets:", len(set(book_names)))
+df = pd.read_csv("../../data/books/gutenberg.csv")
+book_names = [df.book_name.tolist()[0]]
+print("Number of books to be processed:", len(set(book_names)))
 
 claims_df = []
 for i, book in tqdm(enumerate(book_names)):
     if str(book) not in os.listdir("../../data/books/"):  
         print(f"Book {book} not found in input directory. Skipping...")
         continue
-    os.makedirs(f"../../data/books/output/{book}/", exist_ok=True)
-    os.makedirs(f"../../data/books/output/{book}/claims", exist_ok=True)
+    os.makedirs(f"../../data/output/{book}/", exist_ok=True)
+    os.makedirs(f"../../data/output/{book}/claims", exist_ok=True)
     
-    claims_path = f"../../data/books/output/{book}/claims/"
+    claims_path = f"../../data/output/{book}/claims/"
+    outline_gen_main(book)   
+    sys.exit()
     if os.path.exists(claims_path):
         if "claims_multiple.csv" in os.listdir(claims_path) and "claims_single.csv" in os.listdir(claims_path):
             print(f"Claims already extracted for {book}. Skipping...")
@@ -117,32 +119,35 @@ for i, book in tqdm(enumerate(book_names)):
 
     print(f"=== Processing book {book} ({i+1}/{len(book_names)}) ===")
     try: 
-        if "outline.md" not in os.listdir(f"../../data/books/output/{book}"): 
+        if "outline.md" not in os.listdir(f"../../data/output/{book}"): 
             print("Generating outlines")
             outline_gen_main(book)     
-        if "claims_multiple.csv" not in os.listdir(f"../../data/books/output/{book}/claims/"):
+        if "claims_multiple.csv" not in os.listdir(f"../../data/output/{book}/claims/"):
             print("Generating multiple claims")
-            extraction_main(book, 10, "multiple")
+            if "claim_multiple_raw.csv" not in os.listdir(f"../../data/output/{book}/claims/"):
+                extraction_main(book, 10, "multiple")
             post_processing_main(book, "multiple", "all")  
-        if "claims_single.csv" not in os.listdir(f"../../data/books/output/{book}/claims/"):
+        if "claims_single.csv" not in os.listdir(f"../../data/output/{book}/claims/"):
             print("Generating single claims")
-            extraction_main(book, 10, "single")
+            if "claim_single_raw.csv" not in os.listdir(f"../../data/output/{book}/claims/"):
+                extraction_main(book, 10, "single")
             post_processing_main(book, "single", "all")   
     except: 
         traceback.print_exc()
         print(f"Error processing book {book}. Skipping...")
         continue
 
+for i, book in tqdm(enumerate(book_names)):
     # Combine all claims into a single dataframe
-    if "claims_multiple.csv" not in os.listdir(f"../../data/books/output/{book}/claims/"):
+    if "claims_multiple.csv" not in os.listdir(f"../../data/output/{book}/claims/"):
         print(f"Multiple claims not found for {book}. Skipping...")
         continue
-    claims_multiple = pd.read_csv(f"../../data/books/output/{book}/claims/claims_multiple.csv")
+    claims_multiple = pd.read_csv(f"../../data/output/{book}/claims/claims_multiple.csv")
     claims_multiple['claim_type'] = "multiple"
-    if "claims_single.csv" not in os.listdir(f"../../data/books/output/{book}/claims/"):
+    if "claims_single.csv" not in os.listdir(f"../../data/output/{book}/claims/"):
         print(f"Single claims not found for {book}. Skipping...")
         continue
-    claims_single = pd.read_csv(f"../../data/books/output/{book}/claims/claims_single.csv")
+    claims_single = pd.read_csv(f"../../data/output/{book}/claims/claims_single.csv")
     claims_single['claim_type'] = "single"
     claims = pd.concat([claims_multiple, claims_single])
     claims['book_name'] = book

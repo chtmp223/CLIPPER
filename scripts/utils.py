@@ -26,12 +26,12 @@ import numpy as np
 import pandas as pd
 
 # ---* Prompting API *----
+client = OpenAI(api_key=os.environ['OPENAI_API_KEY'], 
+                organization=os.environ['OPENAI_API_ORG'])
 def prompt_openai(prompt, verbose=False, metadata={"model": "gpt-4o-2024-08-06", "temp": 1.0,"top_p": 1.0,"max_tokens": 4095}, system_message="You are a helpful assistant."):
     '''
     Given a prompt and metadata, return the completion from OpenAI's API.
     '''
-    client = OpenAI(api_key=os.environ['OPENAI_API_KEY'], 
-                organization=os.environ['OPENAI_API_ORG'])
     completion = client.chat.completions.create(
         model=metadata['model'],
         messages=[
@@ -49,7 +49,7 @@ def prompt_openai(prompt, verbose=False, metadata={"model": "gpt-4o-2024-08-06",
     return (completion.choices[0].message.content)
 
 
-def prompt_claude(prompt, verbose=True, metadata={"model": "claude-3-5-sonnet@20240620", "temp": 1.0, "max_tokens": 4095}, system_message="You are a helpful assistant.", project_id=""): 
+def prompt_claude(prompt, verbose=True, metadata={"model": "claude-3-5-sonnet@20240620", "temp": 1.0, "max_tokens": 4095}, system_message="You are a helpful assistant.", project_id=os.environ['VERTEX_PROJECT_ID']): 
     """
     Prompt Claude with VertexAI API
     - prompt: The prompt to be sent to the model
@@ -135,47 +135,40 @@ def format_batch_openai(prompts, input_fpath, output_fpath, metadata={"model": "
     return df
 
 def count_tiktoken(messages, model):
-    """Return the number of tokens used by a list of messages (from OpenAI cookbook)"""
+    """Return the number of tokens used by a list of messages."""
     try:
         encoding = tiktoken.encoding_for_model(model)
     except KeyError:
         print("Warning: model not found. Using o200k_base encoding.")
         encoding = tiktoken.get_encoding("o200k_base")
     if model in {
-        "gpt-3.5-turbo-0125",
+        "gpt-3.5-turbo-0613",
+        "gpt-3.5-turbo-16k-0613",
         "gpt-4-0314",
         "gpt-4-32k-0314",
         "gpt-4-0613",
         "gpt-4-32k-0613",
-        "gpt-4o-mini-2024-07-18",
-        "gpt-4o-2024-08-06"
+        "gpt-4o-2024-08-06", 
+        "claude", 
+        "claude-3-5-sonnet@20240620",
         }:
         tokens_per_message = 3
         tokens_per_name = 1
+    elif model == "gpt-3.5-turbo-0301":
+        tokens_per_message = 4  # every message follows <|start|>{role/name}\n{content}<|end|>\n
+        tokens_per_name = -1  # if there's a name, the role is omitted
     elif "gpt-3.5-turbo" in model:
-        print("Warning: gpt-3.5-turbo may update over time. Returning num tokens assuming gpt-3.5-turbo-0125.")
-        return count_tiktoken(messages, model="gpt-3.5-turbo-0125")
-    elif "gpt-4o-mini" in model:
-        print("Warning: gpt-4o-mini may update over time. Returning num tokens assuming gpt-4o-mini-2024-07-18.")
-        return count_tiktoken(messages, model="gpt-4o-mini-2024-07-18")
-    elif "gpt-4o" in model:
-        print("Warning: gpt-4o and gpt-4o-mini may update over time. Returning num tokens assuming gpt-4o-2024-08-06.")
-        return count_tiktoken(messages, model="gpt-4o-2024-08-06")
+        print("Warning: gpt-3.5-turbo may update over time. Returning num tokens assuming gpt-3.5-turbo-0613.")
+        return count_tiktoken(messages, model="gpt-3.5-turbo-0613")
     elif "gpt-4" in model:
-        print("Warning: gpt-4 may update over time. Returning num tokens assuming gpt-4-0613.")
-        return count_tiktoken(messages, model="gpt-4-0613")
+        print("Warning: gpt-4 may update over time. Returning num tokens assuming gpt-4o.")
+        return count_tiktoken(messages, model="gpt-4o-2024-08-06")
     else:
         raise NotImplementedError(
             f"""num_tokens_from_messages() is not implemented for model {model}."""
         )
-    num_tokens = 0
-    for message in messages:
-        num_tokens += tokens_per_message
-        for key, value in message.items():
-            num_tokens += len(encoding.encode(value))
-            if key == "name":
-                num_tokens += tokens_per_name
-    num_tokens += 3  # every reply is primed with <|start|>assistant<|message|>
+    num_tokens = tokens_per_message +  len(encoding.encode(messages))
+    num_tokens += 3  
     return num_tokens
 
 

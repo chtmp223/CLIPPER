@@ -1,6 +1,6 @@
 # ✂️ CLIPPER: Compression enables long-context synthetic data generation
 
-[![arXiV](https://img.shields.io/badge/arxiv-link-red)](https://arxiv.org/abs/2406.19371) [![Website](https://img.shields.io/badge/website-link-purple)](https://chtmp223.github.io/CLIPPER/) [![Dataset](https://img.shields.io/badge/dataset-huggingface-yellow)](https://huggingface.co/datasets/chtmp223/CLIPPER) [![Models](https://img.shields.io/badge/models-huggingface-green)](https://huggingface.co/collections/chtmp223/clipper-67b60b1edbfa3407b571a827) 
+[![arXiV](https://img.shields.io/badge/arxiv-link-red)](https://arxiv.org/abs/2406.19371) [![Dataset](https://img.shields.io/badge/dataset-huggingface-yellow)](https://huggingface.co/datasets/chtmp223/CLIPPER) [![Models](https://img.shields.io/badge/models-huggingface-green)](https://huggingface.co/collections/chtmp223/clipper-67b60b1edbfa3407b571a827) 
 
 This repository hosts the code for our paper, [CLIPPER: Compression enables long-context synthetic data generation](). 
 
@@ -49,10 +49,12 @@ This repository hosts the code for our paper, [CLIPPER: Compression enables long
 - `data` contains all books as well as output chapter outlines and summaries used in the paper.
     - `books` contains all books used in the paper. Each subdirectory contains the segmented chapters of a book. The corresponding full book is also available in the `books` directory. 
         - `gutenberg.csv` contains the metadata for the Gutenberg books used in the paper. 
+        - New books should be cleaned and chapterized. 
     - `outputs` contains all output chapter outlines and summaries used in the paper. Each subdirectory contains the output for a book, including claims, summaries, and chapter outlines. 
     - `wp` contains the writingprompt raw data (cleaned) and the corresponding generated claims. 
-- `scripts` contains code to fine-tune the models using I-ORPO or SFT: 
-    - `inference.py` contains code to do inference with the fine-tuned models on the test set. 
+- `scripts` contains code to construct data with CLIPPER: 
+    - `eval/inference.py` contains code to do inference with the fine-tuned models on the test set. 
+    - `pipeline_*.sh` are bash scripts that run the entire data construction pipeline.
 - `prompts` contains all prompts used in the paper. 
 
 

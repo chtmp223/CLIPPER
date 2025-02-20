@@ -26,7 +26,7 @@ def batch_summary():
     '''
     Batch generate summaries for all books
     '''
-    book_df = pd.read_csv("../../data/metadata/gutenberg.csv")
+    book_df = pd.read_csv("../../data/books/gutenberg.csv")
     books = book_df.book_name.tolist()
     if "summary" in book_df.columns and type(book_df["summary"].tolist()[0]) == str:
         book_existing = book_df[(book_df["summary"].str.len() > 0)| (book_df['num_tokens'] > 128000)]
@@ -35,7 +35,7 @@ def batch_summary():
 
     summary_prompt = open(f"../../prompts/summary.md", "r").read()
     summary_prompts, book_texts, book_names = [], [], []
-    for book in tqdm(books, description="Preparing books for summary generation"): 
+    for book in tqdm(books): 
         if book in book_existing.book_name.tolist():  
             continue
         book_chapter = [f"## Chapter {i+1}\n" + open(f"../../data/books/{book}/{f}", 'r').read() for i, f in enumerate(os.listdir(f"../../data/books/{book}"))]
@@ -61,24 +61,23 @@ def batch_summary():
 def main(): 
     parser = argparse.ArgumentParser(description='Summarize a book')
     parser.add_argument('--book_name', type=str, help='Name of the book to summarize (if not using batch)', required=False)
-    parser.add_argument('--batch', type=str, help='Batch generate summaries for all books (batch or nope)', default='batch')
+    parser.add_argument('--batch', type=str, help='Batch generate summaries for all books (batch or nope)', default='nope')
     args = parser.parse_args()
 
     if args.book_name is None:
-        df = pd.read_csv("../../data/books/metadata/gutenberg.csv")
+        df = pd.read_csv("../../data/books/gutenberg.csv")
         books = df.book_name.tolist()
     else: 
         books = [args.book_name]
 
     if args.batch.lower().strip() == "nope":
         for book_name in tqdm(books): 
-            if args.summary_type == "summary": 
-                summary = get_summary(book_name)
-                with open(f"../../data/output/{book_name}/summary.md", "w") as f: 
-                    f.write(summary)
+            summary = get_summary(book_name)
+            with open(f"../../data/output/{book_name}/summary.md", "w") as f: 
+                f.write(summary)
     else:   #batch summary
         df = batch_summary()
-        df.to_csv("../../data/books/metadata/gutenberg.csv", index=False)
+        df.to_csv("../../data/books/gutenberg.csv", index=False)
 
         for i, row in df.iterrows(): 
             if not os.path.exists(f"../../data/output/{row['book_name']}"):
