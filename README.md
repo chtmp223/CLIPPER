@@ -1,8 +1,8 @@
 # ✂️ CLIPPER: Compression enables long-context synthetic data generation
 
-[![arXiV](https://img.shields.io/badge/arxiv-link-red)](https://arxiv.org/abs/2406.19371) [![Dataset](https://img.shields.io/badge/dataset-huggingface-yellow)](https://huggingface.co/datasets/chtmp223/CLIPPER) [![Models](https://img.shields.io/badge/models-huggingface-green)](https://huggingface.co/collections/chtmp223/clipper-67b60b1edbfa3407b571a827) 
+[![arXiV](https://img.shields.io/badge/arxiv-link-red)](https://arxiv.org/abs/2502.14854) [![Dataset](https://img.shields.io/badge/dataset-huggingface-yellow)](https://huggingface.co/datasets/chtmp223/CLIPPER) [![Models](https://img.shields.io/badge/models-huggingface-green)](https://huggingface.co/collections/chtmp223/clipper-67b60b1edbfa3407b571a827) 
 
-This repository hosts the code for our paper, [CLIPPER: Compression enables long-context synthetic data generation](). 
+This repository hosts the code for our paper, [CLIPPER: Compression enables long-context synthetic data generation](https://arxiv.org/abs/2502.14854). 
 
 ![Pipeline Overview](assets/img/pipeline.jpg)
 
@@ -74,5 +74,13 @@ This repository hosts the code for our paper, [CLIPPER: Compression enables long
 
 ## 📜 Citation
 ```
-
+@misc{pham2025clippercompressionenableslongcontext,
+      title={CLIPPER: Compression enables long-context synthetic data generation}, 
+      author={Chau Minh Pham and Yapei Chang and Mohit Iyyer},
+      year={2025},
+      eprint={2502.14854},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.14854}, 
+}
 ```
