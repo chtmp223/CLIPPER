@@ -43,7 +43,7 @@ def vllm_eval(
         llm = LLM(model=model_dir, max_model_len=131072)
 
     try:
-        tokenizer = llm.get_tokenizer
+        tokenizer = llm.get_tokenizer()
         print("Tokenizer:", tokenizer.chat_template)
     except:
         tokenizer = AutoTokenizer.from_pretrained(model_dir)
